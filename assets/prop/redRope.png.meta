@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "08ac731e-8480-440b-8dd8-4bba619452c7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 17,
+  "height": 257,
+  "platformSettings": {},
+  "subMetas": {
+    "redRope": {
+      "ver": "1.0.4",
+      "uuid": "09ed8bf1-dfa0-474f-afa1-24fc8bd3816a",
+      "rawTextureUuid": "08ac731e-8480-440b-8dd8-4bba619452c7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 17,
+      "height": 257,
+      "rawWidth": 17,
+      "rawHeight": 257,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

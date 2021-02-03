@@ -1,0 +1,19 @@
+{
+  "package": "com.hx.heroadventure.vivominigame",
+  "name": "气球英雄大冒险",
+  "icon": "F:\\qqyxdmx1\\qqyxdmxYJWvivo\\icon\\vivo\\256.png",
+  "versionName": "1.0.2",
+  "versionCode": "2",
+  "minPlatformVersion": "1056",
+  "deviceOrientation": "landscape",
+  "logLevel": "log",
+  "npmPath": "",
+  "tinyPackageMode": false,
+  "tinyPackageServer": "",
+  "useDebugKey": false,
+  "privatePath": "F:\\qqyxdmx1\\qqyxdmxYJWb\\sign\\private.pem",
+  "certificatePath": "F:\\qqyxdmx1\\qqyxdmxYJWb\\sign\\certificate.pem",
+  "disabledMode": "",
+  "showNpmPath": true,
+  "packFirstScreenRes": true
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "b5e78adc-78f6-4c8a-9cd3-8837643b8dba",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2000,
+  "height": 720,
+  "platformSettings": {},
+  "subMetas": {
+    "石壁new": {
+      "ver": "1.0.4",
+      "uuid": "3d8e6108-801f-4d21-bf84-2437619a7e12",
+      "rawTextureUuid": "b5e78adc-78f6-4c8a-9cd3-8837643b8dba",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2000,
+      "height": 720,
+      "rawWidth": 2000,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

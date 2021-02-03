@@ -1,0 +1,1 @@
+{"package":"com.hx.heroadventure.vivominigame","name":"气球英雄大冒险","icon":"/image/256.png","versionName":"1.0.9","versionCode":"9","minPlatformVersion":"1056","deviceOrientation":"landscape","type":"game","config":{"logLevel":"log"},"display":{},"subpackages":[{"name":"UI","root":"UI/"},{"name":"prop","root":"prop/"}]}

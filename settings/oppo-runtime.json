@@ -1,0 +1,19 @@
+{
+  "package": "com.hx.game.heroadventure.kyx.nearme.gamecenter",
+  "name": "气球英雄大冒险",
+  "icon": "F:\\qqyxdmx1\\qqyxdmxYJWb\\icon\\256.png",
+  "versionName": "1.0.2",
+  "versionCode": "2",
+  "minPlatformVersion": "1050",
+  "deviceOrientation": "portrait",
+  "logLevel": "log",
+  "tinyPackageMode": false,
+  "tinyPackageServer": "",
+  "useDebugKey": false,
+  "privatePath": "F:\\qqyxdmx1\\qqyxdmxYJWb\\sign\\private.pem",
+  "certificatePath": "F:\\qqyxdmx1\\qqyxdmxYJWb\\sign\\certificate.pem",
+  "disabledMode": "",
+  "npmPath": "",
+  "showNpmPath": false,
+  "packFirstScreenRes": false
+}
