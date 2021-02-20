@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "luPingBeginB",
+    "texture": "7442674b-d8ed-433a-a20b-0e4aa53f6164",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      84,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      84
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

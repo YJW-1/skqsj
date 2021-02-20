@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nativeEmbedAdTop",
+    "texture": "6e5630f1-8398-4775-970b-314bfe253b2e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      89,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

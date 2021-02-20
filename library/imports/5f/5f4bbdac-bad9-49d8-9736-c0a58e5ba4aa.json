@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pause_box_board",
+    "texture": "a1b2ed0e-77a6-4aa3-bd82-3e487b9917a9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      398,
+      194
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      398,
+      194
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

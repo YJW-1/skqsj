@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shop_btn_balloon_select",
+    "texture": "46caa7fe-7690-418e-a4d0-66f4cf7a05f2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      224,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      224,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

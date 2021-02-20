@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shop_tag_puton",
+    "texture": "de7e093f-8406-47d6-808a-69212c6b9c04",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      170,
+      93
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      170,
+      93
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

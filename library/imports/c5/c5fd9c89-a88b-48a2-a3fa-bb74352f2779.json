@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_halo_bigbee",
+    "texture": "baea4c7c-dab8-4494-8302-31c59738a004",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      399,
+      404
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      399,
+      404
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "common_text_fraction",
+    "texture": "87de49e0-e057-4653-b205-e34f8eda3117",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      26,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      26,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lottery_icon_man",
+    "texture": "5ed94cd5-aec0-4f3b-8cc5-3641e1b4b2c3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      233,
+      439
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      233,
+      439
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

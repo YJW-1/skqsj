@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "share_pause",
+    "texture": "87ff3513-256a-4ecd-b649-13106ef57aaf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      107,
+      107
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      107,
+      107
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

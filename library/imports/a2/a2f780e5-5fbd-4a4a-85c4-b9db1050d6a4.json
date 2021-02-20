@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lottery_light_on_singleyellow",
+    "texture": "5f4126fa-65f2-47ea-9bf0-bc5f5c8525c7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      45,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      45,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

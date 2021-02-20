@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chack_bg",
+    "texture": "a2def511-ab69-4f2e-a5e8-ac3ae81ae11e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      604,
+      377
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      604,
+      377
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

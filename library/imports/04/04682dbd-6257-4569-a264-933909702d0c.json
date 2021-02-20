@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shop_btn_clothes_select",
+    "texture": "0a714f93-3672-4f16-a79c-d8775d1bbeb1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      224,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      224,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

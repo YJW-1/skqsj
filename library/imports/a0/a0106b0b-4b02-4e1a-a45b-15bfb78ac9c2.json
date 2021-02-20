@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lottery_light_off_white",
+    "texture": "f7b0641e-a6d7-427e-a538-a2e7b42a6cb0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      903,
+      280
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      903,
+      280
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

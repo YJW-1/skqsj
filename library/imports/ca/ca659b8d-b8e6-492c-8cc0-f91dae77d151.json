@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "money_back",
+    "texture": "30bfec29-84c0-4e06-95c0-5a69824d351c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      34,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      34,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

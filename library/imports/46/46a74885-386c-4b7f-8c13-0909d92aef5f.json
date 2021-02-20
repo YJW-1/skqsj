@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_btn_endless",
+    "texture": "ed2a65ed-81e2-4e85-8df7-3dfaddfed8c6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      432,
+      122
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      432,
+      122
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

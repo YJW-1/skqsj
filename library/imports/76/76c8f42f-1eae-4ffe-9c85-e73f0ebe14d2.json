@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Dropwater01",
+    "texture": "802e2768-f949-48dc-9625-a1f3aaa0a70d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      171,
+      143
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      171,
+      143
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

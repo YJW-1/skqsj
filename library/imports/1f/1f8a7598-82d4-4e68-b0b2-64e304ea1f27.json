@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tiXian_jindu1",
+    "texture": "101153db-3cb0-438e-b9b6-778b3d5b14f8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      285,
+      13
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      285,
+      13
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

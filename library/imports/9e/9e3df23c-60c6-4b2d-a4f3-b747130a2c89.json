@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_desk",
+    "texture": "397a7828-c259-4488-a175-d46afaafe92e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      327,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      327,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

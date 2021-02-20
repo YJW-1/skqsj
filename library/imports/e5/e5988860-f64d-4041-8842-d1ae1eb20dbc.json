@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tiXian_noOver",
+    "texture": "7cc03523-c0bb-47b4-a963-acff06f8e0be",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      122,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      122,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

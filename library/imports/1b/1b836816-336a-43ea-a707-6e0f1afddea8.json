@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "over_box_btn_ad",
+    "texture": "b935d4c7-70c0-444d-8214-1d1ff4841bff",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      215,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      215,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "honeybee",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.35,
+  "sample": 60,
+  "speed": 2,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "973a9a57-2aa9-44df-8004-9941d6f2241e"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "491018b4-44a1-4dee-8ab4-2b14fd2149d2"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "491018b4-44a1-4dee-8ab4-2b14fd2149d2"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "7a1499c7-8534-4fd1-84bb-27a000d797a9"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "9b685496-a32d-4896-8773-12519d8b2444"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "1adf85fa-4d1a-4fc2-8ca2-a4666753947b"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redRope",
+    "texture": "08ac731e-8480-440b-8dd8-4bba619452c7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      17,
+      257
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      17,
+      257
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

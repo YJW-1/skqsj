@@ -16,6 +16,7 @@ export default class GameMgr {
     }
 
 
+    isDelay: boolean = false;
     private _gameCtr: GameCtr = null;
 
     public audioBg: boolean = true;

@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "laserEffect2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.08333333333333333,
+  "sample": 60,
+  "speed": 0.15,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "1129d683-bcf3-42fe-a7c7-6eedcb65e62e"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "0777b6cc-8d8f-4f71-ae50-85c82ca4dc34"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "1bd3d3c0-dfcb-4864-93d2-98e5a6686e5a"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "dc314766-dcc8-47f7-9430-778f95cdcb09"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "3d67c2c4-bcc1-497e-8549-2e4cde4b6502"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

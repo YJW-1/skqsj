@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cage_door",
+    "texture": "82433ab5-99ea-4648-a151-d6cf0669b261",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      68,
+      446
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      446
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

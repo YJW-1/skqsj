@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ani_cowboy_tex",
+    "texture": "fd72910c-4e10-4cd9-9958-2ff037f162e4",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      508,
+      825
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      511,
+      828
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

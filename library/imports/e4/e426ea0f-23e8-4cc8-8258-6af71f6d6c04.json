@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gift_icon_halo",
+    "texture": "5ff8d1ee-75d9-47a7-bb84-f603534bc188",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      591,
+      574
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      591,
+      574
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

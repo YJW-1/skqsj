@@ -131,6 +131,9 @@ export default class UiHome extends UIPage {
 
     protected onOpen() {
         // cocosz.uiMgr.openPanel(PanelName.UiBeforeSucceed);
+
+        cocosz.dataMgr.CoinCount = 99999;
+
         cocosz.dataMgr.IsEnd = null;
         if (cocosz.dataMgr.AudioOn) {
             cocosz.audioMgr.playGameMusic();
@@ -138,6 +141,10 @@ export default class UiHome extends UIPage {
         cc.director.getScheduler().enableForTarget(this);
 
 
+        let node = this._BtnSign.getChildByName("home_animation_light")
+        cc.tween(node)
+            .repeatForever(cc.tween().by(5, { angle: 360 }))
+            .start();
 
 
         // if (cc.sys.platform === cc.sys.WECHAT_GAME) {
@@ -190,7 +197,7 @@ export default class UiHome extends UIPage {
         //     }
         // }
 
-        cocosz.gameMgr.tweeBtn(this._BtnStart, 1.05, 1.0);
+        cocosz.gameMgr.tweeBtn(this._BtnStart, 0.9, 0.85);
         // let b = cc.repeatForever(cc.sequence(cc.delayTime(5), cc.repeat(cc.sequence(cc.rotateTo(0.1, 10), cc.rotateTo(0.1, -10)), 3), cc.rotateTo(0.1, 0)));
         // this._BtnShop.runAction(b);
 
@@ -680,7 +687,7 @@ export default class UiHome extends UIPage {
         cocosz.audioMgr.playbtnEffect();
         let curDate = new Date();
         if (cocosz.dataMgr.LastBonusTime == curDate.toDateString()) {
-            Msg.Show("明日上线可领取关卡跳过卡*5")
+            Msg.Show("明日上线可领取金币*500")
             return;
         }
         cocosz.uiMgr.openPanel(PanelName.UiSign);

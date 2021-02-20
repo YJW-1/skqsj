@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lottery_icon_balloon_1",
+    "texture": "c5c39816-f52b-4107-abd0-2fa231d679f2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      161,
+      162
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      161,
+      162
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

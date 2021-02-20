@@ -17,12 +17,12 @@ export default class LevelPanel extends UIPage {
     private ScaleNode: cc.Node = null;
     private BtnVideo: cc.Node = null;
     private node: cc.Node = null;
-    private role: cc.Node = null;
-    private bee: cc.Node = null;
-    private bee2: cc.Node = null;
-    private bee3: cc.Node = null;
+    // private role: cc.Node = null;
+    // private bee: cc.Node = null;
+    // private bee2: cc.Node = null;
+    // private bee3: cc.Node = null;
 
-    private dragon: dragonBones.ArmatureDisplay = null;
+    // private dragon: dragonBones.ArmatureDisplay = null;
     private PageView: cc.PageView = null;
 
     constructor() {
@@ -48,11 +48,11 @@ export default class LevelPanel extends UIPage {
         this.content = cc.find("Canvas/ui/LevelPanel/ScaleNode/PageView/view/content");
         this.ScaleNode = cc.find("Canvas/ui/LevelPanel/ScaleNode");
 
-        this.role = cc.find("Canvas/ui/LevelPanel/ScaleNode/role");
-        this.bee = cc.find("Canvas/ui/LevelPanel/ScaleNode/propHoneybee");
-        this.bee2 = cc.find("Canvas/ui/LevelPanel/ScaleNode/propHoneybee2");
-        this.bee3 = cc.find("Canvas/ui/LevelPanel/ScaleNode/propHoneybee3");
-        this.dragon = this.role.getComponent(dragonBones.ArmatureDisplay);
+        // this.role = cc.find("Canvas/ui/LevelPanel/ScaleNode/role");
+        // this.bee = cc.find("Canvas/ui/LevelPanel/ScaleNode/propHoneybee");
+        // this.bee2 = cc.find("Canvas/ui/LevelPanel/ScaleNode/propHoneybee2");
+        // this.bee3 = cc.find("Canvas/ui/LevelPanel/ScaleNode/propHoneybee3");
+        // this.dragon = this.role.getComponent(dragonBones.ArmatureDisplay);
         this.PageView = this.ScaleNode.getChildByName("PageView").getComponent(cc.PageView);
         cc.director.getScheduler().enableForTarget(this);
 
@@ -105,141 +105,141 @@ export default class LevelPanel extends UIPage {
         }
 
 
-        let a = cc.tween().sequence(
-            cc.tween().parallel(
-                cc.tween().call(() => {
-                    this.dragon.playAnimation("deng", num)
-                }),
-                cc.tween().by(0.5 * num, { position: cc.v2(0, 50) })
-            ),
-            cc.tween().call(() => {
-                this.dragon.playAnimation("idle", 0)
-            }),
-            cc.tween().by(4, { position: cc.v2(400, -50) })
-        )
-        let b = cc.tween().sequence(
-            cc.tween().parallel(
-                cc.tween().call(() => {
-                    this.dragon.playAnimation("deng", num)
-                }),
-                cc.tween().by(0.5 * num, { position: cc.v2(0, 50) })
-            ),
-            cc.tween().call(() => {
-                this.dragon.playAnimation("idle", 0)
-            }),
-            cc.tween().by(4, { position: cc.v2(-400, -50) })
-        )
+        // let a = cc.tween().sequence(
+        //     cc.tween().parallel(
+        //         cc.tween().call(() => {
+        //             this.dragon.playAnimation("deng", num)
+        //         }),
+        //         cc.tween().by(0.5 * num, { position: cc.v2(0, 50) })
+        //     ),
+        //     cc.tween().call(() => {
+        //         this.dragon.playAnimation("idle", 0)
+        //     }),
+        //     cc.tween().by(4, { position: cc.v2(400, -50) })
+        // )
+        // let b = cc.tween().sequence(
+        //     cc.tween().parallel(
+        //         cc.tween().call(() => {
+        //             this.dragon.playAnimation("deng", num)
+        //         }),
+        //         cc.tween().by(0.5 * num, { position: cc.v2(0, 50) })
+        //     ),
+        //     cc.tween().call(() => {
+        //         this.dragon.playAnimation("idle", 0)
+        //     }),
+        //     cc.tween().by(4, { position: cc.v2(-400, -50) })
+        // )
 
-        let c = cc.tween().sequence(
+        // let c = cc.tween().sequence(
 
-            cc.tween().call(() => {
-                this.role.scaleX = 1;
-            }),
-            cc.tween().repeat(5, a),
-            cc.tween().call(() => {
-                this.role.setPosition(cc.v2(911, 150));
-                this.role.scaleX = -1;
-            }),
+        //     cc.tween().call(() => {
+        //         this.role.scaleX = 1;
+        //     }),
+        //     cc.tween().repeat(5, a),
+        //     cc.tween().call(() => {
+        //         this.role.setPosition(cc.v2(911, 150));
+        //         this.role.scaleX = -1;
+        //     }),
 
-            cc.tween().repeat(5, b)
-        )
+        //     cc.tween().repeat(5, b)
+        // )
 
-        cc.tween(this.role)
-            .repeatForever(c)
-            .start()
-
-
-
-
-        let d = cc.tween().sequence(
-
-            cc.tween().repeat(10, cc.tween().by(2.5, { position: cc.v2(200, 150 * Math.random() - 75), angle: 100 * Math.random() - 50 })),
-
-            cc.tween().call(() => {
-                this.bee.setPosition(cc.v2(1110, 250));
-                this.bee.scaleX *= -1;
-            }),
-
-            cc.tween().repeat(10, cc.tween().by(2.7, { position: cc.v2(-200, 150 * Math.random() - 75), angle: 100 * Math.random() - 50 })),
-            cc.tween().call(() => {
-                this.bee.setPosition(cc.v2(-946, 250));
-                this.bee.scaleX *= -1;
-                this.bee.y += Math.random() * 50 - 25;
-                this.bee.x += Math.random() * 50 - 150;
-            }),
-        )
-
-
-
-        let e = cc.tween().sequence(
-
-            cc.tween().repeat(10, cc.tween().by(2.5, { position: cc.v2(200, 150 * Math.random() - 75), angle: 100 * Math.random() - 50 })),
-
-            cc.tween().call(() => {
-                this.bee2.setPosition(cc.v2(1110, 250));
-                this.bee2.scaleX *= -1;
-            }),
-
-            cc.tween().repeat(10, cc.tween().by(2.7, { position: cc.v2(-200, 150 * Math.random() - 75), angle: 100 * Math.random() - 50 })),
-            cc.tween().call(() => {
-                this.bee2.setPosition(cc.v2(-946, 250));
-                this.bee2.scaleX *= -1;
-                this.bee2.y += Math.random() * 50 - 25;
-                this.bee2.x += Math.random() * 50 - 150;
-            }),
-        )
-
-        let f = cc.tween().sequence(
-
-            cc.tween().repeat(10, cc.tween().by(2.5, { position: cc.v2(200, 150 * Math.random() - 75), angle: 100 * Math.random() - 50 })),
-
-            cc.tween().call(() => {
-                this.bee3.setPosition(cc.v2(1110, 250));
-                this.bee3.scaleX *= -1;
-            }),
-
-            cc.tween().repeat(10, cc.tween().by(2.7, { position: cc.v2(-200, 150 * Math.random() - 75), angle: 100 * Math.random() - 50 })),
-            cc.tween().call(() => {
-                this.bee3.setPosition(cc.v2(-946, 250));
-                this.bee3.scaleX *= -1;
-                this.bee3.y += Math.random() * 50 - 25;
-                this.bee3.x += Math.random() * 50 - 150;
-            }),
-        )
-        cc.tween(this.bee)
-
-
-            .repeatForever(d)
-            .start()
-
-        // let node = cc.instantiate(this.bee);
-        // this.bee.parent.addChild(node);
-        // node.setPosition(this.bee.getPosition())
-        this.bee2.y += Math.random() * 50 - 25;
-        this.bee2.x += Math.random() * 50 - 150;
-
-        cc.tween(this.bee2)
-
-
-            .repeatForever(e)
-            // .by(20, { position: cc.v2(1500, 0) })
-
-            .start()
+        // cc.tween(this.role)
+        //     .repeatForever(c)
+        //     .start()
 
 
 
 
-        // let node2 = cc.instantiate(this.bee);
-        // this.bee.parent.addChild(node2);
-        // node2.setPosition(this.bee.getPosition())
-        this.bee3.y += Math.random() * 50 - 25;
-        this.bee3.x += Math.random() * 50 - 150;
+        // let d = cc.tween().sequence(
 
-        cc.tween(this.bee3)
-            .repeat(10, cc.tween().by(2.7, { position: cc.v2(200, 150 * Math.random() - 75), angle: 100 * Math.random() - 50 }))
+        //     cc.tween().repeat(10, cc.tween().by(2.5, { position: cc.v2(200, 150 * Math.random() - 75), angle: 100 * Math.random() - 50 })),
 
-            .repeatForever(f)
-            .start()
+        //     cc.tween().call(() => {
+        //         this.bee.setPosition(cc.v2(1110, 250));
+        //         this.bee.scaleX *= -1;
+        //     }),
+
+        //     cc.tween().repeat(10, cc.tween().by(2.7, { position: cc.v2(-200, 150 * Math.random() - 75), angle: 100 * Math.random() - 50 })),
+        //     cc.tween().call(() => {
+        //         this.bee.setPosition(cc.v2(-946, 250));
+        //         this.bee.scaleX *= -1;
+        //         this.bee.y += Math.random() * 50 - 25;
+        //         this.bee.x += Math.random() * 50 - 150;
+        //     }),
+        // )
+
+
+
+        // let e = cc.tween().sequence(
+
+        //     cc.tween().repeat(10, cc.tween().by(2.5, { position: cc.v2(200, 150 * Math.random() - 75), angle: 100 * Math.random() - 50 })),
+
+        //     cc.tween().call(() => {
+        //         this.bee2.setPosition(cc.v2(1110, 250));
+        //         this.bee2.scaleX *= -1;
+        //     }),
+
+        //     cc.tween().repeat(10, cc.tween().by(2.7, { position: cc.v2(-200, 150 * Math.random() - 75), angle: 100 * Math.random() - 50 })),
+        //     cc.tween().call(() => {
+        //         this.bee2.setPosition(cc.v2(-946, 250));
+        //         this.bee2.scaleX *= -1;
+        //         this.bee2.y += Math.random() * 50 - 25;
+        //         this.bee2.x += Math.random() * 50 - 150;
+        //     }),
+        // )
+
+        // let f = cc.tween().sequence(
+
+        //     cc.tween().repeat(10, cc.tween().by(2.5, { position: cc.v2(200, 150 * Math.random() - 75), angle: 100 * Math.random() - 50 })),
+
+        //     cc.tween().call(() => {
+        //         this.bee3.setPosition(cc.v2(1110, 250));
+        //         this.bee3.scaleX *= -1;
+        //     }),
+
+        //     cc.tween().repeat(10, cc.tween().by(2.7, { position: cc.v2(-200, 150 * Math.random() - 75), angle: 100 * Math.random() - 50 })),
+        //     cc.tween().call(() => {
+        //         this.bee3.setPosition(cc.v2(-946, 250));
+        //         this.bee3.scaleX *= -1;
+        //         this.bee3.y += Math.random() * 50 - 25;
+        //         this.bee3.x += Math.random() * 50 - 150;
+        //     }),
+        // )
+        // cc.tween(this.bee)
+
+
+        //     .repeatForever(d)
+        //     .start()
+
+        // // let node = cc.instantiate(this.bee);
+        // // this.bee.parent.addChild(node);
+        // // node.setPosition(this.bee.getPosition())
+        // this.bee2.y += Math.random() * 50 - 25;
+        // this.bee2.x += Math.random() * 50 - 150;
+
+        // cc.tween(this.bee2)
+
+
+        //     .repeatForever(e)
+        //     // .by(20, { position: cc.v2(1500, 0) })
+
+        //     .start()
+
+
+
+
+        // // let node2 = cc.instantiate(this.bee);
+        // // this.bee.parent.addChild(node2);
+        // // node2.setPosition(this.bee.getPosition())
+        // this.bee3.y += Math.random() * 50 - 25;
+        // this.bee3.x += Math.random() * 50 - 150;
+
+        // cc.tween(this.bee3)
+        //     .repeat(10, cc.tween().by(2.7, { position: cc.v2(200, 150 * Math.random() - 75), angle: 100 * Math.random() - 50 }))
+
+        //     .repeatForever(f)
+        //     .start()
     }
 
     private _ClonItem() {

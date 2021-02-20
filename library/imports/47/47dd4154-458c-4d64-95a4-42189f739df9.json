@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "over_box_reward2",
+    "texture": "550a4388-f46c-46d0-9091-bc5a6b91b04f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      157,
+      112
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      157,
+      112
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

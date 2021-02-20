@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SpotNativeAD",
+    "texture": "d2ec6b69-1f61-46dd-9a0e-dda84128ba8e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      51,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      51,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

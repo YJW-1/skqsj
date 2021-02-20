@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_icon_gift",
+    "texture": "82b09697-dfc6-4fed-9303-1fac2fcbed2f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      99,
+      110
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      99,
+      110
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

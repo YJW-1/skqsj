@@ -80,8 +80,8 @@ export default class NormalModelCtr extends GameCtr {
 
         if (cocosz.sceneMgr.sceneName == "Game") {
 
-            // this._initGame()
-            this._initGame2();
+            this._initGame()
+            // this._initGame2();
         }
         else if (cocosz.sceneMgr.sceneName == "Game2") {
             this._initEndlessGame();
@@ -359,7 +359,6 @@ export default class NormalModelCtr extends GameCtr {
 
 
                     if (cocosz.dataMgr.CurLevelId < 120) {
-
                         graphics2.lineWidth = 15;
                         graphics2.strokeColor = new cc.Color(40, 33, 13, 255);
                         graphics2.moveTo(point[0].x, point[0].y);

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "over_win_box",
+    "texture": "4e27e951-00f6-4c20-8e60-55fe3fcdc400",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      123,
+      410
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      123,
+      410
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

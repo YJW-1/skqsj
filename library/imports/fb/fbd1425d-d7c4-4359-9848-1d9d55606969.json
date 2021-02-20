@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lottery_box_balloon",
+    "texture": "206675ef-6adc-4775-9119-e25c1fa6e5e0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      214,
+      208
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      214,
+      208
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

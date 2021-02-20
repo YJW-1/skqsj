@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "receive_double",
+    "texture": "07ebee60-a546-46d4-80c3-23bff307f8c2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      393,
+      83
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      393,
+      83
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -99,6 +99,21 @@ export default class AudioMgr {
             cc.log("AudioClip Feild is not found!");
         }
     }
+
+
+    /**
+     * 播放转盘音效
+     */
+    public playLotteryEffect() {
+        let clip: cc.AudioClip = cocosz.resMgr.getRes("turntable", cc.AudioClip);
+        if (clip) {
+            this._play(clip, false, 1);
+        } else {
+            cc.log("AudioClip turntable is not found!");
+        }
+    }
+
+
     /**
      * 播放人物即将冲线音效
      */

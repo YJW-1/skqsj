@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tiXian_quanG",
+    "texture": "544493b4-b712-499c-83f4-71d2dad60004",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      19,
+      16
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      19,
+      16
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

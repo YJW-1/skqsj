@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jingling_tex",
+    "texture": "c8e87146-6d0f-44f4-a268-fd8e83b4fa00",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      484,
+      247
+    ],
+    "offset": [
+      -13,
+      3.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

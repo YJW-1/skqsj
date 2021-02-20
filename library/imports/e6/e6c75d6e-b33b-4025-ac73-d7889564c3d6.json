@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pause_box_btnbottom",
+    "texture": "50601003-f120-4e5e-a524-b01a4288c6d4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      101,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      101,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

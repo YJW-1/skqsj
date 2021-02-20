@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_box_btn_star",
+    "texture": "9001b01d-3c8f-4350-9f9c-e52a846b9a72",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      215,
+      216
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      215,
+      216
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

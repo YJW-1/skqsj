@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tiXian_redBg",
+    "texture": "b813bacb-07cb-43b2-b9d1-c313b1e7bfee",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      720,
+      280
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      720,
+      280
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

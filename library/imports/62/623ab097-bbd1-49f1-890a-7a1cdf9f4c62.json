@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "common_box_gold",
+    "texture": "a3cd4db3-d47c-457a-99be-7d823f5892dc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

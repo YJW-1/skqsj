@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cactus_hat7",
+    "texture": "0113aae5-63a8-4065-b107-4667c65fcd58",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      130,
+      113
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      130,
+      113
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

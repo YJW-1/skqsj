@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "waterpipe1",
+    "texture": "93dcbf03-e672-458f-b54b-5987c0d4191d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      376,
+      156
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      376,
+      156
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

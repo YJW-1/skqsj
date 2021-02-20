@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_box_fraction",
+    "texture": "9b1acccb-0eed-4434-87a5-690e6d5efe3b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nativeEmbedAdBottom",
+    "texture": "f4ce3149-c9e7-48bb-8928-6be315780b03",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      127,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      127,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tiXian_6_1",
+    "texture": "e898bc47-305f-4f37-8353-7f64598a0696",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      302,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      302,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

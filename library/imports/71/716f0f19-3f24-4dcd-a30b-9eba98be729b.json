@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wordBg",
+    "texture": "3bacfdda-fc22-424d-a521-72fe62171c71",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lottery_box1 (1)",
+    "texture": "0d96b749-f5f5-4560-ae67-62d9f86e2518",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      988,
+      547
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      988,
+      547
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

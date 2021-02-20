@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "over_box_board",
+    "texture": "e7b62291-c520-4cff-9e91-fdc89f323284",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      575,
+      641
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      575,
+      641
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

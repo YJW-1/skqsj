@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "money_chack",
+    "texture": "b3dadab1-3f57-4d05-953a-069b94d38886",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      194,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      194,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

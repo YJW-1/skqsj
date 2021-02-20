@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nativeEmbed_0",
+    "texture": "64f8d965-4160-42f6-b3ad-fc0040d5c425",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      475,
+      18
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      475,
+      18
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

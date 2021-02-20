@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shop_btn_extract 拷贝",
+    "texture": "6b2d617b-683d-41a9-a72e-bddfd8348028",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      170,
+      89
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      170,
+      89
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jinglingdonghu_2_ske_tex",
+    "texture": "289fc9d0-3e3e-40e4-b861-3dd06ae61fbe",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      253,
+      334
+    ],
+    "offset": [
+      -0.5,
+      88
+    ],
+    "originalSize": [
+      256,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

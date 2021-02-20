@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ani_fail_tex",
+    "texture": "80e92d0f-c466-46f5-8b75-933c9fc31440",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      459,
+      371
+    ],
+    "offset": [
+      -0.5,
+      1
+    ],
+    "originalSize": [
+      462,
+      375
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_btn_star",
+    "texture": "cdd7cdbb-f87d-4f60-88f7-8eed139fd3f9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      432,
+      122
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      432,
+      122
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

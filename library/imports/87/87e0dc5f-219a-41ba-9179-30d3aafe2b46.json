@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_resurrection",
+    "texture": "cb12a58b-db00-4696-9067-832a9d2bec60",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      287,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      287,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

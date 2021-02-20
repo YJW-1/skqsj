@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cage",
+    "texture": "9aa64c06-4d61-4b9a-ba5f-f0ecb16d2e32",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      440,
+      442
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      440,
+      442
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

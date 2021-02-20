@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shareWorld",
+    "texture": "01f78675-9cf2-47f3-a1ec-8be3999a70c9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      302,
+      110
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      302,
+      110
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

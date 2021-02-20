@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "turntable_box_1",
+    "texture": "c55e2f4f-8b67-4ec3-ab51-087910bd7f7e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      687,
+      690
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      687,
+      690
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -835,7 +835,9 @@ export default class DataMgr {
     }
     /**存金币数据 */
     public set CoinCount(value: number) {
+
         this._setItem(Constant.ST_CoinCount, value + "");
+        cc.game.emit(Constant.E_UPDATE_COIN);
         // cc.game.emit(Constant.E_GAME_LOGIC, { type: Constant.E_STAR_CHANGE });
     }
     /**拿店铺数据 */

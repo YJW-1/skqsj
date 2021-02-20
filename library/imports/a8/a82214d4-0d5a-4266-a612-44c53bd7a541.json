@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_btn_gift1",
+    "texture": "b33d2027-4509-4e4d-8c3e-0eb86461553f",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      121,
+      131
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      123,
+      132
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

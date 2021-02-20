@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bee5",
+    "texture": "04ce5aba-1908-4e78-9f15-0e02290a700b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      51,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      51,
+      52
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

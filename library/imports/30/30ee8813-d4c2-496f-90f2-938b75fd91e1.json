@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "level_lock",
+    "texture": "97f3780e-8e3f-465f-802a-c81c8cb4d587",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      51,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      51,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sBoard01",
+    "texture": "d02c368f-be53-4ed7-9713-e537e2a57944",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      706,
+      117
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      706,
+      117
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shop_box_pagination",
+    "texture": "df0382ca-f575-4c25-882b-cf88b20c26a3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      720,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      720,
+      101
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

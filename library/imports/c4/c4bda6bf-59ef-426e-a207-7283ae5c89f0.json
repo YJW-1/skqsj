@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "enemy2AnimEye2",
+    "texture": "1b90c682-5cc7-410c-9556-275b01f80209",
+    "atlas": "",
+    "rect": [
+      1,
+      3,
+      26,
+      12
+    ],
+    "offset": [
+      0.5,
+      -1
+    ],
+    "originalSize": [
+      27,
+      16
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "load_box_pro_2",
+    "texture": "5845450b-f117-4f22-9a05-326259a6559e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      557,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      557,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

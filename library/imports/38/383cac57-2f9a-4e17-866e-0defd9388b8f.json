@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "invite_wx",
+    "texture": "3d85fd56-dd24-4926-abb1-85c027892f7c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      79
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      79
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

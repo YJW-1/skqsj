@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shop_box_cloth",
+    "texture": "54064d91-9c13-4566-a355-bcb9ecee6113",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      200,
+      378
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      378
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

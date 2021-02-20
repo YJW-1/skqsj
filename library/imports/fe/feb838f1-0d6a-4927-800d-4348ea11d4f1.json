@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gift_icon_lid_2",
+    "texture": "caa27626-0f60-48c2-a748-95e17a4042a8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      308,
+      115
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      308,
+      115
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "ani_piaodai_tex",
+  "_objFlags": 0,
+  "_native": "",
+  "_atlasJson": "{\"width\":494,\"imagePath\":\"ani_piaodai_tex.png\",\"height\":162,\"name\":\"ani_piaodai\",\"SubTexture\":[{\"width\":491,\"y\":1,\"height\":159,\"name\":\"over_win_title\",\"x\":1}]}",
+  "_texture": {
+    "__uuid__": "267115c4-d537-4a6a-af09-104c20a46f9b"
+  },
+  "texture": {
+    "__uuid__": "267115c4-d537-4a6a-af09-104c20a46f9b"
+  },
+  "_textureAtlasData": null
+}

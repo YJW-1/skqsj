@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "over_win_receive",
+    "texture": "e51fd12d-5588-4fa8-a043-e8707ecbb4ad",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      169,
+      89
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      169,
+      89
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

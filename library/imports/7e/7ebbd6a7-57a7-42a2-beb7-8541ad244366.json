@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "首页",
+    "texture": "9e1687a4-8efd-4fca-aca1-d204e18fe000",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      720,
+      1600
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      720,
+      1600
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

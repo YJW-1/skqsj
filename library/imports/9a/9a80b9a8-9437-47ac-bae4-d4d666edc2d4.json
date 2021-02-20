@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redPack_bg",
+    "texture": "00a21098-2c7d-4898-a2e1-338f79105220",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      618,
+      893
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      618,
+      893
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

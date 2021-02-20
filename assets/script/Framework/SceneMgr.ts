@@ -36,7 +36,6 @@ export default class SceneMgr {
         }
         if (name == "Home") {
             // cocosz.audioMgr.stopAll();
-
             // cocosz.audioMgr.playHomeMusic();
         } else if (name == "Game") {
             // cocosz.audioMgr.playGameMusic();

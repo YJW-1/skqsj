@@ -604,6 +604,7 @@ export default class CocosZ extends cc.Component {
             "audio/mBatPrickle",
             "audio/mStoneWood",
             "audio/mHeroGloomy",
+            "audio/turntable",
         ];
         this._resMgr.loadResArray(audioList, cc.AudioClip, (completedCount: number, totalCount: number, item: any) => {
         }, (error: Error, resource: any[]) => {

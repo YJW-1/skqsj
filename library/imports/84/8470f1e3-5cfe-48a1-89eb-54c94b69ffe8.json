@@ -1,0 +1,14 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "ani_fail_tex",
+  "_objFlags": 0,
+  "_native": "",
+  "_atlasJson": "{\"width\":462,\"SubTexture\":[{\"width\":193,\"y\":250,\"height\":123,\"name\":\"over_fail_titl/fail02\",\"x\":256},{\"width\":204,\"y\":126,\"height\":122,\"name\":\"over_fail_titl/fail01\",\"x\":256},{\"width\":373,\"y\":1,\"height\":123,\"name\":\"over_fail_titl\",\"x\":1},{\"width\":21,\"y\":1,\"height\":29,\"name\":\"over_fail_icon_rain\",\"x\":376},{\"width\":173,\"y\":255,\"height\":91,\"name\":\"over_fail_icon_cloud_2\",\"x\":1},{\"width\":253,\"y\":126,\"height\":127,\"name\":\"over_fail_icon_cloud_1\",\"x\":1}],\"imagePath\":\"ani_fail_tex.png\",\"name\":\"ani_fail\",\"height\":375}",
+  "_texture": {
+    "__uuid__": "80e92d0f-c466-46f5-8b75-933c9fc31440"
+  },
+  "texture": {
+    "__uuid__": "80e92d0f-c466-46f5-8b75-933c9fc31440"
+  },
+  "_textureAtlasData": null
+}

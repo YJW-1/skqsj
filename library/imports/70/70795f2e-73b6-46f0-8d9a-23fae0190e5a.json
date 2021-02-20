@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nativeEmbedQuan",
+    "texture": "3c441774-1eb1-4a4c-b956-ad6d0eaeb4b8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      79,
+      79
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      79
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "common_icon_skip",
+    "texture": "a9d9c4c9-efb1-430f-b06a-bf51b5b92fa0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      164,
+      200
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      164,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

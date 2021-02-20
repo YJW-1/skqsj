@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "over_fail_box_paper",
+    "texture": "2d3406a7-e489-4647-8033-c58c13f68343",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      446,
+      341
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      447,
+      342
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

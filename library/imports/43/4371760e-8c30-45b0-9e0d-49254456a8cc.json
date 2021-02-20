@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redPack_video",
+    "texture": "f67e839c-362f-423e-85d7-6689c6808595",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      210,
+      210
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      210,
+      210
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

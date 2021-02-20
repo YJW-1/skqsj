@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bat_wing4",
+    "texture": "dc763034-71c0-4bcc-a1b9-54a8084d7c7b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      82,
+      69
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      82,
+      69
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

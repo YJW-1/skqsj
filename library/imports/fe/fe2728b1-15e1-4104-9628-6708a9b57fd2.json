@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chack_ok",
+    "texture": "caebcaf5-beca-49aa-ba4c-3024b8ad02e8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      340,
+      73
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      340,
+      73
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

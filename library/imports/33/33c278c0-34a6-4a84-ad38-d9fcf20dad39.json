@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "floor12",
+    "texture": "48c6d1e4-dc3c-4c76-aa3c-c5c625715a95",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      63,
+      59
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      63,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

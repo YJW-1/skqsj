@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sCloudM02",
+    "texture": "de9bd431-5fdb-46ff-874e-c7b6aa9a4847",
+    "atlas": "",
+    "rect": [
+      2,
+      5,
+      358,
+      109
+    ],
+    "offset": [
+      -1.5,
+      2.5
+    ],
+    "originalSize": [
+      365,
+      124
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

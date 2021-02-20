@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "turntable_btn_star",
+    "texture": "c848fa94-d302-47c6-be6a-c12f4c5dfe34",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      362,
+      362
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      362,
+      362
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

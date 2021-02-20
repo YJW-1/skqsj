@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_box_skip",
+    "texture": "eea732fc-23bd-4063-b01d-4bb702c15064",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      96,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      96,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

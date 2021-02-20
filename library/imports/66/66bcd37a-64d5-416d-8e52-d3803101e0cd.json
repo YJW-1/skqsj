@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "common_flash_cactus_1",
+    "texture": "041d34f8-71a7-44c8-adc3-af51bffcc814",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      199,
+      402
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      199,
+      402
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
