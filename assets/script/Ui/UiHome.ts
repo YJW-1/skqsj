@@ -68,7 +68,7 @@ export default class UiHome extends UIPage {
         this._Cloud1 = cc.find("Canvas/ui/UiHome/ScaleNode/prop/cloud1");
         this._Cloud2 = cc.find("Canvas/ui/UiHome/ScaleNode/prop/cloud2");
         this._Logo = cc.find("Canvas/ui/UiHome/ScaleNode/logo").getComponent(dragonBones.ArmatureDisplay);
-        this.man = cc.find("Canvas/ui/UiHome/ScaleNode/man").getComponent(dragonBones.ArmatureDisplay);
+        // this.man = cc.find("Canvas/ui/UiHome/ScaleNode/man").getComponent(dragonBones.ArmatureDisplay);
         this._ScaleNode = cc.find("Canvas/ui/UiHome/ScaleNode");
         this._CoinLabel = cc.find("Canvas/ui/UiHome/ScaleNode/Coin/num").getComponent(cc.Label);
         this._Start();
@@ -132,7 +132,7 @@ export default class UiHome extends UIPage {
     protected onOpen() {
         // cocosz.uiMgr.openPanel(PanelName.UiBeforeSucceed);
 
-        cocosz.dataMgr.CoinCount = 99999;
+        // cocosz.dataMgr.CoinCount = 99999;
 
         cocosz.dataMgr.IsEnd = null;
         if (cocosz.dataMgr.AudioOn) {

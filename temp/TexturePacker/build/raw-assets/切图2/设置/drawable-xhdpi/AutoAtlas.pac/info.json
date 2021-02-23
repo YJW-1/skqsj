@@ -1,0 +1,240 @@
+{
+  "projectPath": "F:\\git\\skqsj",
+  "mtimes": {
+    "ade07b7d-a294-46be-8b95-0904d005fdd6": {
+      "assetMtime": 1601371902198,
+      "metaMtime": 1612605567802
+    },
+    "0000bad1-c0c3-41a7-931d-ffddb871103c": {
+      "assetMtime": 1606961808536,
+      "metaMtime": 1612605567818
+    },
+    "1fd3d453-91c3-43a3-9943-474bbf6d75cb": {
+      "assetMtime": 1606961808536,
+      "metaMtime": 1612605567818
+    },
+    "1ccc81ae-b394-4313-a915-84909c405ef3": {
+      "assetMtime": 1606962193816,
+      "metaMtime": 1612605567819
+    },
+    "a11538c7-f18c-470f-bf8c-e8850be150a0": {
+      "assetMtime": 1606962193816,
+      "metaMtime": 1612605567819
+    },
+    "a315bb45-e6c5-4372-8f05-efc31497c865": {
+      "assetMtime": 1606961808501,
+      "metaMtime": 1612605567835
+    },
+    "906e7502-b3ff-4317-8618-f1d653920736": {
+      "assetMtime": 1606961808501,
+      "metaMtime": 1612605567835
+    },
+    "ca98a1c9-3785-4086-8f2d-d306ed567a20": {
+      "assetMtime": 1606961808463,
+      "metaMtime": 1612605567810
+    },
+    "8f020caa-dc6e-48b6-af19-5a3874691d30": {
+      "assetMtime": 1606961808463,
+      "metaMtime": 1612605567810
+    },
+    "e2b738d5-f884-4b1d-9bec-b96d0d3cf32f": {
+      "assetMtime": 1606961808571,
+      "metaMtime": 1612605567827
+    },
+    "b199e034-3be8-4256-a5ef-90d78e27b6ef": {
+      "assetMtime": 1606961808571,
+      "metaMtime": 1612605567827
+    },
+    "f97d23cb-1115-4ab8-9307-3ec3864095fe": {
+      "assetMtime": 1606961808607,
+      "metaMtime": 1612605567828
+    },
+    "bcd06613-b2c9-4cfc-b579-81e6ca64b5af": {
+      "assetMtime": 1606961808607,
+      "metaMtime": 1612605567828
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.0",
+    "uuid": "ade07b7d-a294-46be-8b95-0904d005fdd6",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": false,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "set_box",
+            "uuid": "1ccc81ae-b394-4313-a915-84909c405ef3",
+            "textureUuid": "a11538c7-f18c-470f-bf8c-e8850be150a0",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816938955_image_1.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 400,
+              "height": 362,
+              "rotatedWidth": 362,
+              "rotatedHeight": 400
+            },
+            "rawWidth": 400,
+            "rawHeight": 362,
+            "width": 406,
+            "height": 368,
+            "originalPath": "F:/git/skqsj/library/imports/a1/a11538c7-f18c-470f-bf8c-e8850be150a0.png",
+            "x": 0,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 368,
+            "rotatedHeight": 406
+          },
+          {
+            "name": "set_box_btn",
+            "uuid": "ca98a1c9-3785-4086-8f2d-d306ed567a20",
+            "textureUuid": "8f020caa-dc6e-48b6-af19-5a3874691d30",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816938955_image_3.png",
+            "trim": {
+              "x": 3,
+              "y": 409,
+              "width": 200,
+              "height": 77,
+              "rotatedWidth": 200,
+              "rotatedHeight": 77
+            },
+            "rawWidth": 200,
+            "rawHeight": 77,
+            "width": 206,
+            "height": 83,
+            "originalPath": "F:/git/skqsj/library/imports/8f/8f020caa-dc6e-48b6-af19-5a3874691d30.png",
+            "x": 0,
+            "y": 406,
+            "rotatedWidth": 206,
+            "rotatedHeight": 83
+          },
+          {
+            "name": "set_btn",
+            "uuid": "a315bb45-e6c5-4372-8f05-efc31497c865",
+            "textureUuid": "906e7502-b3ff-4317-8618-f1d653920736",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816938955_image_2.png",
+            "trim": {
+              "x": 209,
+              "y": 409,
+              "width": 72,
+              "height": 71,
+              "rotatedWidth": 71,
+              "rotatedHeight": 72
+            },
+            "rawWidth": 72,
+            "rawHeight": 71,
+            "width": 78,
+            "height": 77,
+            "originalPath": "F:/git/skqsj/library/imports/90/906e7502-b3ff-4317-8618-f1d653920736.png",
+            "x": 206,
+            "y": 406,
+            "rotated": true,
+            "rotatedWidth": 77,
+            "rotatedHeight": 78
+          },
+          {
+            "name": "set_btn_off",
+            "uuid": "e2b738d5-f884-4b1d-9bec-b96d0d3cf32f",
+            "textureUuid": "b199e034-3be8-4256-a5ef-90d78e27b6ef",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816938955_image_4.png",
+            "trim": {
+              "x": 286,
+              "y": 409,
+              "width": 61,
+              "height": 32,
+              "rotatedWidth": 61,
+              "rotatedHeight": 32
+            },
+            "rawWidth": 61,
+            "rawHeight": 32,
+            "width": 67,
+            "height": 38,
+            "originalPath": "F:/git/skqsj/library/imports/b1/b199e034-3be8-4256-a5ef-90d78e27b6ef.png",
+            "x": 283,
+            "y": 406,
+            "rotatedWidth": 67,
+            "rotatedHeight": 38
+          },
+          {
+            "name": "set_btn_on",
+            "uuid": "f97d23cb-1115-4ab8-9307-3ec3864095fe",
+            "textureUuid": "bcd06613-b2c9-4cfc-b579-81e6ca64b5af",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816938955_image_5.png",
+            "trim": {
+              "x": 286,
+              "y": 447,
+              "width": 61,
+              "height": 32,
+              "rotatedWidth": 32,
+              "rotatedHeight": 61
+            },
+            "rawWidth": 61,
+            "rawHeight": 32,
+            "width": 67,
+            "height": 38,
+            "originalPath": "F:/git/skqsj/library/imports/bc/bcd06613-b2c9-4cfc-b579-81e6ca64b5af.png",
+            "x": 283,
+            "y": 444,
+            "rotated": true,
+            "rotatedWidth": 38,
+            "rotatedHeight": 67
+          },
+          {
+            "name": "set_btn_close",
+            "uuid": "0000bad1-c0c3-41a7-931d-ffddb871103c",
+            "textureUuid": "1fd3d453-91c3-43a3-9943-474bbf6d75cb",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816938955_image_0.png",
+            "trim": {
+              "x": 324,
+              "y": 447,
+              "width": 57,
+              "height": 57,
+              "rotatedWidth": 57,
+              "rotatedHeight": 57
+            },
+            "rawWidth": 57,
+            "rawHeight": 57,
+            "width": 63,
+            "height": 63,
+            "originalPath": "F:/git/skqsj/library/imports/1f/1fd3d453-91c3-43a3-9943-474bbf6d75cb.png",
+            "x": 321,
+            "y": 444,
+            "rotatedWidth": 63,
+            "rotatedHeight": 63
+          }
+        ],
+        "width": 384,
+        "height": 511,
+        "name": "AutoAtlas-1",
+        "imagePath": "F:\\git\\skqsj\\temp\\TexturePacker\\build\\raw-assets\\切图2\\设置\\drawable-xhdpi\\AutoAtlas.pac\\AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "F:\\git\\skqsj\\temp\\TexturePacker\\build\\raw-assets\\切图2\\设置\\drawable-xhdpi\\AutoAtlas.pac\\compressed\\AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

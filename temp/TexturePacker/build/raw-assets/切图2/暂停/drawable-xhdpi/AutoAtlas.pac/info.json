@@ -1,0 +1,211 @@
+{
+  "projectPath": "F:\\git\\skqsj",
+  "mtimes": {
+    "8255f2b5-9050-4879-af3d-bfc0af60a7d4": {
+      "assetMtime": 1601372086814,
+      "metaMtime": 1612605568082
+    },
+    "5f4bbdac-bad9-49d8-9736-c0a58e5ba4aa": {
+      "assetMtime": 1606961802993,
+      "metaMtime": 1612605568091
+    },
+    "a1b2ed0e-77a6-4aa3-bd82-3e487b9917a9": {
+      "assetMtime": 1606961802993,
+      "metaMtime": 1612605568091
+    },
+    "5fd3d37f-cb68-4b1a-9093-604980b1d67e": {
+      "assetMtime": 1606961803112,
+      "metaMtime": 1612605568101
+    },
+    "c19b88e7-ff97-4a70-8abf-283b7d28f051": {
+      "assetMtime": 1606961803112,
+      "metaMtime": 1612605568101
+    },
+    "7cfd48da-8922-4179-806e-c0993dec2c4f": {
+      "assetMtime": 1606961803269,
+      "metaMtime": 1612605568110
+    },
+    "a4916af8-297d-4bc1-af2a-13309775292e": {
+      "assetMtime": 1606961803269,
+      "metaMtime": 1612605568110
+    },
+    "9cafe6dc-9756-45bd-bc91-dd4e1e601cb9": {
+      "assetMtime": 1606961803343,
+      "metaMtime": 1612605568120
+    },
+    "b94d9379-b687-4f43-bf5c-cace095f2c76": {
+      "assetMtime": 1606961803343,
+      "metaMtime": 1612605568120
+    },
+    "a466d46d-f41b-4b44-9e46-a499039ae782": {
+      "assetMtime": 1606961803304,
+      "metaMtime": 1612605568117
+    },
+    "0fcd75bb-84d3-4860-994c-6b343efced0f": {
+      "assetMtime": 1606961803304,
+      "metaMtime": 1612605568117
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.0",
+    "uuid": "8255f2b5-9050-4879-af3d-bfc0af60a7d4",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": false,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "pause_box_board",
+            "uuid": "5f4bbdac-bad9-49d8-9736-c0a58e5ba4aa",
+            "textureUuid": "a1b2ed0e-77a6-4aa3-bd82-3e487b9917a9",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816940676_image_0.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 398,
+              "height": 194,
+              "rotatedWidth": 194,
+              "rotatedHeight": 398
+            },
+            "rawWidth": 398,
+            "rawHeight": 194,
+            "width": 404,
+            "height": 200,
+            "originalPath": "F:/git/skqsj/library/imports/a1/a1b2ed0e-77a6-4aa3-bd82-3e487b9917a9.png",
+            "x": 0,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 200,
+            "rotatedHeight": 404
+          },
+          {
+            "name": "pause_box_btn2",
+            "uuid": "5fd3d37f-cb68-4b1a-9093-604980b1d67e",
+            "textureUuid": "c19b88e7-ff97-4a70-8abf-283b7d28f051",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816940676_image_1.png",
+            "trim": {
+              "x": 3,
+              "y": 407,
+              "width": 603,
+              "height": 125,
+              "rotatedWidth": 125,
+              "rotatedHeight": 603
+            },
+            "rawWidth": 603,
+            "rawHeight": 125,
+            "width": 609,
+            "height": 131,
+            "originalPath": "F:/git/skqsj/library/imports/c1/c19b88e7-ff97-4a70-8abf-283b7d28f051.png",
+            "x": 0,
+            "y": 404,
+            "rotated": true,
+            "rotatedWidth": 131,
+            "rotatedHeight": 609
+          },
+          {
+            "name": "pause_btn_continue",
+            "uuid": "7cfd48da-8922-4179-806e-c0993dec2c4f",
+            "textureUuid": "a4916af8-297d-4bc1-af2a-13309775292e",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816940676_image_2.png",
+            "trim": {
+              "x": 134,
+              "y": 407,
+              "width": 120,
+              "height": 92,
+              "rotatedWidth": 92,
+              "rotatedHeight": 120
+            },
+            "rawWidth": 120,
+            "rawHeight": 92,
+            "width": 126,
+            "height": 98,
+            "originalPath": "F:/git/skqsj/library/imports/a4/a4916af8-297d-4bc1-af2a-13309775292e.png",
+            "x": 131,
+            "y": 404,
+            "rotated": true,
+            "rotatedWidth": 98,
+            "rotatedHeight": 126
+          },
+          {
+            "name": "pause_btn_restart",
+            "uuid": "9cafe6dc-9756-45bd-bc91-dd4e1e601cb9",
+            "textureUuid": "b94d9379-b687-4f43-bf5c-cace095f2c76",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816940676_image_3.png",
+            "trim": {
+              "x": 134,
+              "y": 533,
+              "width": 120,
+              "height": 91,
+              "rotatedWidth": 91,
+              "rotatedHeight": 120
+            },
+            "rawWidth": 120,
+            "rawHeight": 91,
+            "width": 126,
+            "height": 97,
+            "originalPath": "F:/git/skqsj/library/imports/b9/b94d9379-b687-4f43-bf5c-cace095f2c76.png",
+            "x": 131,
+            "y": 530,
+            "rotated": true,
+            "rotatedWidth": 97,
+            "rotatedHeight": 126
+          },
+          {
+            "name": "pause_btn_home",
+            "uuid": "a466d46d-f41b-4b44-9e46-a499039ae782",
+            "textureUuid": "0fcd75bb-84d3-4860-994c-6b343efced0f",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816940676_image_4.png",
+            "trim": {
+              "x": 134,
+              "y": 659,
+              "width": 120,
+              "height": 91,
+              "rotatedWidth": 91,
+              "rotatedHeight": 120
+            },
+            "rawWidth": 120,
+            "rawHeight": 91,
+            "width": 126,
+            "height": 97,
+            "originalPath": "F:/git/skqsj/library/imports/0f/0fcd75bb-84d3-4860-994c-6b343efced0f.png",
+            "x": 131,
+            "y": 656,
+            "rotated": true,
+            "rotatedWidth": 97,
+            "rotatedHeight": 126
+          }
+        ],
+        "width": 229,
+        "height": 1013,
+        "name": "AutoAtlas-1",
+        "imagePath": "F:\\git\\skqsj\\temp\\TexturePacker\\build\\raw-assets\\切图2\\暂停\\drawable-xhdpi\\AutoAtlas.pac\\AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "F:\\git\\skqsj\\temp\\TexturePacker\\build\\raw-assets\\切图2\\暂停\\drawable-xhdpi\\AutoAtlas.pac\\compressed\\AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

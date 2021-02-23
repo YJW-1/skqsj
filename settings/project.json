@@ -44,6 +44,8 @@
     ]
   ],
   "excluded-modules": [
+    "EditBox",
+    "Label Effect",
     "WebView",
     "3D",
     "3D Primitive",
@@ -51,7 +53,7 @@
     "3D Physics/Builtin",
     "3D Particle"
   ],
-  "last-module-event-record-time": 1611817037897,
+  "last-module-event-record-time": 1613816923563,
   "design-resolution-width": 960,
   "design-resolution-height": 640,
   "fit-width": false,

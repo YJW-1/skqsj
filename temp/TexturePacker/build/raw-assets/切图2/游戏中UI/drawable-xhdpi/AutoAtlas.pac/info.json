@@ -1,0 +1,460 @@
+{
+  "projectPath": "F:\\git\\skqsj",
+  "mtimes": {
+    "16e5ac41-879d-481d-849a-7e0d5fb9647d": {
+      "assetMtime": 1601372035857,
+      "metaMtime": 1612605568006
+    },
+    "266ba6a2-435b-4e46-98ea-ab0a57b037f5": {
+      "assetMtime": 1606961804522,
+      "metaMtime": 1612605568081
+    },
+    "5a8ec16f-1fc6-47ed-af8f-b073613f3910": {
+      "assetMtime": 1606961804522,
+      "metaMtime": 1612605568081
+    },
+    "464b039b-f949-450b-90ac-e6d3b134e8fa": {
+      "assetMtime": 1606961804001,
+      "metaMtime": 1612605568031
+    },
+    "63224709-0510-4258-a59a-56a986408a65": {
+      "assetMtime": 1606961804001,
+      "metaMtime": 1612605568031
+    },
+    "58d41cee-10a0-460c-8ea0-81fa1d8a05f6": {
+      "assetMtime": 1606961804316,
+      "metaMtime": 1612605568062
+    },
+    "eea732fc-23bd-4063-b01d-4bb702c15064": {
+      "assetMtime": 1606961804316,
+      "metaMtime": 1612605568062
+    },
+    "728c5239-f1dc-4db4-af11-13d5c7db8cbd": {
+      "assetMtime": 1606961804246,
+      "metaMtime": 1612605568055
+    },
+    "9b1acccb-0eed-4434-87a5-690e6d5efe3b": {
+      "assetMtime": 1606961804246,
+      "metaMtime": 1612605568055
+    },
+    "72c1d031-d7c0-4245-909c-3fb853e83f4b": {
+      "assetMtime": 1606961804033,
+      "metaMtime": 1612605568032
+    },
+    "d70028a8-8249-4189-af4b-7046649a72e8": {
+      "assetMtime": 1606961804033,
+      "metaMtime": 1612605568032
+    },
+    "77a9c4ee-71c2-4ef4-ac6c-2cd3be72be1b": {
+      "assetMtime": 1606961804405,
+      "metaMtime": 1612605568071
+    },
+    "b70013bc-b1ff-43ba-9ade-ad9325bfd689": {
+      "assetMtime": 1606961804405,
+      "metaMtime": 1612605568071
+    },
+    "8158753b-39f2-4b68-9048-a33222a49c65": {
+      "assetMtime": 1606961804474,
+      "metaMtime": 1612605568083
+    },
+    "d0c8f7d1-063e-4394-90a7-32bef1bf8374": {
+      "assetMtime": 1606961804474,
+      "metaMtime": 1612605568083
+    },
+    "a5feaa38-736c-4ae4-9dbf-361d25a7867f": {
+      "assetMtime": 1606961804207,
+      "metaMtime": 1612605568048
+    },
+    "3e165932-82ca-46f0-959c-1db5e56b0b4f": {
+      "assetMtime": 1606961804207,
+      "metaMtime": 1612605568048
+    },
+    "b6d4de1e-6be2-46ec-aef7-cca5b19a56db": {
+      "assetMtime": 1606961803970,
+      "metaMtime": 1612605568022
+    },
+    "ca6b2ca4-1768-49c0-95a9-59cbcee19ceb": {
+      "assetMtime": 1606961803970,
+      "metaMtime": 1612605568022
+    },
+    "b9a1c83d-e229-42b8-b281-f2bcd84a3386": {
+      "assetMtime": 1606961804145,
+      "metaMtime": 1612605568049
+    },
+    "e72d468b-5829-43b9-89b4-7515bc1037f1": {
+      "assetMtime": 1606961804145,
+      "metaMtime": 1612605568049
+    },
+    "de5f3429-ff1e-4b70-9d33-496743ce2d33": {
+      "assetMtime": 1606961804361,
+      "metaMtime": 1612605568063
+    },
+    "012d6522-5967-4794-8d40-57eed0218b50": {
+      "assetMtime": 1606961804361,
+      "metaMtime": 1612605568063
+    },
+    "ee37a461-3c82-4ba3-ad52-ec5b2bed765e": {
+      "assetMtime": 1606961804438,
+      "metaMtime": 1612605568072
+    },
+    "5abfe914-9262-4034-a728-a29f9b7973f6": {
+      "assetMtime": 1606961804438,
+      "metaMtime": 1612605568072
+    },
+    "f6dad886-0ff3-4d1e-9589-e44a1273ecb8": {
+      "assetMtime": 1606961803912,
+      "metaMtime": 1612605568012
+    },
+    "6dd582d8-b1cf-40a6-851b-9464fb2595b9": {
+      "assetMtime": 1606961803912,
+      "metaMtime": 1612605568012
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.0",
+    "uuid": "16e5ac41-879d-481d-849a-7e0d5fb9647d",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": false,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "game_box_btn_skipq",
+            "uuid": "a5feaa38-736c-4ae4-9dbf-361d25a7867f",
+            "textureUuid": "3e165932-82ca-46f0-959c-1db5e56b0b4f",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816940296_image_7.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 261,
+              "height": 75,
+              "rotatedWidth": 75,
+              "rotatedHeight": 261
+            },
+            "rawWidth": 261,
+            "rawHeight": 75,
+            "width": 267,
+            "height": 81,
+            "originalPath": "F:/git/skqsj/library/imports/3e/3e165932-82ca-46f0-959c-1db5e56b0b4f.png",
+            "x": 0,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 81,
+            "rotatedHeight": 267
+          },
+          {
+            "name": "game_box_btn_skip",
+            "uuid": "b9a1c83d-e229-42b8-b281-f2bcd84a3386",
+            "textureUuid": "e72d468b-5829-43b9-89b4-7515bc1037f1",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816940296_image_9.png",
+            "trim": {
+              "x": 3,
+              "y": 270,
+              "width": 215,
+              "height": 75,
+              "rotatedWidth": 75,
+              "rotatedHeight": 215
+            },
+            "rawWidth": 215,
+            "rawHeight": 75,
+            "width": 221,
+            "height": 81,
+            "originalPath": "F:/git/skqsj/library/imports/e7/e72d468b-5829-43b9-89b4-7515bc1037f1.png",
+            "x": 0,
+            "y": 267,
+            "rotated": true,
+            "rotatedWidth": 81,
+            "rotatedHeight": 221
+          },
+          {
+            "name": "game_box_fraction",
+            "uuid": "728c5239-f1dc-4db4-af11-13d5c7db8cbd",
+            "textureUuid": "9b1acccb-0eed-4434-87a5-690e6d5efe3b",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816940296_image_3.png",
+            "trim": {
+              "x": 3,
+              "y": 491,
+              "width": 140,
+              "height": 65,
+              "rotatedWidth": 140,
+              "rotatedHeight": 65
+            },
+            "rawWidth": 140,
+            "rawHeight": 65,
+            "width": 146,
+            "height": 71,
+            "originalPath": "F:/git/skqsj/library/imports/9b/9b1acccb-0eed-4434-87a5-690e6d5efe3b.png",
+            "x": 0,
+            "y": 488,
+            "rotatedWidth": 146,
+            "rotatedHeight": 71
+          },
+          {
+            "name": "game_box_skip",
+            "uuid": "58d41cee-10a0-460c-8ea0-81fa1d8a05f6",
+            "textureUuid": "eea732fc-23bd-4063-b01d-4bb702c15064",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816940296_image_2.png",
+            "trim": {
+              "x": 3,
+              "y": 562,
+              "width": 96,
+              "height": 32,
+              "rotatedWidth": 96,
+              "rotatedHeight": 32
+            },
+            "rawWidth": 96,
+            "rawHeight": 32,
+            "width": 102,
+            "height": 38,
+            "originalPath": "F:/git/skqsj/library/imports/ee/eea732fc-23bd-4063-b01d-4bb702c15064.png",
+            "x": 0,
+            "y": 559,
+            "rotatedWidth": 102,
+            "rotatedHeight": 38
+          },
+          {
+            "name": "common_text_11",
+            "uuid": "72c1d031-d7c0-4245-909c-3fb853e83f4b",
+            "textureUuid": "d70028a8-8249-4189-af4b-7046649a72e8",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816940296_image_4.png",
+            "trim": {
+              "x": 105,
+              "y": 562,
+              "width": 27,
+              "height": 28,
+              "rotatedWidth": 28,
+              "rotatedHeight": 27
+            },
+            "rawWidth": 27,
+            "rawHeight": 28,
+            "width": 33,
+            "height": 34,
+            "originalPath": "F:/git/skqsj/library/imports/d7/d70028a8-8249-4189-af4b-7046649a72e8.png",
+            "x": 102,
+            "y": 559,
+            "rotated": true,
+            "rotatedWidth": 34,
+            "rotatedHeight": 33
+          },
+          {
+            "name": "common_text_10",
+            "uuid": "464b039b-f949-450b-90ac-e6d3b134e8fa",
+            "textureUuid": "63224709-0510-4258-a59a-56a986408a65",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816940296_image_1.png",
+            "trim": {
+              "x": 139,
+              "y": 562,
+              "width": 25,
+              "height": 28,
+              "rotatedWidth": 28,
+              "rotatedHeight": 25
+            },
+            "rawWidth": 25,
+            "rawHeight": 28,
+            "width": 31,
+            "height": 34,
+            "originalPath": "F:/git/skqsj/library/imports/63/63224709-0510-4258-a59a-56a986408a65.png",
+            "x": 136,
+            "y": 559,
+            "rotated": true,
+            "rotatedWidth": 34,
+            "rotatedHeight": 31
+          },
+          {
+            "name": "game_btn_noboom",
+            "uuid": "77a9c4ee-71c2-4ef4-ac6c-2cd3be72be1b",
+            "textureUuid": "b70013bc-b1ff-43ba-9ade-ad9325bfd689",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816940296_image_5.png",
+            "trim": {
+              "x": 84,
+              "y": 3,
+              "width": 152,
+              "height": 151,
+              "rotatedWidth": 151,
+              "rotatedHeight": 152
+            },
+            "rawWidth": 152,
+            "rawHeight": 151,
+            "width": 158,
+            "height": 157,
+            "originalPath": "F:/git/skqsj/library/imports/b7/b70013bc-b1ff-43ba-9ade-ad9325bfd689.png",
+            "x": 81,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 157,
+            "rotatedHeight": 158
+          },
+          {
+            "name": "game_btn_boom(2)",
+            "uuid": "de5f3429-ff1e-4b70-9d33-496743ce2d33",
+            "textureUuid": "012d6522-5967-4794-8d40-57eed0218b50",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816940297_image_10.png",
+            "trim": {
+              "x": 84,
+              "y": 161,
+              "width": 152,
+              "height": 151,
+              "rotatedWidth": 151,
+              "rotatedHeight": 152
+            },
+            "rawWidth": 152,
+            "rawHeight": 151,
+            "width": 158,
+            "height": 157,
+            "originalPath": "F:/git/skqsj/library/imports/01/012d6522-5967-4794-8d40-57eed0218b50.png",
+            "x": 81,
+            "y": 158,
+            "rotated": true,
+            "rotatedWidth": 157,
+            "rotatedHeight": 158
+          },
+          {
+            "name": "common_box_text",
+            "uuid": "f6dad886-0ff3-4d1e-9589-e44a1273ecb8",
+            "textureUuid": "6dd582d8-b1cf-40a6-851b-9464fb2595b9",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816940297_image_12.png",
+            "trim": {
+              "x": 84,
+              "y": 319,
+              "width": 110,
+              "height": 74,
+              "rotatedWidth": 110,
+              "rotatedHeight": 74
+            },
+            "rawWidth": 110,
+            "rawHeight": 74,
+            "width": 116,
+            "height": 80,
+            "originalPath": "F:/git/skqsj/library/imports/6d/6dd582d8-b1cf-40a6-851b-9464fb2595b9.png",
+            "x": 81,
+            "y": 316,
+            "rotatedWidth": 116,
+            "rotatedHeight": 80
+          },
+          {
+            "name": "game_btn_skip",
+            "uuid": "8158753b-39f2-4b68-9048-a33222a49c65",
+            "textureUuid": "d0c8f7d1-063e-4394-90a7-32bef1bf8374",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816940296_image_6.png",
+            "trim": {
+              "x": 84,
+              "y": 399,
+              "width": 132,
+              "height": 56,
+              "rotatedWidth": 132,
+              "rotatedHeight": 56
+            },
+            "rawWidth": 132,
+            "rawHeight": 56,
+            "width": 138,
+            "height": 62,
+            "originalPath": "F:/git/skqsj/library/imports/d0/d0c8f7d1-063e-4394-90a7-32bef1bf8374.png",
+            "x": 81,
+            "y": 396,
+            "rotatedWidth": 138,
+            "rotatedHeight": 62
+          },
+          {
+            "name": "common_icon_skip",
+            "uuid": "b6d4de1e-6be2-46ec-aef7-cca5b19a56db",
+            "textureUuid": "ca6b2ca4-1768-49c0-95a9-59cbcee19ceb",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816940296_image_8.png",
+            "trim": {
+              "x": 200,
+              "y": 319,
+              "width": 52,
+              "height": 67,
+              "rotatedWidth": 52,
+              "rotatedHeight": 67
+            },
+            "rawWidth": 52,
+            "rawHeight": 67,
+            "width": 58,
+            "height": 73,
+            "originalPath": "F:/git/skqsj/library/imports/ca/ca6b2ca4-1768-49c0-95a9-59cbcee19ceb.png",
+            "x": 197,
+            "y": 316,
+            "rotatedWidth": 58,
+            "rotatedHeight": 73
+          },
+          {
+            "name": "game_btn_pause",
+            "uuid": "ee37a461-3c82-4ba3-ad52-ec5b2bed765e",
+            "textureUuid": "5abfe914-9262-4034-a728-a29f9b7973f6",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816940297_image_11.png",
+            "trim": {
+              "x": 149,
+              "y": 461,
+              "width": 90,
+              "height": 56,
+              "rotatedWidth": 90,
+              "rotatedHeight": 56
+            },
+            "rawWidth": 90,
+            "rawHeight": 56,
+            "width": 96,
+            "height": 62,
+            "originalPath": "F:/git/skqsj/library/imports/5a/5abfe914-9262-4034-a728-a29f9b7973f6.png",
+            "x": 146,
+            "y": 458,
+            "rotatedWidth": 96,
+            "rotatedHeight": 62
+          },
+          {
+            "name": "game_icon_ap",
+            "uuid": "266ba6a2-435b-4e46-98ea-ab0a57b037f5",
+            "textureUuid": "5a8ec16f-1fc6-47ed-af8f-b073613f3910",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816940295_image_0.png",
+            "trim": {
+              "x": 173,
+              "y": 523,
+              "width": 54,
+              "height": 52,
+              "rotatedWidth": 54,
+              "rotatedHeight": 52
+            },
+            "rawWidth": 54,
+            "rawHeight": 52,
+            "width": 60,
+            "height": 58,
+            "originalPath": "F:/git/skqsj/library/imports/5a/5a8ec16f-1fc6-47ed-af8f-b073613f3910.png",
+            "x": 170,
+            "y": 520,
+            "rotatedWidth": 60,
+            "rotatedHeight": 58
+          }
+        ],
+        "width": 255,
+        "height": 597,
+        "name": "AutoAtlas-1",
+        "imagePath": "F:\\git\\skqsj\\temp\\TexturePacker\\build\\raw-assets\\切图2\\游戏中UI\\drawable-xhdpi\\AutoAtlas.pac\\AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "F:\\git\\skqsj\\temp\\TexturePacker\\build\\raw-assets\\切图2\\游戏中UI\\drawable-xhdpi\\AutoAtlas.pac\\compressed\\AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

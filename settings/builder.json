@@ -2,7 +2,11 @@
   "title": "skqsj",
   "packageName": "",
   "startScene": "2ed70b6c-4ebd-4afc-b3a8-d3ca4c4f9e37",
-  "excludeScenes": [],
+  "excludeScenes": [
+    "3bb307a5-59d2-4248-b26a-eacb98827a42",
+    "0ac5c875-743c-4312-ab3b-19d89fbbe11d",
+    "849befb2-0763-4955-b42d-f7bbc72eaec4"
+  ],
   "includeSDKBox": false,
   "orientation": {
     "landscapeLeft": true,

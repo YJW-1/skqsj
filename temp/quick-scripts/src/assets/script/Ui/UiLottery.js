@@ -157,6 +157,7 @@ var UiLottery = /** @class */ (function (_super) {
     };
     UiLottery.prototype.onOpen = function () {
         this.scaleNode.scale = 0;
+        CocosZ_1.cocosz.gameMgr.isDelay = false;
         cc.tween(this.scaleNode)
             .to(0.2, { scale: 1 })
             .call(function () {

@@ -198,8 +198,8 @@ export default class UiSign extends UIPage {
         let curDate = new Date();
         cocosz.dataMgr.LastBonusTime = curDate.toDateString();
         cc.log(cocosz.dataMgr.SkinVedioNum, "cocosz.dataMgr.SkinVedioNum");
-        cocosz.dataMgr.SkinVedioNum += 5;
-        Msg.Show("恭喜获得5个关卡跳过卡")
+        cocosz.dataMgr.CoinCount += 500;
+        Msg.Show("恭喜获得500金币")
     }
 
     protected onBack() {

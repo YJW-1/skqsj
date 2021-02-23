@@ -71,8 +71,8 @@ var NormalModelCtr = /** @class */ (function (_super) {
         cc.director.getScheduler().enableForTarget(this);
         this._initBg();
         if (CocosZ_1.cocosz.sceneMgr.sceneName == "Game") {
-            this._initGame();
-            // this._initGame2();
+            // this._initGame()
+            this._initGame2();
         }
         else if (CocosZ_1.cocosz.sceneMgr.sceneName == "Game2") {
             this._initEndlessGame();
@@ -196,6 +196,7 @@ var NormalModelCtr = /** @class */ (function (_super) {
         CocosZ_1.cocosz.gameMgr.isFeed = false;
         // cocosz.gameMgr.isOpenRewardLevel = false;
         CocosZ_1.cocosz.gameMgr.fraction = 0;
+        CocosZ_1.cocosz.gameMgr.isDelay = false;
         CocosZ_1.cocosz.gameMgr.surplusLevelNum = 0;
         CocosZ_1.cocosz.gameMgr.touchNum = 0;
         // let num = this._getLevelID()

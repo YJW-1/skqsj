@@ -80,8 +80,8 @@ export default class NormalModelCtr extends GameCtr {
 
         if (cocosz.sceneMgr.sceneName == "Game") {
 
-            this._initGame()
-            // this._initGame2();
+            // this._initGame()
+            this._initGame2();
         }
         else if (cocosz.sceneMgr.sceneName == "Game2") {
             this._initEndlessGame();
@@ -234,6 +234,8 @@ export default class NormalModelCtr extends GameCtr {
         cocosz.gameMgr.isFeed = false;
         // cocosz.gameMgr.isOpenRewardLevel = false;
         cocosz.gameMgr.fraction = 0
+        
+        cocosz.gameMgr.isDelay = false;
 
         cocosz.gameMgr.surplusLevelNum = 0
         cocosz.gameMgr.touchNum = 0;

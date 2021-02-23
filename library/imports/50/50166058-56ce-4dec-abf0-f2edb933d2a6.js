@@ -153,8 +153,8 @@ var UiSign = /** @class */ (function (_super) {
         var curDate = new Date();
         CocosZ_1.cocosz.dataMgr.LastBonusTime = curDate.toDateString();
         cc.log(CocosZ_1.cocosz.dataMgr.SkinVedioNum, "cocosz.dataMgr.SkinVedioNum");
-        CocosZ_1.cocosz.dataMgr.SkinVedioNum += 5;
-        Msg_1.default.Show("恭喜获得5个关卡跳过卡");
+        CocosZ_1.cocosz.dataMgr.CoinCount += 500;
+        Msg_1.default.Show("恭喜获得500金币");
     };
     UiSign.prototype.onBack = function () {
         var _this = this;

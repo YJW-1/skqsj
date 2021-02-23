@@ -1,0 +1,4418 @@
+{
+  "projectPath": "F:\\git\\skqsj",
+  "mtimes": {
+    "5e54257d-269d-4f6d-b688-ac4bd16f21a2": {
+      "assetMtime": 1601359092372,
+      "metaMtime": 1612605569931
+    },
+    "07e34f2c-bf0e-4b95-a525-0825ce0bc73a": {
+      "assetMtime": 1606961786927,
+      "metaMtime": 1612605570549
+    },
+    "334bd845-3072-474e-b084-d2397cbce492": {
+      "assetMtime": 1606961786927,
+      "metaMtime": 1612605570549
+    },
+    "084c16d5-0770-47fe-ad91-327617a8bff6": {
+      "assetMtime": 1606961781666,
+      "metaMtime": 1612605569994
+    },
+    "d1183df1-327e-4449-971f-3d2b97f2e8c7": {
+      "assetMtime": 1606961781666,
+      "metaMtime": 1612605569994
+    },
+    "087f9daf-848b-4b78-931e-f1c24f5f08c8": {
+      "assetMtime": 1606961786361,
+      "metaMtime": 1612605570498
+    },
+    "fbc576a2-81dd-4fe9-abfe-715d2566841f": {
+      "assetMtime": 1606961786361,
+      "metaMtime": 1612605570498
+    },
+    "09ed8bf1-dfa0-474f-afa1-24fc8bd3816a": {
+      "assetMtime": 1606961784623,
+      "metaMtime": 1612605570343
+    },
+    "08ac731e-8480-440b-8dd8-4bba619452c7": {
+      "assetMtime": 1606961784623,
+      "metaMtime": 1612605570343
+    },
+    "0a0e0306-ac47-474f-9eee-b892d3cba1c7": {
+      "assetMtime": 1606961788939,
+      "metaMtime": 1612605570753
+    },
+    "3f8f1bb3-c28e-49e0-92aa-f20885496083": {
+      "assetMtime": 1606961788939,
+      "metaMtime": 1612605570753
+    },
+    "0c0b6965-8b8c-44bb-9eb7-5ecc9a310bf5": {
+      "assetMtime": 1606961785264,
+      "metaMtime": 1612605570401
+    },
+    "45afea88-482c-4fe4-a160-f41c56807afd": {
+      "assetMtime": 1606961785264,
+      "metaMtime": 1612605570401
+    },
+    "0cd87f94-20e5-4298-8b58-749b7b866441": {
+      "assetMtime": 1606961787981,
+      "metaMtime": 1612605570666
+    },
+    "0dfdaa98-5c7e-4626-b7df-735042c3c1c9": {
+      "assetMtime": 1606961787981,
+      "metaMtime": 1612605570666
+    },
+    "0ea1a72f-a373-4370-a14d-05fbc7c4ca42": {
+      "assetMtime": 1606961789392,
+      "metaMtime": 1612605570801
+    },
+    "bb123f3b-2699-4482-baca-1bb362f3fbc9": {
+      "assetMtime": 1606961789392,
+      "metaMtime": 1612605570801
+    },
+    "10e86106-0df7-4ae4-b86e-1e37941623bc": {
+      "assetMtime": 1606961787404,
+      "metaMtime": 1612605570583
+    },
+    "a0369634-7546-4b7a-adfb-23b4095bb128": {
+      "assetMtime": 1606961787404,
+      "metaMtime": 1612605570583
+    },
+    "10f7e107-57bf-4a95-84d9-94012b918d3d": {
+      "assetMtime": 1606961786835,
+      "metaMtime": 1612605570555
+    },
+    "5e4006e4-8647-4013-a036-ea4d4e16418d": {
+      "assetMtime": 1606961786835,
+      "metaMtime": 1612605570555
+    },
+    "11761c33-bba1-4f60-8200-a129b6153613": {
+      "assetMtime": 1606961781995,
+      "metaMtime": 1612605570034
+    },
+    "0c7a216b-ae49-4dfa-b3a6-e017233b2cad": {
+      "assetMtime": 1606961781995,
+      "metaMtime": 1612605570034
+    },
+    "128ac983-62d1-477d-befb-e67b2b7db519": {
+      "assetMtime": 1606961787436,
+      "metaMtime": 1612605570600
+    },
+    "5551ad5d-7d69-426e-bc33-3868f00c26d8": {
+      "assetMtime": 1606961787436,
+      "metaMtime": 1612605570600
+    },
+    "169c05a1-e89b-4e07-ae8b-355eabb068c2": {
+      "assetMtime": 1606961788234,
+      "metaMtime": 1612605570680
+    },
+    "a5a4fd3e-8a8b-4157-96be-e89ba9a2ef9f": {
+      "assetMtime": 1606961788234,
+      "metaMtime": 1612605570680
+    },
+    "18e630e8-5757-4755-80e1-3092515e9ed8": {
+      "assetMtime": 1606961788205,
+      "metaMtime": 1612605570681
+    },
+    "c8f62477-606e-4c5c-be43-2cfea347a0f1": {
+      "assetMtime": 1606961788205,
+      "metaMtime": 1612605570681
+    },
+    "19abf6a0-99ba-4c9d-a6fd-dedf1f818c35": {
+      "assetMtime": 1606961781450,
+      "metaMtime": 1612605569984
+    },
+    "968d7010-d4e8-46e7-a054-ac98fa5ea028": {
+      "assetMtime": 1606961781450,
+      "metaMtime": 1612605569984
+    },
+    "1a12bf83-eda3-4304-b2df-67733a96cc4d": {
+      "assetMtime": 1606961783500,
+      "metaMtime": 1612605570215
+    },
+    "737078e4-896d-44a0-86b4-65be3965b783": {
+      "assetMtime": 1606961783500,
+      "metaMtime": 1612605570215
+    },
+    "1a713421-0050-4bb8-b599-8cd7e2738cac": {
+      "assetMtime": 1606961786966,
+      "metaMtime": 1612605570563
+    },
+    "15ffe8d0-99d8-47d7-b026-e89569b57828": {
+      "assetMtime": 1606961786966,
+      "metaMtime": 1612605570563
+    },
+    "1adf85fa-4d1a-4fc2-8ca2-a4666753947b": {
+      "assetMtime": 1606961781868,
+      "metaMtime": 1612605570017
+    },
+    "04ce5aba-1908-4e78-9f15-0e02290a700b": {
+      "assetMtime": 1606961781868,
+      "metaMtime": 1612605570017
+    },
+    "1cb2ed32-524f-4ffd-b222-f654d2a70737": {
+      "assetMtime": 1606961787826,
+      "metaMtime": 1612605570650
+    },
+    "fa948f97-d081-46f3-996e-658ed336aec8": {
+      "assetMtime": 1606961787826,
+      "metaMtime": 1612605570650
+    },
+    "23ddd836-a3fb-44f2-b9dd-ec3380a6f674": {
+      "assetMtime": 1606961788504,
+      "metaMtime": 1612605570705
+    },
+    "b008e3a2-b8c0-4c81-a0a2-0bbee600470b": {
+      "assetMtime": 1606961788504,
+      "metaMtime": 1612605570705
+    },
+    "261232bf-013e-42b2-aef8-6945e5ecbc8b": {
+      "assetMtime": 1606961783471,
+      "metaMtime": 1612605570207
+    },
+    "e6838bc0-3b55-44d4-ae43-d0220156f90e": {
+      "assetMtime": 1606961783471,
+      "metaMtime": 1612605570207
+    },
+    "2a403582-6042-4e4b-b40f-e9500a5ffc7b": {
+      "assetMtime": 1606961788728,
+      "metaMtime": 1612605570727
+    },
+    "57897b33-8e5e-421d-b30d-53291f38f3e4": {
+      "assetMtime": 1606961788728,
+      "metaMtime": 1612605570727
+    },
+    "2abd3829-f64f-4095-a7fd-a9aa9215ba0f": {
+      "assetMtime": 1606961787589,
+      "metaMtime": 1612605570629
+    },
+    "5a02c100-1efa-4b8f-ad80-31112c2d5422": {
+      "assetMtime": 1606961787589,
+      "metaMtime": 1612605570629
+    },
+    "32996290-9245-489e-aaf6-c0979a7af045": {
+      "assetMtime": 1606961781275,
+      "metaMtime": 1612605569930
+    },
+    "4bde65e5-e90d-45a1-af39-0d6ff694647c": {
+      "assetMtime": 1606961781275,
+      "metaMtime": 1612605569930
+    },
+    "32cda140-5deb-4811-bd83-34075e273476": {
+      "assetMtime": 1606961787668,
+      "metaMtime": 1612605570607
+    },
+    "8e1255b7-8934-47de-8e71-9cfbcf706e10": {
+      "assetMtime": 1606961787668,
+      "metaMtime": 1612605570607
+    },
+    "335f4100-b228-4f17-903a-6840c293f554": {
+      "assetMtime": 1606961782123,
+      "metaMtime": 1612605570044
+    },
+    "9aa64c06-4d61-4b9a-ba5f-f0ecb16d2e32": {
+      "assetMtime": 1606961782123,
+      "metaMtime": 1612605570044
+    },
+    "3cb7a791-6a01-48fb-9655-932dc73d531d": {
+      "assetMtime": 1606961787052,
+      "metaMtime": 1612605570569
+    },
+    "93a1d615-ec8e-4b0e-9a40-9011a02ec71d": {
+      "assetMtime": 1606961787052,
+      "metaMtime": 1612605570569
+    },
+    "3dd0b5be-2d78-4031-af3b-3e36f5e9c043": {
+      "assetMtime": 1606961786146,
+      "metaMtime": 1612605570483
+    },
+    "483a60c6-37b0-4a76-8fc4-33744eaec56b": {
+      "assetMtime": 1606961786146,
+      "metaMtime": 1612605570483
+    },
+    "3e3de46f-4a87-45cf-bb52-6f386b6ea4c0": {
+      "assetMtime": 1606961784798,
+      "metaMtime": 1612605570365
+    },
+    "197897ec-b46f-405f-b9e3-a5bcb27f0d06": {
+      "assetMtime": 1606961784798,
+      "metaMtime": 1612605570365
+    },
+    "3f33b4db-07e6-4b45-8f9a-4b6dd213e881": {
+      "assetMtime": 1606961787760,
+      "metaMtime": 1612605570643
+    },
+    "27b18996-ca8e-41d1-bd16-14d194418bfc": {
+      "assetMtime": 1606961787760,
+      "metaMtime": 1612605570643
+    },
+    "3f5c3703-0450-488e-a083-906da0ae5017": {
+      "assetMtime": 1606961783125,
+      "metaMtime": 1612605570167
+    },
+    "4cfacdfb-7992-4a1f-b716-54f15eef2b14": {
+      "assetMtime": 1606961783125,
+      "metaMtime": 1612605570167
+    },
+    "4389cd5b-b91d-46d2-ad17-32eec2bab4f8": {
+      "assetMtime": 1606961786312,
+      "metaMtime": 1612605570498
+    },
+    "e876ee45-8ade-4f72-b930-008bda64d9c5": {
+      "assetMtime": 1606961786312,
+      "metaMtime": 1612605570498
+    },
+    "44d122fe-aa14-4443-a13b-63e1423a0af9": {
+      "assetMtime": 1606961783239,
+      "metaMtime": 1612605570180
+    },
+    "cc942558-0021-490c-a080-415d0929ebcf": {
+      "assetMtime": 1606961783239,
+      "metaMtime": 1612605570180
+    },
+    "46c9d1a5-3682-419a-9591-045dbb86536b": {
+      "assetMtime": 1606961788876,
+      "metaMtime": 1612605570743
+    },
+    "8f761190-70e3-4a37-b49d-54029eb0b174": {
+      "assetMtime": 1606961788876,
+      "metaMtime": 1612605570743
+    },
+    "475043fe-e8a0-421b-a34f-bf7124035e22": {
+      "assetMtime": 1606961789293,
+      "metaMtime": 1612605570791
+    },
+    "c34bc70b-74b7-4972-9f46-f23cc7e3e510": {
+      "assetMtime": 1606961789293,
+      "metaMtime": 1612605570791
+    },
+    "47ea1ba8-bcd2-4b79-a7b4-1c55ee41187a": {
+      "assetMtime": 1606961788434,
+      "metaMtime": 1612605570694
+    },
+    "25cc8e22-0c4e-4729-9ae8-cfc6b7dd58ca": {
+      "assetMtime": 1606961788434,
+      "metaMtime": 1612605570694
+    },
+    "482f80a3-0b58-4276-84c1-fc70f573d809": {
+      "assetMtime": 1606961788810,
+      "metaMtime": 1612605570735
+    },
+    "f419cb53-2800-4851-9230-3ca6acbc5ba4": {
+      "assetMtime": 1606961788810,
+      "metaMtime": 1612605570735
+    },
+    "4831e8d0-5769-4e52-8357-a9eff506048e": {
+      "assetMtime": 1606961786005,
+      "metaMtime": 1612605570477
+    },
+    "f7af16c5-ce62-4cca-ac4c-aa9f7533baa7": {
+      "assetMtime": 1606961786005,
+      "metaMtime": 1612605570477
+    },
+    "491018b4-44a1-4dee-8ab4-2b14fd2149d2": {
+      "assetMtime": 1606961781796,
+      "metaMtime": 1612605570009
+    },
+    "e80931eb-0738-4754-81eb-e3224c1157ad": {
+      "assetMtime": 1606961781796,
+      "metaMtime": 1612605570009
+    },
+    "4a6282e3-7ad6-4f59-aba6-131593527474": {
+      "assetMtime": 1606961788044,
+      "metaMtime": 1612605570674
+    },
+    "26305d5b-1192-4f97-b2c7-6841834eb28f": {
+      "assetMtime": 1606961788044,
+      "metaMtime": 1612605570674
+    },
+    "4ed11e93-d23f-40dc-807f-84c8a86e06b6": {
+      "assetMtime": 1606961784484,
+      "metaMtime": 1612605570326
+    },
+    "cfe92475-79e0-4004-a71b-e46d6289852b": {
+      "assetMtime": 1606961784484,
+      "metaMtime": 1612605570326
+    },
+    "5222d9a4-87cd-4809-a387-9a545fe94ca4": {
+      "assetMtime": 1606961783097,
+      "metaMtime": 1612605570166
+    },
+    "c02686eb-625d-41a7-b05f-ae2ce092262d": {
+      "assetMtime": 1606961783097,
+      "metaMtime": 1612605570166
+    },
+    "54c47223-094f-4fef-b33d-ea5eb33fa205": {
+      "assetMtime": 1606961783990,
+      "metaMtime": 1612605570273
+    },
+    "c8505778-4912-4881-aafd-73da244fcdff": {
+      "assetMtime": 1606961783990,
+      "metaMtime": 1612605570273
+    },
+    "567ed869-dacf-4f82-bf34-f353b41b3a3a": {
+      "assetMtime": 1606961784314,
+      "metaMtime": 1612605570309
+    },
+    "6d2565b5-2065-4cc6-8fa9-8600e538d4d0": {
+      "assetMtime": 1606961784314,
+      "metaMtime": 1612605570309
+    },
+    "56a277d4-c770-4235-a5af-8e4c2a5821e4": {
+      "assetMtime": 1606961784439,
+      "metaMtime": 1612605570325
+    },
+    "c4f66919-5fdf-408d-a5f5-8bc37bd51eb2": {
+      "assetMtime": 1606961784439,
+      "metaMtime": 1612605570325
+    },
+    "57ceb9d9-52bf-4627-b2c9-4ef679c12337": {
+      "assetMtime": 1606961785383,
+      "metaMtime": 1612605570415
+    },
+    "206709b9-889e-4380-8420-e1cc865f94fb": {
+      "assetMtime": 1606961785383,
+      "metaMtime": 1612605570415
+    },
+    "580c4e7c-cdc9-4e1b-9aa9-ea5d38167397": {
+      "assetMtime": 1606961785075,
+      "metaMtime": 1612605570380
+    },
+    "a1e03838-dbd1-499f-9fb2-7dbb9e30a5af": {
+      "assetMtime": 1606961785075,
+      "metaMtime": 1612605570380
+    },
+    "5839fd29-78dc-412d-9382-30bd289f46fa": {
+      "assetMtime": 1606961783209,
+      "metaMtime": 1612605570181
+    },
+    "1f0b31b7-0737-4e39-a74b-e921ba2c0290": {
+      "assetMtime": 1606961783209,
+      "metaMtime": 1612605570181
+    },
+    "586e35d3-fdf1-45dc-9a13-728ec448b92a": {
+      "assetMtime": 1606961786998,
+      "metaMtime": 1612605570562
+    },
+    "964f6560-462a-43e2-a4eb-9251a7a0fc7c": {
+      "assetMtime": 1606961786998,
+      "metaMtime": 1612605570562
+    },
+    "58d20807-3389-45c6-8ed6-4adb7be79fc2": {
+      "assetMtime": 1606961783660,
+      "metaMtime": 1612605570234
+    },
+    "9eebfacb-5c2f-41d7-92f2-13cdf8ce7945": {
+      "assetMtime": 1606961783660,
+      "metaMtime": 1612605570234
+    },
+    "59fc43ff-9659-473e-9589-983c96679f7f": {
+      "assetMtime": 1606961786435,
+      "metaMtime": 1612605570508
+    },
+    "2bee8361-e982-4d96-91cb-990ca4a8990d": {
+      "assetMtime": 1606961786435,
+      "metaMtime": 1612605570508
+    },
+    "5dcfebd9-2904-49ef-a39a-f6fd1b169691": {
+      "assetMtime": 1606961785601,
+      "metaMtime": 1612605570434
+    },
+    "c19e4060-6081-4ea7-aae8-b944d071c4d9": {
+      "assetMtime": 1606961785601,
+      "metaMtime": 1612605570434
+    },
+    "5e70b030-027b-44e7-afeb-007a6a97d390": {
+      "assetMtime": 1606961781504,
+      "metaMtime": 1612605569995
+    },
+    "267eb958-8d68-4227-89f5-9d788431f6fe": {
+      "assetMtime": 1606961781504,
+      "metaMtime": 1612605569995
+    },
+    "5f341fd4-de80-479f-8f2f-76085d0d0343": {
+      "assetMtime": 1606961786085,
+      "metaMtime": 1612605570470
+    },
+    "9a50054a-6f57-48ed-9885-90f69d681ed5": {
+      "assetMtime": 1606961786085,
+      "metaMtime": 1612605570470
+    },
+    "619d807f-a224-4476-8c71-436c0cca892c": {
+      "assetMtime": 1606961785632,
+      "metaMtime": 1612605570440
+    },
+    "3c4ed99a-fa9c-4011-9eec-a0245a51a062": {
+      "assetMtime": 1606961785632,
+      "metaMtime": 1612605570440
+    },
+    "61b27599-464e-4f2a-8b76-7c5df6aa1416": {
+      "assetMtime": 1606961788763,
+      "metaMtime": 1612605570728
+    },
+    "910024e3-b377-40ce-bd6f-13becf1aa14c": {
+      "assetMtime": 1606961788763,
+      "metaMtime": 1612605570728
+    },
+    "61c70ff7-2e52-480f-910a-d8d2713e21c8": {
+      "assetMtime": 1606961785906,
+      "metaMtime": 1612605570460
+    },
+    "e0444438-a1bb-4c74-a967-143b2a3b8e65": {
+      "assetMtime": 1606961785906,
+      "metaMtime": 1612605570460
+    },
+    "657774bc-234c-419b-a163-f091fbc626a7": {
+      "assetMtime": 1606961784221,
+      "metaMtime": 1612605570294
+    },
+    "125b83b7-294f-4b58-9dcd-f8d1be4602bd": {
+      "assetMtime": 1606961784221,
+      "metaMtime": 1612605570294
+    },
+    "69b66e19-d631-4df4-a2f3-30a17016bdf6": {
+      "assetMtime": 1606961788905,
+      "metaMtime": 1612605570745
+    },
+    "07b1d87e-fb66-4c20-991f-5afb172ece3b": {
+      "assetMtime": 1606961788905,
+      "metaMtime": 1612605570745
+    },
+    "6df33c09-f23a-496b-9406-a51d4f8c13e8": {
+      "assetMtime": 1606961781312,
+      "metaMtime": 1612605569949
+    },
+    "b2a4e336-522c-4723-ac00-9893b1cb1a6e": {
+      "assetMtime": 1606961781312,
+      "metaMtime": 1612605569949
+    },
+    "6e2f0010-a4f4-46cf-8841-bbe1d5006bee": {
+      "assetMtime": 1606961787624,
+      "metaMtime": 1612605570630
+    },
+    "d2ab2e92-3f91-4883-9821-d65e2c3d0c7d": {
+      "assetMtime": 1606961787624,
+      "metaMtime": 1612605570630
+    },
+    "73dddd61-33ef-4ea6-8aac-6ffb6d6d83a0": {
+      "assetMtime": 1606961787727,
+      "metaMtime": 1612605570636
+    },
+    "4a4a2e18-0d94-4507-8760-a176b59d14ad": {
+      "assetMtime": 1606961787727,
+      "metaMtime": 1612605570636
+    },
+    "745581ab-437d-4e69-9131-0e3cd2475906": {
+      "assetMtime": 1606961784283,
+      "metaMtime": 1612605570301
+    },
+    "35ab2e7c-3108-4c19-a8e1-ca7cbc9469de": {
+      "assetMtime": 1606961784283,
+      "metaMtime": 1612605570301
+    },
+    "74cce8ab-9b2d-4813-add5-4e043bddb1c2": {
+      "assetMtime": 1606961786798,
+      "metaMtime": 1612605570548
+    },
+    "62d25b58-f249-458c-a06c-f063cb65f16c": {
+      "assetMtime": 1606961786798,
+      "metaMtime": 1612605570548
+    },
+    "7807cd29-6a69-406a-b4ac-36660ca5f8cc": {
+      "assetMtime": 1606961784593,
+      "metaMtime": 1612605570342
+    },
+    "ea25a7ee-e4c6-4341-9fef-0675faf655d6": {
+      "assetMtime": 1606961784593,
+      "metaMtime": 1612605570342
+    },
+    "7925a300-7066-4969-9bff-544b16d7f3bd": {
+      "assetMtime": 1606961784372,
+      "metaMtime": 1612605570319
+    },
+    "29cc7856-90c8-4694-8ed4-bb35dd5c751e": {
+      "assetMtime": 1606961784372,
+      "metaMtime": 1612605570319
+    },
+    "7a1499c7-8534-4fd1-84bb-27a000d797a9": {
+      "assetMtime": 1606961781739,
+      "metaMtime": 1612605570003
+    },
+    "bb8c4258-f493-40bc-8f4b-df3ed40c7f11": {
+      "assetMtime": 1606961781739,
+      "metaMtime": 1612605570003
+    },
+    "7e8dab05-a59f-4de1-9eac-4645470ad44b": {
+      "assetMtime": 1606961782158,
+      "metaMtime": 1612605570041
+    },
+    "82433ab5-99ea-4648-a151-d6cf0669b261": {
+      "assetMtime": 1606961782158,
+      "metaMtime": 1612605570041
+    },
+    "7ef027d3-2f3b-4a04-bb8e-7f60d33ef501": {
+      "assetMtime": 1606961787476,
+      "metaMtime": 1612605570608
+    },
+    "fb770b0f-705a-404d-9b54-4379e94ee7d8": {
+      "assetMtime": 1606961787476,
+      "metaMtime": 1612605570608
+    },
+    "80f1bd73-dab4-446c-a51f-86ceb693ab76": {
+      "assetMtime": 1606961786766,
+      "metaMtime": 1612605570540
+    },
+    "9985ed8e-be06-4d58-ae8f-de24f665f525": {
+      "assetMtime": 1606961786766,
+      "metaMtime": 1612605570540
+    },
+    "80f83253-8926-4466-95e0-a94ada345892": {
+      "assetMtime": 1606961787795,
+      "metaMtime": 1612605570644
+    },
+    "b0975fde-0423-446e-bb60-7da8a004b860": {
+      "assetMtime": 1606961787795,
+      "metaMtime": 1612605570644
+    },
+    "8250570b-e9e5-4c2e-8879-2e396c5c2e48": {
+      "assetMtime": 1606961785139,
+      "metaMtime": 1612605570392
+    },
+    "3bb76275-c0a9-4b15-981c-61ab46ae48e4": {
+      "assetMtime": 1606961785139,
+      "metaMtime": 1612605570392
+    },
+    "82554679-a0a3-4832-a833-ba990bebe469": {
+      "assetMtime": 1606961785944,
+      "metaMtime": 1612605570476
+    },
+    "80609c12-7f0a-459a-aad3-fddaad2400d5": {
+      "assetMtime": 1606961785944,
+      "metaMtime": 1612605570476
+    },
+    "8677470e-df4a-4f68-94c6-5d5d88ff54cf": {
+      "assetMtime": 1606961787084,
+      "metaMtime": 1612605570577
+    },
+    "460edf58-c558-4a85-afa1-4512254bd448": {
+      "assetMtime": 1606961787084,
+      "metaMtime": 1612605570577
+    },
+    "87bf84d9-e71b-4e20-b43c-5f979b2abdd6": {
+      "assetMtime": 1606961785817,
+      "metaMtime": 1612605570459
+    },
+    "1bb0ab4f-856d-41c4-ae8f-336e06f08f47": {
+      "assetMtime": 1606961785817,
+      "metaMtime": 1612605570459
+    },
+    "89c14c8a-f6c7-41b2-88ed-0bc2a8a39323": {
+      "assetMtime": 1606961785041,
+      "metaMtime": 1612605570381
+    },
+    "2725a557-66ab-43f5-96c2-51c61deadca7": {
+      "assetMtime": 1606961785041,
+      "metaMtime": 1612605570381
+    },
+    "8ef8d82e-b788-4d04-95ee-d1364b63c7fe": {
+      "assetMtime": 1606961782224,
+      "metaMtime": 1612605570049
+    },
+    "1e50af15-4cb5-4ad1-baf9-5d4c286c8a56": {
+      "assetMtime": 1606961782224,
+      "metaMtime": 1612605570049
+    },
+    "8f9a7b36-9aee-4e93-bdbc-c6c1f75adddf": {
+      "assetMtime": 1606961783153,
+      "metaMtime": 1612605570173
+    },
+    "d5fd0d7c-9c7e-4967-bdea-e8a72564ea15": {
+      "assetMtime": 1606961783153,
+      "metaMtime": 1612605570173
+    },
+    "90bb1b8c-4da7-463c-9ef6-8563aaeac564": {
+      "assetMtime": 1606961784682,
+      "metaMtime": 1612605570350
+    },
+    "33c58b57-0798-4136-a286-565d0d5d6aac": {
+      "assetMtime": 1606961784682,
+      "metaMtime": 1612605570350
+    },
+    "92ec58a2-9311-4567-8ed8-5ef6aade1445": {
+      "assetMtime": 1606961782024,
+      "metaMtime": 1612605570035
+    },
+    "0f04a781-523f-44ab-a349-2e6c10009be8": {
+      "assetMtime": 1606961782024,
+      "metaMtime": 1612605570035
+    },
+    "94cd2233-c30e-4569-a9eb-71c30ed95096": {
+      "assetMtime": 1606961784739,
+      "metaMtime": 1612605570357
+    },
+    "311fe253-e2c3-49b3-9b92-5a91788c8a07": {
+      "assetMtime": 1606961784739,
+      "metaMtime": 1612605570357
+    },
+    "94e68745-136e-4622-86e7-1c5453037cdb": {
+      "assetMtime": 1606961784117,
+      "metaMtime": 1612605570286
+    },
+    "2106be6c-624e-47a8-a1cf-c25abb43ed1b": {
+      "assetMtime": 1606961784117,
+      "metaMtime": 1612605570286
+    },
+    "94f320af-8687-446d-bd1c-7e9a5f4be174": {
+      "assetMtime": 1606961783959,
+      "metaMtime": 1612605570267
+    },
+    "ff59eed3-251d-44ec-b812-4f270724f5ef": {
+      "assetMtime": 1606961783959,
+      "metaMtime": 1612605570267
+    },
+    "973a9a57-2aa9-44df-8004-9941d6f2241e": {
+      "assetMtime": 1606961781706,
+      "metaMtime": 1612605570002
+    },
+    "dab3861e-8653-42ad-a7d4-76ff4d55bd1e": {
+      "assetMtime": 1606961781706,
+      "metaMtime": 1612605570002
+    },
+    "98adec7f-8445-4f58-bcad-1945475f59de": {
+      "assetMtime": 1606961787125,
+      "metaMtime": 1612605570577
+    },
+    "681f045e-7415-4624-8e05-d87e3c014a0b": {
+      "assetMtime": 1606961787125,
+      "metaMtime": 1612605570577
+    },
+    "9a074efd-f542-4e6b-b38a-6a29f96d2ffd": {
+      "assetMtime": 1606961787178,
+      "metaMtime": 1612605570571
+    },
+    "7d858ae9-db80-4111-89e3-dfb440912712": {
+      "assetMtime": 1606961787178,
+      "metaMtime": 1612605570571
+    },
+    "9a7b5f9f-a7f7-43af-96b1-b1a39ab6f49d": {
+      "assetMtime": 1606961788102,
+      "metaMtime": 1612605570667
+    },
+    "7cea5ee7-90d5-482e-80df-2409791565a0": {
+      "assetMtime": 1606961788102,
+      "metaMtime": 1612605570667
+    },
+    "9b685496-a32d-4896-8773-12519d8b2444": {
+      "assetMtime": 1606961781836,
+      "metaMtime": 1612605570010
+    },
+    "6adac45f-7e82-4165-8e72-480ea5fca6a8": {
+      "assetMtime": 1606961781836,
+      "metaMtime": 1612605570010
+    },
+    "9d3c08ea-cfa7-4fb7-a8ab-b1aaeaa81ffa": {
+      "assetMtime": 1606961788532,
+      "metaMtime": 1612605570714
+    },
+    "fcd57c24-602b-4df7-a8ee-6b9a7409e80a": {
+      "assetMtime": 1606961788532,
+      "metaMtime": 1612605570714
+    },
+    "9df328e2-9c21-4b61-bceb-e829e26c2ec4": {
+      "assetMtime": 1606961786712,
+      "metaMtime": 1612605570541
+    },
+    "bbd8044a-c482-4b6f-9af3-a8a1092064fb": {
+      "assetMtime": 1606961786712,
+      "metaMtime": 1612605570541
+    },
+    "9f26094a-045f-4df3-93df-27047921a622": {
+      "assetMtime": 1606961784655,
+      "metaMtime": 1612605570351
+    },
+    "2621216b-9cbf-4087-99b9-7614eb10d791": {
+      "assetMtime": 1606961784655,
+      "metaMtime": 1612605570351
+    },
+    "a1a27811-4f15-4045-8d3c-4172488660a6": {
+      "assetMtime": 1606961786113,
+      "metaMtime": 1612605570469
+    },
+    "010165e0-0e42-47bb-a98e-2e01b232cf9c": {
+      "assetMtime": 1606961786113,
+      "metaMtime": 1612605570469
+    },
+    "a1bff4d9-ba18-46ee-b870-6873d438cf13": {
+      "assetMtime": 1606961781603,
+      "metaMtime": 1612605569972
+    },
+    "90ba97bf-6227-4a30-8648-3745eb4ce43b": {
+      "assetMtime": 1606961781603,
+      "metaMtime": 1612605569972
+    },
+    "a2d6e398-9c9a-4681-8f22-6da6f01ac532": {
+      "assetMtime": 1606961781962,
+      "metaMtime": 1612605570026
+    },
+    "dc4686c1-1372-44ed-8743-70a6a82f40d4": {
+      "assetMtime": 1606961781962,
+      "metaMtime": 1612605570026
+    },
+    "a45a9afa-aa1e-4481-a356-219b6375da5f": {
+      "assetMtime": 1606961783181,
+      "metaMtime": 1612605570174
+    },
+    "1c0f8e98-247d-4f01-9385-461f8024580b": {
+      "assetMtime": 1606961783181,
+      "metaMtime": 1612605570174
+    },
+    "a55b8445-9b24-4cd8-a874-c66a9a71273a": {
+      "assetMtime": 1606961783563,
+      "metaMtime": 1612605570224
+    },
+    "57af94cf-745f-4c34-b36d-2a9b61f5d3bc": {
+      "assetMtime": 1606961783563,
+      "metaMtime": 1612605570224
+    },
+    "a5c32e25-818a-4901-aa07-6801f75f5448": {
+      "assetMtime": 1606961785427,
+      "metaMtime": 1612605570407
+    },
+    "e7aa9fa2-6df2-4c28-824d-f8eef5234389": {
+      "assetMtime": 1606961785427,
+      "metaMtime": 1612605570407
+    },
+    "a6956c68-ead0-4983-bfa4-5acecd621418": {
+      "assetMtime": 1606961788991,
+      "metaMtime": 1612605570759
+    },
+    "1c5079aa-e428-4f64-9799-27b5a0d61056": {
+      "assetMtime": 1606961788991,
+      "metaMtime": 1612605570759
+    },
+    "a7b7e0c2-8b01-4139-8d90-706d7af8d620": {
+      "assetMtime": 1606961783068,
+      "metaMtime": 1612605570158
+    },
+    "c3b84011-32aa-4cad-bc1f-f353b6e3a47e": {
+      "assetMtime": 1606961783068,
+      "metaMtime": 1612605570158
+    },
+    "ad5b8a95-da66-48d9-b7eb-5bd090093509": {
+      "assetMtime": 1606961787261,
+      "metaMtime": 1612605570585
+    },
+    "ede93aea-b632-4ee3-b5fb-de13c0debb42": {
+      "assetMtime": 1606961787261,
+      "metaMtime": 1612605570585
+    },
+    "b1ffe25a-90a3-4763-a7cb-a918b68a574f": {
+      "assetMtime": 1606961781636,
+      "metaMtime": 1612605569973
+    },
+    "dc763034-71c0-4bcc-a1b9-54a8084d7c7b": {
+      "assetMtime": 1606961781636,
+      "metaMtime": 1612605569973
+    },
+    "b216c4c5-78f1-41ac-ad7a-a0ba5f380aed": {
+      "assetMtime": 1606961787861,
+      "metaMtime": 1612605570659
+    },
+    "41c1b332-4765-42ca-aa99-cff00c714d3d": {
+      "assetMtime": 1606961787861,
+      "metaMtime": 1612605570659
+    },
+    "b3849ab1-9f86-434d-bf1b-7a233f32a656": {
+      "assetMtime": 1606961784188,
+      "metaMtime": 1612605570293
+    },
+    "18e6d2d3-9d95-40d5-922b-ba369a35a817": {
+      "assetMtime": 1606961784188,
+      "metaMtime": 1612605570293
+    },
+    "b65ecf59-c898-4cd1-a3d5-f25e42acf163": {
+      "assetMtime": 1606961788309,
+      "metaMtime": 1612605570695
+    },
+    "e2c57c5a-5fd8-42da-bb06-34e5cfdba8c7": {
+      "assetMtime": 1606961788309,
+      "metaMtime": 1612605570695
+    },
+    "b6f7be68-f790-4b3c-99b1-89b4b3be5c9a": {
+      "assetMtime": 1606961786554,
+      "metaMtime": 1612605570523
+    },
+    "652c76e8-d202-464a-9601-00a815c6a40c": {
+      "assetMtime": 1606961786554,
+      "metaMtime": 1612605570523
+    },
+    "b987e900-6065-4b4c-8edf-d5c38880fe61": {
+      "assetMtime": 1606961781565,
+      "metaMtime": 1612605569958
+    },
+    "5ed82409-cfb9-4f49-917f-5bb53feb3a9f": {
+      "assetMtime": 1606961781565,
+      "metaMtime": 1612605569958
+    },
+    "bb17ad96-2b06-4351-b9f5-391c450369a2": {
+      "assetMtime": 1606961788471,
+      "metaMtime": 1612605570704
+    },
+    "8e1433bf-3fad-4982-b113-728572ef17ab": {
+      "assetMtime": 1606961788471,
+      "metaMtime": 1612605570704
+    },
+    "bb1ad647-85ac-4bb4-a525-f10be31afe01": {
+      "assetMtime": 1606961787941,
+      "metaMtime": 1612605570652
+    },
+    "599ac046-e233-4148-a3c6-fced16c65fc0": {
+      "assetMtime": 1606961787941,
+      "metaMtime": 1612605570652
+    },
+    "bef6ce9e-75cd-4710-bfb3-a1287e4f2467": {
+      "assetMtime": 1606961781535,
+      "metaMtime": 1612605569960
+    },
+    "3915053e-19cd-497f-a33b-5e38c872c727": {
+      "assetMtime": 1606961781535,
+      "metaMtime": 1612605569960
+    },
+    "c66241c6-b490-43bf-b47a-890366f7aa47": {
+      "assetMtime": 1606961783743,
+      "metaMtime": 1612605570241
+    },
+    "5d9e51c2-b4af-4253-b4ec-623ebf0afe7f": {
+      "assetMtime": 1606961783743,
+      "metaMtime": 1612605570241
+    },
+    "c7eb0550-6aa1-4dc8-bfa8-558281e94afb": {
+      "assetMtime": 1606961784543,
+      "metaMtime": 1612605570331
+    },
+    "f01b1584-8d95-46f9-9f6d-e3aab91315e3": {
+      "assetMtime": 1606961784543,
+      "metaMtime": 1612605570331
+    },
+    "c99546d3-258b-44a0-8c99-76b781455927": {
+      "assetMtime": 1606961785199,
+      "metaMtime": 1612605570400
+    },
+    "f060ed39-6be4-467f-b4e5-62fc13a57ce7": {
+      "assetMtime": 1606961785199,
+      "metaMtime": 1612605570400
+    },
+    "cc95760b-e79b-49d9-a78b-9f75364f8b0f": {
+      "assetMtime": 1606961786185,
+      "metaMtime": 1612605570484
+    },
+    "f95b46fe-6ed8-4206-a0df-7ef6f6758d1f": {
+      "assetMtime": 1606961786185,
+      "metaMtime": 1612605570484
+    },
+    "ceadc03b-c12c-4665-ba27-89e0afafae37": {
+      "assetMtime": 1606961784343,
+      "metaMtime": 1612605570312
+    },
+    "6a191d2d-d025-4129-92db-156784365b8d": {
+      "assetMtime": 1606961784343,
+      "metaMtime": 1612605570312
+    },
+    "ced85c7a-e524-4dde-980b-9e2779186b41": {
+      "assetMtime": 1606961786592,
+      "metaMtime": 1612605570522
+    },
+    "33a8b339-3d37-4f30-8069-a2d299dfe9ed": {
+      "assetMtime": 1606961786592,
+      "metaMtime": 1612605570522
+    },
+    "cf73d364-81c6-418e-9f1c-18ceb600f903": {
+      "assetMtime": 1606961783921,
+      "metaMtime": 1612605570266
+    },
+    "5c42b7a5-2000-40c9-8189-f8b497dd32d4": {
+      "assetMtime": 1606961783921,
+      "metaMtime": 1612605570266
+    },
+    "d0a4299c-7e6b-439f-852f-cc8df7732639": {
+      "assetMtime": 1606961787331,
+      "metaMtime": 1612605570592
+    },
+    "cec75fbb-fb26-43c7-91c3-a6e2ae440b6e": {
+      "assetMtime": 1606961787331,
+      "metaMtime": 1612605570592
+    },
+    "d44fb732-5cb4-40e0-a3bc-f16e4b31e8c9": {
+      "assetMtime": 1606961784917,
+      "metaMtime": 1612605570373
+    },
+    "ee95ada4-6537-46a0-9ab5-8b0f971aa84a": {
+      "assetMtime": 1606961784917,
+      "metaMtime": 1612605570373
+    },
+    "d496b88d-c737-4536-bf11-c3234d541920": {
+      "assetMtime": 1606961789055,
+      "metaMtime": 1612605570761
+    },
+    "16e0b9b8-c8ff-4e5f-b7ce-7e427420b132": {
+      "assetMtime": 1606961789055,
+      "metaMtime": 1612605570761
+    },
+    "d4dcb45d-1515-446a-b411-dc1bfce8759d": {
+      "assetMtime": 1606961784867,
+      "metaMtime": 1612605570366
+    },
+    "36a903b6-65d8-48f5-8102-56ba12d8cd54": {
+      "assetMtime": 1606961784867,
+      "metaMtime": 1612605570366
+    },
+    "d51a97a9-1d75-4ec3-96dc-daffbb15c15f": {
+      "assetMtime": 1606961786637,
+      "metaMtime": 1612605570531
+    },
+    "2b55b7e3-cd81-4dfa-aaf5-639481897a70": {
+      "assetMtime": 1606961786637,
+      "metaMtime": 1612605570531
+    },
+    "d53cb9c0-a826-4b36-aea7-2d217a014381": {
+      "assetMtime": 1606961787891,
+      "metaMtime": 1612605570658
+    },
+    "bab94ec5-e306-4f14-b8d6-f116a3c11f5d": {
+      "assetMtime": 1606961787891,
+      "metaMtime": 1612605570658
+    },
+    "d9fde243-f4ff-48a2-8b4f-1171fc0f56db": {
+      "assetMtime": 1606961788698,
+      "metaMtime": 1612605570721
+    },
+    "c98327d4-1414-4676-a43e-eacb5d8a3e6f": {
+      "assetMtime": 1606961788698,
+      "metaMtime": 1612605570721
+    },
+    "dadc3c35-931c-4bc1-80ef-525fe95c7091": {
+      "assetMtime": 1606961784513,
+      "metaMtime": 1612605570334
+    },
+    "9025e903-8e9c-4547-a1b7-e02214352baf": {
+      "assetMtime": 1606961784513,
+      "metaMtime": 1612605570334
+    },
+    "e2f8547b-186d-49d1-9612-e1dabc2e1c03": {
+      "assetMtime": 1606961789126,
+      "metaMtime": 1612605570769
+    },
+    "f47c09b2-0196-44b7-84b3-b629f14f31d0": {
+      "assetMtime": 1606961789126,
+      "metaMtime": 1612605570769
+    },
+    "e413e178-da88-41aa-b66c-0b082b1fa8ce": {
+      "assetMtime": 1606961786221,
+      "metaMtime": 1612605570490
+    },
+    "8e62e7e2-e835-46c2-a9da-6d8a8662c7b0": {
+      "assetMtime": 1606961786221,
+      "metaMtime": 1612605570490
+    },
+    "e64b0e08-4886-43af-93cd-c718867a6de6": {
+      "assetMtime": 1606961787515,
+      "metaMtime": 1612605570620
+    },
+    "689d4010-1344-45a6-8c8c-1e362250de95": {
+      "assetMtime": 1606961787515,
+      "metaMtime": 1612605570620
+    },
+    "e7305882-106c-4762-88f5-3fbc6f5fcd3f": {
+      "assetMtime": 1606961781229,
+      "metaMtime": 1612605569929
+    },
+    "8cf31793-4468-4914-8ca5-3f5737da3792": {
+      "assetMtime": 1606961781229,
+      "metaMtime": 1612605569929
+    },
+    "e890c86a-3c60-42c9-8c59-af23226110db": {
+      "assetMtime": 1606961788666,
+      "metaMtime": 1612605570722
+    },
+    "47c08a47-283a-4be1-9ec2-d790a05f5921": {
+      "assetMtime": 1606961788666,
+      "metaMtime": 1612605570722
+    },
+    "e8fa64a8-f28c-4740-8575-ad773ed68af2": {
+      "assetMtime": 1606961787557,
+      "metaMtime": 1612605570616
+    },
+    "690dd6cb-ee6e-4fc4-8131-a50ab14dbb22": {
+      "assetMtime": 1606961787557,
+      "metaMtime": 1612605570616
+    },
+    "ec3ebe5d-e4ca-4052-b332-c60c8cc1904f": {
+      "assetMtime": 1606961788844,
+      "metaMtime": 1612605570737
+    },
+    "581fb393-32a1-4e01-98a8-66ebf7b610cb": {
+      "assetMtime": 1606961788844,
+      "metaMtime": 1612605570737
+    },
+    "edcfd6db-728b-44ed-a7db-2afe533d2f73": {
+      "assetMtime": 1606961788161,
+      "metaMtime": 1612605570675
+    },
+    "056b0113-aefa-48ed-b4fa-c368bd3699d7": {
+      "assetMtime": 1606961788161,
+      "metaMtime": 1612605570675
+    },
+    "f1549f93-b078-4913-847d-9005705a46e7": {
+      "assetMtime": 1606961781345,
+      "metaMtime": 1612605569950
+    },
+    "4fb395fd-c3cb-42c1-96b6-5650a846c658": {
+      "assetMtime": 1606961781345,
+      "metaMtime": 1612605569950
+    },
+    "f4870d30-253a-44f2-aa10-82f878270f74": {
+      "assetMtime": 1606961786881,
+      "metaMtime": 1612605570556
+    },
+    "12f48f0f-be8d-462c-b238-d14017236f20": {
+      "assetMtime": 1606961786881,
+      "metaMtime": 1612605570556
+    },
+    "f6e81b9c-7043-4075-858d-87bc9883c060": {
+      "assetMtime": 1606961789361,
+      "metaMtime": 1612605570800
+    },
+    "9f52551b-640c-4baf-abf6-542fba0af71e": {
+      "assetMtime": 1606961789361,
+      "metaMtime": 1612605570800
+    },
+    "f70f9a90-b04a-4ae9-8979-1acf6c09f107": {
+      "assetMtime": 1606961784057,
+      "metaMtime": 1612605570281
+    },
+    "505a1e8b-4f93-4494-ade8-9ee5b6dcfaaf": {
+      "assetMtime": 1606961784057,
+      "metaMtime": 1612605570281
+    },
+    "f93bf7b4-6a55-466c-881f-74e540e03b0c": {
+      "assetMtime": 1606961783690,
+      "metaMtime": 1612605570240
+    },
+    "4718803e-ac08-4b1e-96bb-9438a39c24ad": {
+      "assetMtime": 1606961783690,
+      "metaMtime": 1612605570240
+    },
+    "fc25ae3f-bd99-47e7-a831-49caeeb7474d": {
+      "assetMtime": 1606961787697,
+      "metaMtime": 1612605570637
+    },
+    "2f38fda2-7745-4a22-a0b9-eef6ee30aa08": {
+      "assetMtime": 1606961787697,
+      "metaMtime": 1612605570637
+    },
+    "fca06c41-a9cc-4aac-8f88-b7ecb0832acd": {
+      "assetMtime": 1606961788383,
+      "metaMtime": 1612605570688
+    },
+    "02a024e5-442c-40a5-aa9b-d6e95ff96875": {
+      "assetMtime": 1606961788383,
+      "metaMtime": 1612605570688
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 2048,
+    "height": 2048,
+    "ver": "1.2.0",
+    "uuid": "5e54257d-269d-4f6d-b688-ac4bd16f21a2",
+    "maxWidth": 2048,
+    "maxHeight": 2048,
+    "padding": 2,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": false,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "slice619_@",
+            "uuid": "a6956c68-ead0-4983-bfa4-5acecd621418",
+            "textureUuid": "1c5079aa-e428-4f64-9799-27b5a0d61056",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941100_image_97.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 1975,
+              "height": 42,
+              "rotatedWidth": 42,
+              "rotatedHeight": 1975
+            },
+            "rawWidth": 1975,
+            "rawHeight": 42,
+            "width": 1981,
+            "height": 48,
+            "originalPath": "F:/git/skqsj/library/imports/1c/1c5079aa-e428-4f64-9799-27b5a0d61056.png",
+            "x": 0,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 48,
+            "rotatedHeight": 1981
+          },
+          {
+            "name": "left_balloon",
+            "uuid": "4ed11e93-d23f-40dc-807f-84c8a86e06b6",
+            "textureUuid": "cfe92475-79e0-4004-a71b-e46d6289852b",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941094_image_40.png",
+            "trim": {
+              "x": 3,
+              "y": 1984,
+              "width": 51,
+              "height": 61,
+              "rotatedWidth": 51,
+              "rotatedHeight": 61
+            },
+            "rawWidth": 51,
+            "rawHeight": 61,
+            "width": 57,
+            "height": 67,
+            "originalPath": "F:/git/skqsj/library/imports/cf/cfe92475-79e0-4004-a71b-e46d6289852b.png",
+            "x": 0,
+            "y": 1981,
+            "rotatedWidth": 57,
+            "rotatedHeight": 67
+          },
+          {
+            "name": "slice359_@",
+            "uuid": "4a6282e3-7ad6-4f59-aba6-131593527474",
+            "textureUuid": "26305d5b-1192-4f97-b2c7-6841834eb28f",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941094_image_39.png",
+            "trim": {
+              "x": 60,
+              "y": 3,
+              "width": 959,
+              "height": 108,
+              "rotatedWidth": 959,
+              "rotatedHeight": 108
+            },
+            "rawWidth": 959,
+            "rawHeight": 108,
+            "width": 965,
+            "height": 114,
+            "originalPath": "F:/git/skqsj/library/imports/26/26305d5b-1192-4f97-b2c7-6841834eb28f.png",
+            "x": 57,
+            "y": 0,
+            "rotatedWidth": 965,
+            "rotatedHeight": 114
+          },
+          {
+            "name": "slice19_19",
+            "uuid": "5f341fd4-de80-479f-8f2f-76085d0d0343",
+            "textureUuid": "9a50054a-6f57-48ed-9885-90f69d681ed5",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941095_image_53.png",
+            "trim": {
+              "x": 1025,
+              "y": 3,
+              "width": 554,
+              "height": 316,
+              "rotatedWidth": 554,
+              "rotatedHeight": 316
+            },
+            "rawWidth": 554,
+            "rawHeight": 316,
+            "width": 560,
+            "height": 322,
+            "originalPath": "F:/git/skqsj/library/imports/9a/9a50054a-6f57-48ed-9885-90f69d681ed5.png",
+            "x": 1022,
+            "y": 0,
+            "rotatedWidth": 560,
+            "rotatedHeight": 322
+          },
+          {
+            "name": "sfasf",
+            "uuid": "d44fb732-5cb4-40e0-a3bc-f16e4b31e8c9",
+            "textureUuid": "ee95ada4-6537-46a0-9ab5-8b0f971aa84a",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941102_image_117.png",
+            "trim": {
+              "x": 1585,
+              "y": 3,
+              "width": 190,
+              "height": 156,
+              "rotatedWidth": 156,
+              "rotatedHeight": 190
+            },
+            "rawWidth": 190,
+            "rawHeight": 156,
+            "width": 196,
+            "height": 162,
+            "originalPath": "F:/git/skqsj/library/imports/ee/ee95ada4-6537-46a0-9ab5-8b0f971aa84a.png",
+            "x": 1582,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 162,
+            "rotatedHeight": 196
+          },
+          {
+            "name": "slice211_@",
+            "uuid": "59fc43ff-9659-473e-9589-983c96679f7f",
+            "textureUuid": "2bee8361-e982-4d96-91cb-990ca4a8990d",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941095_image_50.png",
+            "trim": {
+              "x": 1585,
+              "y": 199,
+              "width": 162,
+              "height": 155,
+              "rotatedWidth": 155,
+              "rotatedHeight": 162
+            },
+            "rawWidth": 162,
+            "rawHeight": 155,
+            "width": 168,
+            "height": 161,
+            "originalPath": "F:/git/skqsj/library/imports/2b/2bee8361-e982-4d96-91cb-990ca4a8990d.png",
+            "x": 1582,
+            "y": 196,
+            "rotated": true,
+            "rotatedWidth": 161,
+            "rotatedHeight": 168
+          },
+          {
+            "name": "slice18_18",
+            "uuid": "61c70ff7-2e52-480f-910a-d8d2713e21c8",
+            "textureUuid": "e0444438-a1bb-4c74-a967-143b2a3b8e65",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941096_image_56.png",
+            "trim": {
+              "x": 60,
+              "y": 117,
+              "width": 554,
+              "height": 316,
+              "rotatedWidth": 554,
+              "rotatedHeight": 316
+            },
+            "rawWidth": 554,
+            "rawHeight": 316,
+            "width": 560,
+            "height": 322,
+            "originalPath": "F:/git/skqsj/library/imports/e0/e0444438-a1bb-4c74-a967-143b2a3b8e65.png",
+            "x": 57,
+            "y": 114,
+            "rotatedWidth": 560,
+            "rotatedHeight": 322
+          },
+          {
+            "name": "slice13_13",
+            "uuid": "0c0b6965-8b8c-44bb-9eb7-5ecc9a310bf5",
+            "textureUuid": "45afea88-482c-4fe4-a160-f41c56807afd",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941089_image_5.png",
+            "trim": {
+              "x": 620,
+              "y": 117,
+              "width": 392,
+              "height": 248,
+              "rotatedWidth": 392,
+              "rotatedHeight": 248
+            },
+            "rawWidth": 392,
+            "rawHeight": 248,
+            "width": 398,
+            "height": 254,
+            "originalPath": "F:/git/skqsj/library/imports/45/45afea88-482c-4fe4-a160-f41c56807afd.png",
+            "x": 617,
+            "y": 114,
+            "rotatedWidth": 398,
+            "rotatedHeight": 254
+          },
+          {
+            "name": "slice301_@",
+            "uuid": "e64b0e08-4886-43af-93cd-c718867a6de6",
+            "textureUuid": "689d4010-1344-45a6-8c8c-1e362250de95",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941103_image_126.png",
+            "trim": {
+              "x": 1018,
+              "y": 325,
+              "width": 542,
+              "height": 81,
+              "rotatedWidth": 542,
+              "rotatedHeight": 81
+            },
+            "rawWidth": 542,
+            "rawHeight": 81,
+            "width": 548,
+            "height": 87,
+            "originalPath": "F:/git/skqsj/library/imports/68/689d4010-1344-45a6-8c8c-1e362250de95.png",
+            "x": 1015,
+            "y": 322,
+            "rotatedWidth": 548,
+            "rotatedHeight": 87
+          },
+          {
+            "name": "fan1",
+            "uuid": "a7b7e0c2-8b01-4139-8d90-706d7af8d620",
+            "textureUuid": "c3b84011-32aa-4cad-bc1f-f353b6e3a47e",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941100_image_98.png",
+            "trim": {
+              "x": 1566,
+              "y": 325,
+              "width": 13,
+              "height": 45,
+              "rotatedWidth": 13,
+              "rotatedHeight": 45
+            },
+            "rawWidth": 13,
+            "rawHeight": 45,
+            "width": 19,
+            "height": 51,
+            "originalPath": "F:/git/skqsj/library/imports/c3/c3b84011-32aa-4cad-bc1f-f353b6e3a47e.png",
+            "x": 1563,
+            "y": 322,
+            "rotatedWidth": 19,
+            "rotatedHeight": 51
+          },
+          {
+            "name": "slice243_@",
+            "uuid": "f4870d30-253a-44f2-aa10-82f878270f74",
+            "textureUuid": "12f48f0f-be8d-462c-b238-d14017236f20",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941104_image_133.png",
+            "trim": {
+              "x": 1566,
+              "y": 376,
+              "width": 190,
+              "height": 174,
+              "rotatedWidth": 174,
+              "rotatedHeight": 190
+            },
+            "rawWidth": 190,
+            "rawHeight": 174,
+            "width": 196,
+            "height": 180,
+            "originalPath": "F:/git/skqsj/library/imports/12/12f48f0f-be8d-462c-b238-d14017236f20.png",
+            "x": 1563,
+            "y": 373,
+            "rotated": true,
+            "rotatedWidth": 180,
+            "rotatedHeight": 196
+          },
+          {
+            "name": "slice36_36",
+            "uuid": "edcfd6db-728b-44ed-a7db-2afe533d2f73",
+            "textureUuid": "056b0113-aefa-48ed-b4fa-c368bd3699d7",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941104_image_131.png",
+            "trim": {
+              "x": 620,
+              "y": 371,
+              "width": 366,
+              "height": 191,
+              "rotatedWidth": 366,
+              "rotatedHeight": 191
+            },
+            "rawWidth": 366,
+            "rawHeight": 191,
+            "width": 372,
+            "height": 197,
+            "originalPath": "F:/git/skqsj/library/imports/05/056b0113-aefa-48ed-b4fa-c368bd3699d7.png",
+            "x": 617,
+            "y": 368,
+            "rotatedWidth": 372,
+            "rotatedHeight": 197
+          },
+          {
+            "name": "redRope",
+            "uuid": "09ed8bf1-dfa0-474f-afa1-24fc8bd3816a",
+            "textureUuid": "08ac731e-8480-440b-8dd8-4bba619452c7",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941089_image_3.png",
+            "trim": {
+              "x": 992,
+              "y": 371,
+              "width": 17,
+              "height": 257,
+              "rotatedWidth": 17,
+              "rotatedHeight": 257
+            },
+            "rawWidth": 17,
+            "rawHeight": 257,
+            "width": 23,
+            "height": 263,
+            "originalPath": "F:/git/skqsj/library/imports/08/08ac731e-8480-440b-8dd8-4bba619452c7.png",
+            "x": 989,
+            "y": 368,
+            "rotatedWidth": 23,
+            "rotatedHeight": 263
+          },
+          {
+            "name": "cage_door",
+            "uuid": "7e8dab05-a59f-4de1-9eac-4645470ad44b",
+            "textureUuid": "82433ab5-99ea-4648-a151-d6cf0669b261",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941097_image_67.png",
+            "trim": {
+              "x": 1015,
+              "y": 412,
+              "width": 68,
+              "height": 446,
+              "rotatedWidth": 446,
+              "rotatedHeight": 68
+            },
+            "rawWidth": 68,
+            "rawHeight": 446,
+            "width": 74,
+            "height": 452,
+            "originalPath": "F:/git/skqsj/library/imports/82/82433ab5-99ea-4648-a151-d6cf0669b261.png",
+            "x": 1012,
+            "y": 409,
+            "rotated": true,
+            "rotatedWidth": 452,
+            "rotatedHeight": 74
+          },
+          {
+            "name": "slice309_@",
+            "uuid": "6e2f0010-a4f4-46cf-8841-bbe1d5006bee",
+            "textureUuid": "d2ab2e92-3f91-4883-9821-d65e2c3d0c7d",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941096_image_60.png",
+            "trim": {
+              "x": 1467,
+              "y": 412,
+              "width": 136,
+              "height": 93,
+              "rotatedWidth": 93,
+              "rotatedHeight": 136
+            },
+            "rawWidth": 136,
+            "rawHeight": 93,
+            "width": 142,
+            "height": 99,
+            "originalPath": "F:/git/skqsj/library/imports/d2/d2ab2e92-3f91-4883-9821-d65e2c3d0c7d.png",
+            "x": 1464,
+            "y": 409,
+            "rotated": true,
+            "rotatedWidth": 99,
+            "rotatedHeight": 142
+          },
+          {
+            "name": "cage",
+            "uuid": "335f4100-b228-4f17-903a-6840c293f554",
+            "textureUuid": "9aa64c06-4d61-4b9a-ba5f-f0ecb16d2e32",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941092_image_25.png",
+            "trim": {
+              "x": 1015,
+              "y": 486,
+              "width": 440,
+              "height": 442,
+              "rotatedWidth": 442,
+              "rotatedHeight": 440
+            },
+            "rawWidth": 440,
+            "rawHeight": 442,
+            "width": 446,
+            "height": 448,
+            "originalPath": "F:/git/skqsj/library/imports/9a/9aa64c06-4d61-4b9a-ba5f-f0ecb16d2e32.png",
+            "x": 1012,
+            "y": 483,
+            "rotated": true,
+            "rotatedWidth": 448,
+            "rotatedHeight": 446
+          },
+          {
+            "name": "slice552_@",
+            "uuid": "0a0e0306-ac47-474f-9eee-b892d3cba1c7",
+            "textureUuid": "3f8f1bb3-c28e-49e0-92aa-f20885496083",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941089_image_4.png",
+            "trim": {
+              "x": 1463,
+              "y": 554,
+              "width": 97,
+              "height": 34,
+              "rotatedWidth": 97,
+              "rotatedHeight": 34
+            },
+            "rawWidth": 97,
+            "rawHeight": 34,
+            "width": 103,
+            "height": 40,
+            "originalPath": "F:/git/skqsj/library/imports/3f/3f8f1bb3-c28e-49e0-92aa-f20885496083.png",
+            "x": 1460,
+            "y": 551,
+            "rotatedWidth": 103,
+            "rotatedHeight": 40
+          },
+          {
+            "name": "sdfasdf",
+            "uuid": "d4dcb45d-1515-446a-b411-dc1bfce8759d",
+            "textureUuid": "36a903b6-65d8-48f5-8102-56ba12d8cd54",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941103_image_119.png",
+            "trim": {
+              "x": 1566,
+              "y": 572,
+              "width": 404,
+              "height": 171,
+              "rotatedWidth": 171,
+              "rotatedHeight": 404
+            },
+            "rawWidth": 404,
+            "rawHeight": 171,
+            "width": 410,
+            "height": 177,
+            "originalPath": "F:/git/skqsj/library/imports/36/36a903b6-65d8-48f5-8102-56ba12d8cd54.png",
+            "x": 1563,
+            "y": 569,
+            "rotated": true,
+            "rotatedWidth": 177,
+            "rotatedHeight": 410
+          },
+          {
+            "name": "key9_1",
+            "uuid": "54c47223-094f-4fef-b33d-ea5eb33fa205",
+            "textureUuid": "c8505778-4912-4881-aafd-73da244fcdff",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941094_image_42.png",
+            "trim": {
+              "x": 1463,
+              "y": 594,
+              "width": 96,
+              "height": 90,
+              "rotatedWidth": 96,
+              "rotatedHeight": 90
+            },
+            "rawWidth": 96,
+            "rawHeight": 90,
+            "width": 102,
+            "height": 96,
+            "originalPath": "F:/git/skqsj/library/imports/c8/c8505778-4912-4881-aafd-73da244fcdff.png",
+            "x": 1460,
+            "y": 591,
+            "rotatedWidth": 102,
+            "rotatedHeight": 96
+          },
+          {
+            "name": "slice302_@",
+            "uuid": "e8fa64a8-f28c-4740-8575-ad773ed68af2",
+            "textureUuid": "690dd6cb-ee6e-4fc4-8131-a50ab14dbb22",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941104_image_129.png",
+            "trim": {
+              "x": 1463,
+              "y": 690,
+              "width": 249,
+              "height": 95,
+              "rotatedWidth": 95,
+              "rotatedHeight": 249
+            },
+            "rawWidth": 249,
+            "rawHeight": 95,
+            "width": 255,
+            "height": 101,
+            "originalPath": "F:/git/skqsj/library/imports/69/690dd6cb-ee6e-4fc4-8131-a50ab14dbb22.png",
+            "x": 1460,
+            "y": 687,
+            "rotated": true,
+            "rotatedWidth": 101,
+            "rotatedHeight": 255
+          },
+          {
+            "name": "slice31_31",
+            "uuid": "73dddd61-33ef-4ea6-8aac-6ffb6d6d83a0",
+            "textureUuid": "4a4a2e18-0d94-4507-8760-a176b59d14ad",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941096_image_61.png",
+            "trim": {
+              "x": 60,
+              "y": 439,
+              "width": 439,
+              "height": 15,
+              "rotatedWidth": 439,
+              "rotatedHeight": 15
+            },
+            "rawWidth": 439,
+            "rawHeight": 15,
+            "width": 445,
+            "height": 21,
+            "originalPath": "F:/git/skqsj/library/imports/4a/4a4a2e18-0d94-4507-8760-a176b59d14ad.png",
+            "x": 57,
+            "y": 436,
+            "rotatedWidth": 445,
+            "rotatedHeight": 21
+          },
+          {
+            "name": "floor22",
+            "uuid": "c66241c6-b490-43bf-b47a-890366f7aa47",
+            "textureUuid": "5d9e51c2-b4af-4253-b4ec-623ebf0afe7f",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941101_image_109.png",
+            "trim": {
+              "x": 505,
+              "y": 439,
+              "width": 109,
+              "height": 202,
+              "rotatedWidth": 109,
+              "rotatedHeight": 202
+            },
+            "rawWidth": 109,
+            "rawHeight": 202,
+            "width": 115,
+            "height": 208,
+            "originalPath": "F:/git/skqsj/library/imports/5d/5d9e51c2-b4af-4253-b4ec-623ebf0afe7f.png",
+            "x": 502,
+            "y": 436,
+            "rotatedWidth": 115,
+            "rotatedHeight": 208
+          },
+          {
+            "name": "slice167_@",
+            "uuid": "5dcfebd9-2904-49ef-a39a-f6fd1b169691",
+            "textureUuid": "c19e4060-6081-4ea7-aae8-b944d071c4d9",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941095_image_51.png",
+            "trim": {
+              "x": 60,
+              "y": 460,
+              "width": 434,
+              "height": 244,
+              "rotatedWidth": 434,
+              "rotatedHeight": 244
+            },
+            "rawWidth": 434,
+            "rawHeight": 244,
+            "width": 440,
+            "height": 250,
+            "originalPath": "F:/git/skqsj/library/imports/c1/c19e4060-6081-4ea7-aae8-b944d071c4d9.png",
+            "x": 57,
+            "y": 457,
+            "rotatedWidth": 440,
+            "rotatedHeight": 250
+          },
+          {
+            "name": "slice159_@",
+            "uuid": "57ceb9d9-52bf-4627-b2c9-4ef679c12337",
+            "textureUuid": "206709b9-889e-4380-8420-e1cc865f94fb",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941095_image_45.png",
+            "trim": {
+              "x": 620,
+              "y": 568,
+              "width": 360,
+              "height": 162,
+              "rotatedWidth": 360,
+              "rotatedHeight": 162
+            },
+            "rawWidth": 360,
+            "rawHeight": 162,
+            "width": 366,
+            "height": 168,
+            "originalPath": "F:/git/skqsj/library/imports/20/206709b9-889e-4380-8420-e1cc865f94fb.png",
+            "x": 617,
+            "y": 565,
+            "rotatedWidth": 366,
+            "rotatedHeight": 168
+          },
+          {
+            "name": "slice262_@",
+            "uuid": "3cb7a791-6a01-48fb-9655-932dc73d531d",
+            "textureUuid": "93a1d615-ec8e-4b0e-9a40-9011a02ec71d",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941092_image_26.png",
+            "trim": {
+              "x": 500,
+              "y": 647,
+              "width": 246,
+              "height": 114,
+              "rotatedWidth": 114,
+              "rotatedHeight": 246
+            },
+            "rawWidth": 246,
+            "rawHeight": 114,
+            "width": 252,
+            "height": 120,
+            "originalPath": "F:/git/skqsj/library/imports/93/93a1d615-ec8e-4b0e-9a40-9011a02ec71d.png",
+            "x": 497,
+            "y": 644,
+            "rotated": true,
+            "rotatedWidth": 120,
+            "rotatedHeight": 252
+          },
+          {
+            "name": "slice312_@11",
+            "uuid": "fc25ae3f-bd99-47e7-a831-49caeeb7474d",
+            "textureUuid": "2f38fda2-7745-4a22-a0b9-eef6ee30aa08",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941105_image_137.png",
+            "trim": {
+              "x": 986,
+              "y": 634,
+              "width": 88,
+              "height": 22,
+              "rotatedWidth": 22,
+              "rotatedHeight": 88
+            },
+            "rawWidth": 88,
+            "rawHeight": 22,
+            "width": 94,
+            "height": 28,
+            "originalPath": "F:/git/skqsj/library/imports/2f/2f38fda2-7745-4a22-a0b9-eef6ee30aa08.png",
+            "x": 983,
+            "y": 631,
+            "rotated": true,
+            "rotatedWidth": 28,
+            "rotatedHeight": 94
+          },
+          {
+            "name": "cactus_thorn",
+            "uuid": "92ec58a2-9311-4567-8ed8-5ef6aade1445",
+            "textureUuid": "0f04a781-523f-44ab-a349-2e6c10009be8",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941098_image_79.png",
+            "trim": {
+              "x": 986,
+              "y": 728,
+              "width": 17,
+              "height": 4,
+              "rotatedWidth": 17,
+              "rotatedHeight": 4
+            },
+            "rawWidth": 18,
+            "rawHeight": 6,
+            "width": 23,
+            "height": 10,
+            "originalPath": "F:/git/skqsj/library/imports/0f/0f04a781-523f-44ab-a349-2e6c10009be8.png",
+            "x": 983,
+            "y": 725,
+            "rotatedWidth": 23,
+            "rotatedHeight": 10
+          },
+          {
+            "name": "slice189_@",
+            "uuid": "87bf84d9-e71b-4e20-b43c-5f979b2abdd6",
+            "textureUuid": "1bb0ab4f-856d-41c4-ae8f-336e06f08f47",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941097_image_74.png",
+            "trim": {
+              "x": 620,
+              "y": 736,
+              "width": 360,
+              "height": 130,
+              "rotatedWidth": 360,
+              "rotatedHeight": 130
+            },
+            "rawWidth": 360,
+            "rawHeight": 130,
+            "width": 366,
+            "height": 136,
+            "originalPath": "F:/git/skqsj/library/imports/1b/1bb0ab4f-856d-41c4-ae8f-336e06f08f47.png",
+            "x": 617,
+            "y": 733,
+            "rotatedWidth": 366,
+            "rotatedHeight": 136
+          },
+          {
+            "name": "fan3",
+            "uuid": "3f5c3703-0450-488e-a083-906da0ae5017",
+            "textureUuid": "4cfacdfb-7992-4a1f-b716-54f15eef2b14",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941093_image_30.png",
+            "trim": {
+              "x": 986,
+              "y": 738,
+              "width": 14,
+              "height": 55,
+              "rotatedWidth": 14,
+              "rotatedHeight": 55
+            },
+            "rawWidth": 14,
+            "rawHeight": 55,
+            "width": 20,
+            "height": 61,
+            "originalPath": "F:/git/skqsj/library/imports/4c/4cfacdfb-7992-4a1f-b716-54f15eef2b14.png",
+            "x": 983,
+            "y": 735,
+            "rotatedWidth": 20,
+            "rotatedHeight": 61
+          },
+          {
+            "name": "fan4",
+            "uuid": "8f9a7b36-9aee-4e93-bdbc-c6c1f75adddf",
+            "textureUuid": "d5fd0d7c-9c7e-4967-bdea-e8a72564ea15",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941098_image_77.png",
+            "trim": {
+              "x": 986,
+              "y": 799,
+              "width": 14,
+              "height": 55,
+              "rotatedWidth": 14,
+              "rotatedHeight": 55
+            },
+            "rawWidth": 14,
+            "rawHeight": 55,
+            "width": 20,
+            "height": 61,
+            "originalPath": "F:/git/skqsj/library/imports/d5/d5fd0d7c-9c7e-4967-bdea-e8a72564ea15.png",
+            "x": 983,
+            "y": 796,
+            "rotatedWidth": 20,
+            "rotatedHeight": 61
+          },
+          {
+            "name": "fan5",
+            "uuid": "a45a9afa-aa1e-4481-a356-219b6375da5f",
+            "textureUuid": "1c0f8e98-247d-4f01-9385-461f8024580b",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941100_image_94.png",
+            "trim": {
+              "x": 986,
+              "y": 860,
+              "width": 14,
+              "height": 55,
+              "rotatedWidth": 14,
+              "rotatedHeight": 55
+            },
+            "rawWidth": 14,
+            "rawHeight": 55,
+            "width": 20,
+            "height": 61,
+            "originalPath": "F:/git/skqsj/library/imports/1c/1c0f8e98-247d-4f01-9385-461f8024580b.png",
+            "x": 983,
+            "y": 857,
+            "rotatedWidth": 20,
+            "rotatedHeight": 61
+          },
+          {
+            "name": "slice26_26",
+            "uuid": "9a074efd-f542-4e6b-b38a-6a29f96d2ffd",
+            "textureUuid": "7d858ae9-db80-4111-89e3-dfb440912712",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941099_image_85.png",
+            "trim": {
+              "x": 620,
+              "y": 872,
+              "width": 358,
+              "height": 235,
+              "rotatedWidth": 358,
+              "rotatedHeight": 235
+            },
+            "rawWidth": 358,
+            "rawHeight": 235,
+            "width": 364,
+            "height": 241,
+            "originalPath": "F:/git/skqsj/library/imports/7d/7d858ae9-db80-4111-89e3-dfb440912712.png",
+            "x": 617,
+            "y": 869,
+            "rotatedWidth": 364,
+            "rotatedHeight": 241
+          },
+          {
+            "name": "fan2",
+            "uuid": "5222d9a4-87cd-4809-a387-9a545fe94ca4",
+            "textureUuid": "c02686eb-625d-41a7-b05f-ae2ce092262d",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941094_image_41.png",
+            "trim": {
+              "x": 984,
+              "y": 921,
+              "width": 14,
+              "height": 46,
+              "rotatedWidth": 14,
+              "rotatedHeight": 46
+            },
+            "rawWidth": 14,
+            "rawHeight": 46,
+            "width": 20,
+            "height": 52,
+            "originalPath": "F:/git/skqsj/library/imports/c0/c02686eb-625d-41a7-b05f-ae2ce092262d.png",
+            "x": 981,
+            "y": 918,
+            "rotatedWidth": 20,
+            "rotatedHeight": 52
+          },
+          {
+            "name": "rope",
+            "uuid": "90bb1b8c-4da7-463c-9ef6-8563aaeac564",
+            "textureUuid": "33c58b57-0798-4136-a286-565d0d5d6aac",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941098_image_78.png",
+            "trim": {
+              "x": 1004,
+              "y": 921,
+              "width": 135,
+              "height": 5,
+              "rotatedWidth": 5,
+              "rotatedHeight": 135
+            },
+            "rawWidth": 135,
+            "rawHeight": 5,
+            "width": 141,
+            "height": 11,
+            "originalPath": "F:/git/skqsj/library/imports/33/33c58b57-0798-4136-a286-565d0d5d6aac.png",
+            "x": 1001,
+            "y": 918,
+            "rotated": true,
+            "rotatedWidth": 11,
+            "rotatedHeight": 141
+          },
+          {
+            "name": "fan7",
+            "uuid": "44d122fe-aa14-4443-a13b-63e1423a0af9",
+            "textureUuid": "cc942558-0021-490c-a080-415d0929ebcf",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941093_image_32.png",
+            "trim": {
+              "x": 984,
+              "y": 973,
+              "width": 13,
+              "height": 39,
+              "rotatedWidth": 13,
+              "rotatedHeight": 39
+            },
+            "rawWidth": 13,
+            "rawHeight": 39,
+            "width": 19,
+            "height": 45,
+            "originalPath": "F:/git/skqsj/library/imports/cc/cc942558-0021-490c-a080-415d0929ebcf.png",
+            "x": 981,
+            "y": 970,
+            "rotatedWidth": 19,
+            "rotatedHeight": 45
+          },
+          {
+            "name": "fan6",
+            "uuid": "5839fd29-78dc-412d-9382-30bd289f46fa",
+            "textureUuid": "1f0b31b7-0737-4e39-a74b-e921ba2c0290",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941095_image_47.png",
+            "trim": {
+              "x": 984,
+              "y": 1018,
+              "width": 13,
+              "height": 39,
+              "rotatedWidth": 13,
+              "rotatedHeight": 39
+            },
+            "rawWidth": 13,
+            "rawHeight": 39,
+            "width": 19,
+            "height": 45,
+            "originalPath": "F:/git/skqsj/library/imports/1f/1f0b31b7-0737-4e39-a74b-e921ba2c0290.png",
+            "x": 981,
+            "y": 1015,
+            "rotatedWidth": 19,
+            "rotatedHeight": 45
+          },
+          {
+            "name": "slice03_03",
+            "uuid": "89c14c8a-f6c7-41b2-88ed-0bc2a8a39323",
+            "textureUuid": "2725a557-66ab-43f5-96c2-51c61deadca7",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941097_image_75.png",
+            "trim": {
+              "x": 60,
+              "y": 710,
+              "width": 329,
+              "height": 321,
+              "rotatedWidth": 329,
+              "rotatedHeight": 321
+            },
+            "rawWidth": 329,
+            "rawHeight": 321,
+            "width": 335,
+            "height": 327,
+            "originalPath": "F:/git/skqsj/library/imports/27/2725a557-66ab-43f5-96c2-51c61deadca7.png",
+            "x": 57,
+            "y": 707,
+            "rotatedWidth": 335,
+            "rotatedHeight": 327
+          },
+          {
+            "name": "slice387_@",
+            "uuid": "18e630e8-5757-4755-80e1-3092515e9ed8",
+            "textureUuid": "c8f62477-606e-4c5c-be43-2cfea347a0f1",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941090_image_13.png",
+            "trim": {
+              "x": 395,
+              "y": 710,
+              "width": 287,
+              "height": 99,
+              "rotatedWidth": 99,
+              "rotatedHeight": 287
+            },
+            "rawWidth": 287,
+            "rawHeight": 99,
+            "width": 293,
+            "height": 105,
+            "originalPath": "F:/git/skqsj/library/imports/c8/c8f62477-606e-4c5c-be43-2cfea347a0f1.png",
+            "x": 392,
+            "y": 707,
+            "rotated": true,
+            "rotatedWidth": 105,
+            "rotatedHeight": 293
+          },
+          {
+            "name": "slice255_@",
+            "uuid": "586e35d3-fdf1-45dc-9a13-728ec448b92a",
+            "textureUuid": "964f6560-462a-43e2-a4eb-9251a7a0fc7c",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941095_image_48.png",
+            "trim": {
+              "x": 500,
+              "y": 899,
+              "width": 121,
+              "height": 114,
+              "rotatedWidth": 114,
+              "rotatedHeight": 121
+            },
+            "rawWidth": 121,
+            "rawHeight": 114,
+            "width": 127,
+            "height": 120,
+            "originalPath": "F:/git/skqsj/library/imports/96/964f6560-462a-43e2-a4eb-9251a7a0fc7c.png",
+            "x": 497,
+            "y": 896,
+            "rotated": true,
+            "rotatedWidth": 120,
+            "rotatedHeight": 127
+          },
+          {
+            "name": "slice400_@",
+            "uuid": "b65ecf59-c898-4cd1-a3d5-f25e42acf163",
+            "textureUuid": "e2c57c5a-5fd8-42da-bb06-34e5cfdba8c7",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941100_image_103.png",
+            "trim": {
+              "x": 395,
+              "y": 1003,
+              "width": 170,
+              "height": 99,
+              "rotatedWidth": 99,
+              "rotatedHeight": 170
+            },
+            "rawWidth": 170,
+            "rawHeight": 99,
+            "width": 176,
+            "height": 105,
+            "originalPath": "F:/git/skqsj/library/imports/e2/e2c57c5a-5fd8-42da-bb06-34e5cfdba8c7.png",
+            "x": 392,
+            "y": 1000,
+            "rotated": true,
+            "rotatedWidth": 105,
+            "rotatedHeight": 176
+          },
+          {
+            "name": "slice494_@",
+            "uuid": "e890c86a-3c60-42c9-8c59-af23226110db",
+            "textureUuid": "47c08a47-283a-4be1-9ec2-d790a05f5921",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941104_image_128.png",
+            "trim": {
+              "x": 500,
+              "y": 1026,
+              "width": 114,
+              "height": 68,
+              "rotatedWidth": 114,
+              "rotatedHeight": 68
+            },
+            "rawWidth": 114,
+            "rawHeight": 68,
+            "width": 120,
+            "height": 74,
+            "originalPath": "F:/git/skqsj/library/imports/47/47c08a47-283a-4be1-9ec2-d790a05f5921.png",
+            "x": 497,
+            "y": 1023,
+            "rotatedWidth": 120,
+            "rotatedHeight": 74
+          },
+          {
+            "name": "slice269_@",
+            "uuid": "98adec7f-8445-4f58-bcad-1945475f59de",
+            "textureUuid": "681f045e-7415-4624-8e05-d87e3c014a0b",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941099_image_84.png",
+            "trim": {
+              "x": 500,
+              "y": 1100,
+              "width": 288,
+              "height": 112,
+              "rotatedWidth": 112,
+              "rotatedHeight": 288
+            },
+            "rawWidth": 288,
+            "rawHeight": 112,
+            "width": 294,
+            "height": 118,
+            "originalPath": "F:/git/skqsj/library/imports/68/681f045e-7415-4624-8e05-d87e3c014a0b.png",
+            "x": 497,
+            "y": 1097,
+            "rotated": true,
+            "rotatedWidth": 118,
+            "rotatedHeight": 294
+          },
+          {
+            "name": "slice209_@",
+            "uuid": "087f9daf-848b-4b78-931e-f1c24f5f08c8",
+            "textureUuid": "fbc576a2-81dd-4fe9-abfe-715d2566841f",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941089_image_2.png",
+            "trim": {
+              "x": 60,
+              "y": 1037,
+              "width": 324,
+              "height": 152,
+              "rotatedWidth": 324,
+              "rotatedHeight": 152
+            },
+            "rawWidth": 324,
+            "rawHeight": 152,
+            "width": 330,
+            "height": 158,
+            "originalPath": "F:/git/skqsj/library/imports/fb/fbc576a2-81dd-4fe9-abfe-715d2566841f.png",
+            "x": 57,
+            "y": 1034,
+            "rotatedWidth": 330,
+            "rotatedHeight": 158
+          },
+          {
+            "name": "slice497_@",
+            "uuid": "d9fde243-f4ff-48a2-8b4f-1171fc0f56db",
+            "textureUuid": "c98327d4-1414-4676-a43e-eacb5d8a3e6f",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941103_image_122.png",
+            "trim": {
+              "x": 390,
+              "y": 1179,
+              "width": 104,
+              "height": 68,
+              "rotatedWidth": 104,
+              "rotatedHeight": 68
+            },
+            "rawWidth": 104,
+            "rawHeight": 68,
+            "width": 110,
+            "height": 74,
+            "originalPath": "F:/git/skqsj/library/imports/c9/c98327d4-1414-4676-a43e-eacb5d8a3e6f.png",
+            "x": 387,
+            "y": 1176,
+            "rotatedWidth": 110,
+            "rotatedHeight": 74
+          },
+          {
+            "name": "slice235_@",
+            "uuid": "9df328e2-9c21-4b61-bceb-e829e26c2ec4",
+            "textureUuid": "bbd8044a-c482-4b6f-9af3-a8a1092064fb",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941099_image_89.png",
+            "trim": {
+              "x": 60,
+              "y": 1195,
+              "width": 324,
+              "height": 128,
+              "rotatedWidth": 324,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 324,
+            "rawHeight": 128,
+            "width": 330,
+            "height": 134,
+            "originalPath": "F:/git/skqsj/library/imports/bb/bbd8044a-c482-4b6f-9af3-a8a1092064fb.png",
+            "x": 57,
+            "y": 1192,
+            "rotatedWidth": 330,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "slice285_@",
+            "uuid": "d0a4299c-7e6b-439f-852f-cc8df7732639",
+            "textureUuid": "cec75fbb-fb26-43c7-91c3-a6e2ae440b6e",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941102_image_116.png",
+            "trim": {
+              "x": 390,
+              "y": 1253,
+              "width": 287,
+              "height": 103,
+              "rotatedWidth": 103,
+              "rotatedHeight": 287
+            },
+            "rawWidth": 287,
+            "rawHeight": 103,
+            "width": 293,
+            "height": 109,
+            "originalPath": "F:/git/skqsj/library/imports/ce/cec75fbb-fb26-43c7-91c3-a6e2ae440b6e.png",
+            "x": 387,
+            "y": 1250,
+            "rotated": true,
+            "rotatedWidth": 109,
+            "rotatedHeight": 293
+          },
+          {
+            "name": "slice354_@",
+            "uuid": "0cd87f94-20e5-4298-8b58-749b7b866441",
+            "textureUuid": "0dfdaa98-5c7e-4626-b7df-735042c3c1c9",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941089_image_6.png",
+            "trim": {
+              "x": 60,
+              "y": 1329,
+              "width": 324,
+              "height": 89,
+              "rotatedWidth": 324,
+              "rotatedHeight": 89
+            },
+            "rawWidth": 324,
+            "rawHeight": 89,
+            "width": 330,
+            "height": 95,
+            "originalPath": "F:/git/skqsj/library/imports/0d/0dfdaa98-5c7e-4626-b7df-735042c3c1c9.png",
+            "x": 57,
+            "y": 1326,
+            "rotatedWidth": 330,
+            "rotatedHeight": 95
+          },
+          {
+            "name": "slice297_@",
+            "uuid": "7ef027d3-2f3b-4a04-bb8e-7f60d33ef501",
+            "textureUuid": "fb770b0f-705a-404d-9b54-4379e94ee7d8",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941097_image_68.png",
+            "trim": {
+              "x": 60,
+              "y": 1424,
+              "width": 323,
+              "height": 122,
+              "rotatedWidth": 323,
+              "rotatedHeight": 122
+            },
+            "rawWidth": 323,
+            "rawHeight": 122,
+            "width": 329,
+            "height": 128,
+            "originalPath": "F:/git/skqsj/library/imports/fb/fb770b0f-705a-404d-9b54-4379e94ee7d8.png",
+            "x": 57,
+            "y": 1421,
+            "rotatedWidth": 329,
+            "rotatedHeight": 128
+          },
+          {
+            "name": "slice40_40",
+            "uuid": "fca06c41-a9cc-4aac-8f88-b7ecb0832acd",
+            "textureUuid": "02a024e5-442c-40a5-aa9b-d6e95ff96875",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941105_image_138.png",
+            "trim": {
+              "x": 51,
+              "y": 1552,
+              "width": 306,
+              "height": 288,
+              "rotatedWidth": 288,
+              "rotatedHeight": 306
+            },
+            "rawWidth": 306,
+            "rawHeight": 288,
+            "width": 312,
+            "height": 294,
+            "originalPath": "F:/git/skqsj/library/imports/02/02a024e5-442c-40a5-aa9b-d6e95ff96875.png",
+            "x": 48,
+            "y": 1549,
+            "rotated": true,
+            "rotatedWidth": 294,
+            "rotatedHeight": 312
+          },
+          {
+            "name": "asdasdfasdf",
+            "uuid": "32996290-9245-489e-aaf6-c0979a7af045",
+            "textureUuid": "4bde65e5-e90d-45a1-af39-0d6ff694647c",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941091_image_23.png",
+            "trim": {
+              "x": 60,
+              "y": 1864,
+              "width": 180,
+              "height": 56,
+              "rotatedWidth": 56,
+              "rotatedHeight": 180
+            },
+            "rawWidth": 180,
+            "rawHeight": 56,
+            "width": 186,
+            "height": 62,
+            "originalPath": "F:/git/skqsj/library/imports/4b/4bde65e5-e90d-45a1-af39-0d6ff694647c.png",
+            "x": 57,
+            "y": 1861,
+            "rotated": true,
+            "rotatedWidth": 62,
+            "rotatedHeight": 186
+          },
+          {
+            "name": "bat3",
+            "uuid": "5e70b030-027b-44e7-afeb-007a6a97d390",
+            "textureUuid": "267eb958-8d68-4227-89f5-9d788431f6fe",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941095_image_52.png",
+            "trim": {
+              "x": 122,
+              "y": 1864,
+              "width": 179,
+              "height": 236,
+              "rotatedWidth": 236,
+              "rotatedHeight": 179
+            },
+            "rawWidth": 179,
+            "rawHeight": 236,
+            "width": 185,
+            "height": 242,
+            "originalPath": "F:/git/skqsj/library/imports/26/267eb958-8d68-4227-89f5-9d788431f6fe.png",
+            "x": 119,
+            "y": 1861,
+            "rotated": true,
+            "rotatedWidth": 242,
+            "rotatedHeight": 185
+          },
+          {
+            "name": "slice06_06",
+            "uuid": "580c4e7c-cdc9-4e1b-9aa9-ea5d38167397",
+            "textureUuid": "a1e03838-dbd1-499f-9fb2-7dbb9e30a5af",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941095_image_46.png",
+            "trim": {
+              "x": 345,
+              "y": 1552,
+              "width": 81,
+              "height": 295,
+              "rotatedWidth": 81,
+              "rotatedHeight": 295
+            },
+            "rawWidth": 81,
+            "rawHeight": 295,
+            "width": 87,
+            "height": 301,
+            "originalPath": "F:/git/skqsj/library/imports/a1/a1e03838-dbd1-499f-9fb2-7dbb9e30a5af.png",
+            "x": 342,
+            "y": 1549,
+            "rotatedWidth": 87,
+            "rotatedHeight": 301
+          },
+          {
+            "name": "slice19_19222",
+            "uuid": "a1a27811-4f15-4045-8d3c-4172488660a6",
+            "textureUuid": "010165e0-0e42-47bb-a98e-2e01b232cf9c",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941099_image_91.png",
+            "trim": {
+              "x": 345,
+              "y": 1853,
+              "width": 79,
+              "height": 5,
+              "rotatedWidth": 79,
+              "rotatedHeight": 5
+            },
+            "rawWidth": 79,
+            "rawHeight": 5,
+            "width": 85,
+            "height": 11,
+            "originalPath": "F:/git/skqsj/library/imports/01/010165e0-0e42-47bb-a98e-2e01b232cf9c.png",
+            "x": 342,
+            "y": 1850,
+            "rotatedWidth": 85,
+            "rotatedHeight": 11
+          },
+          {
+            "name": "slice99_99",
+            "uuid": "d496b88d-c737-4536-bf11-c3234d541920",
+            "textureUuid": "16e0b9b8-c8ff-4e5f-b7ce-7e427420b132",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941103_image_118.png",
+            "trim": {
+              "x": 430,
+              "y": 1853,
+              "width": 167,
+              "height": 190,
+              "rotatedWidth": 167,
+              "rotatedHeight": 190
+            },
+            "rawWidth": 167,
+            "rawHeight": 190,
+            "width": 173,
+            "height": 196,
+            "originalPath": "F:/git/skqsj/library/imports/16/16e0b9b8-c8ff-4e5f-b7ce-7e427420b132.png",
+            "x": 427,
+            "y": 1850,
+            "rotatedWidth": 173,
+            "rotatedHeight": 196
+          },
+          {
+            "name": "slice170_@",
+            "uuid": "619d807f-a224-4476-8c71-436c0cca892c",
+            "textureUuid": "3c4ed99a-fa9c-4011-9eec-a0245a51a062",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941095_image_54.png",
+            "trim": {
+              "x": 364,
+              "y": 1864,
+              "width": 84,
+              "height": 60,
+              "rotatedWidth": 60,
+              "rotatedHeight": 84
+            },
+            "rawWidth": 84,
+            "rawHeight": 60,
+            "width": 90,
+            "height": 66,
+            "originalPath": "F:/git/skqsj/library/imports/3c/3c4ed99a-fa9c-4011-9eec-a0245a51a062.png",
+            "x": 361,
+            "y": 1861,
+            "rotated": true,
+            "rotatedWidth": 66,
+            "rotatedHeight": 90
+          },
+          {
+            "name": "aaaa",
+            "uuid": "e7305882-106c-4762-88f5-3fbc6f5fcd3f",
+            "textureUuid": "8cf31793-4468-4914-8ca5-3f5737da3792",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941103_image_127.png",
+            "trim": {
+              "x": 364,
+              "y": 1954,
+              "width": 69,
+              "height": 59,
+              "rotatedWidth": 59,
+              "rotatedHeight": 69
+            },
+            "rawWidth": 69,
+            "rawHeight": 59,
+            "width": 75,
+            "height": 65,
+            "originalPath": "F:/git/skqsj/library/imports/8c/8cf31793-4468-4914-8ca5-3f5737da3792.png",
+            "x": 361,
+            "y": 1951,
+            "rotated": true,
+            "rotatedWidth": 65,
+            "rotatedHeight": 75
+          },
+          {
+            "name": "floor21",
+            "uuid": "f93bf7b4-6a55-466c-881f-74e540e03b0c",
+            "textureUuid": "4718803e-ac08-4b1e-96bb-9438a39c24ad",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941105_image_136.png",
+            "trim": {
+              "x": 364,
+              "y": 2029,
+              "width": 10,
+              "height": 11,
+              "rotatedWidth": 10,
+              "rotatedHeight": 11
+            },
+            "rawWidth": 10,
+            "rawHeight": 11,
+            "width": 16,
+            "height": 17,
+            "originalPath": "F:/git/skqsj/library/imports/47/4718803e-ac08-4b1e-96bb-9438a39c24ad.png",
+            "x": 361,
+            "y": 2026,
+            "rotatedWidth": 16,
+            "rotatedHeight": 17
+          },
+          {
+            "name": "slice390_@",
+            "uuid": "169c05a1-e89b-4e07-ae8b-355eabb068c2",
+            "textureUuid": "a5a4fd3e-8a8b-4157-96be-e89ba9a2ef9f",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941090_image_12.png",
+            "trim": {
+              "x": 380,
+              "y": 2029,
+              "width": 10,
+              "height": 10,
+              "rotatedWidth": 10,
+              "rotatedHeight": 10
+            },
+            "rawWidth": 10,
+            "rawHeight": 10,
+            "width": 16,
+            "height": 16,
+            "originalPath": "F:/git/skqsj/library/imports/a5/a5a4fd3e-8a8b-4157-96be-e89ba9a2ef9f.png",
+            "x": 377,
+            "y": 2026,
+            "rotatedWidth": 16,
+            "rotatedHeight": 16
+          },
+          {
+            "name": "lizi",
+            "uuid": "dadc3c35-931c-4bc1-80ef-525fe95c7091",
+            "textureUuid": "9025e903-8e9c-4547-a1b7-e02214352baf",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941103_image_123.png",
+            "trim": {
+              "x": 396,
+              "y": 2029,
+              "width": 10,
+              "height": 10,
+              "rotatedWidth": 10,
+              "rotatedHeight": 10
+            },
+            "rawWidth": 10,
+            "rawHeight": 10,
+            "width": 16,
+            "height": 16,
+            "originalPath": "F:/git/skqsj/library/imports/90/9025e903-8e9c-4547-a1b7-e02214352baf.png",
+            "x": 393,
+            "y": 2026,
+            "rotatedWidth": 16,
+            "rotatedHeight": 16
+          },
+          {
+            "name": "slice440_@",
+            "uuid": "bb17ad96-2b06-4351-b9f5-391c450369a2",
+            "textureUuid": "8e1433bf-3fad-4982-b113-728572ef17ab",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941101_image_106.png",
+            "trim": {
+              "x": 432,
+              "y": 1546,
+              "width": 287,
+              "height": 70,
+              "rotatedWidth": 70,
+              "rotatedHeight": 287
+            },
+            "rawWidth": 287,
+            "rawHeight": 70,
+            "width": 293,
+            "height": 76,
+            "originalPath": "F:/git/skqsj/library/imports/8e/8e1433bf-3fad-4982-b113-728572ef17ab.png",
+            "x": 429,
+            "y": 1543,
+            "rotated": true,
+            "rotatedWidth": 76,
+            "rotatedHeight": 293
+          },
+          {
+            "name": "slice240_@",
+            "uuid": "10f7e107-57bf-4a95-84d9-94012b918d3d",
+            "textureUuid": "5e4006e4-8647-4013-a036-ea4d4e16418d",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941090_image_9.png",
+            "trim": {
+              "x": 499,
+              "y": 1394,
+              "width": 186,
+              "height": 145,
+              "rotatedWidth": 186,
+              "rotatedHeight": 145
+            },
+            "rawWidth": 186,
+            "rawHeight": 145,
+            "width": 192,
+            "height": 151,
+            "originalPath": "F:/git/skqsj/library/imports/5e/5e4006e4-8647-4013-a036-ea4d4e16418d.png",
+            "x": 496,
+            "y": 1391,
+            "rotatedWidth": 192,
+            "rotatedHeight": 151
+          },
+          {
+            "name": "rope101",
+            "uuid": "94cd2233-c30e-4569-a9eb-71c30ed95096",
+            "textureUuid": "311fe253-e2c3-49b3-9b92-5a91788c8a07",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941098_image_80.png",
+            "trim": {
+              "x": 432,
+              "y": 1839,
+              "width": 6,
+              "height": 81,
+              "rotatedWidth": 81,
+              "rotatedHeight": 6
+            },
+            "rawWidth": 6,
+            "rawHeight": 81,
+            "width": 12,
+            "height": 87,
+            "originalPath": "F:/git/skqsj/library/imports/31/311fe253-e2c3-49b3-9b92-5a91788c8a07.png",
+            "x": 429,
+            "y": 1836,
+            "rotated": true,
+            "rotatedWidth": 87,
+            "rotatedHeight": 12
+          },
+          {
+            "name": "slice515_@",
+            "uuid": "61b27599-464e-4f2a-8b76-7c5df6aa1416",
+            "textureUuid": "910024e3-b377-40ce-bd6f-13becf1aa14c",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941095_image_55.png",
+            "trim": {
+              "x": 618,
+              "y": 1113,
+              "width": 271,
+              "height": 65,
+              "rotatedWidth": 65,
+              "rotatedHeight": 271
+            },
+            "rawWidth": 271,
+            "rawHeight": 65,
+            "width": 277,
+            "height": 71,
+            "originalPath": "F:/git/skqsj/library/imports/91/910024e3-b377-40ce-bd6f-13becf1aa14c.png",
+            "x": 615,
+            "y": 1110,
+            "rotated": true,
+            "rotatedWidth": 71,
+            "rotatedHeight": 277
+          },
+          {
+            "name": "slice236_@",
+            "uuid": "80f1bd73-dab4-446c-a51f-86ceb693ab76",
+            "textureUuid": "9985ed8e-be06-4d58-ae8f-de24f665f525",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941097_image_69.png",
+            "trim": {
+              "x": 689,
+              "y": 1113,
+              "width": 270,
+              "height": 124,
+              "rotatedWidth": 124,
+              "rotatedHeight": 270
+            },
+            "rawWidth": 270,
+            "rawHeight": 124,
+            "width": 276,
+            "height": 130,
+            "originalPath": "F:/git/skqsj/library/imports/99/9985ed8e-be06-4d58-ae8f-de24f665f525.png",
+            "x": 686,
+            "y": 1110,
+            "rotated": true,
+            "rotatedWidth": 130,
+            "rotatedHeight": 276
+          },
+          {
+            "name": "slice07_07",
+            "uuid": "8250570b-e9e5-4c2e-8879-2e396c5c2e48",
+            "textureUuid": "3bb76275-c0a9-4b15-981c-61ab46ae48e4",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941097_image_71.png",
+            "trim": {
+              "x": 508,
+              "y": 1545,
+              "width": 267,
+              "height": 283,
+              "rotatedWidth": 267,
+              "rotatedHeight": 283
+            },
+            "rawWidth": 267,
+            "rawHeight": 283,
+            "width": 273,
+            "height": 289,
+            "originalPath": "F:/git/skqsj/library/imports/3b/3bb76275-c0a9-4b15-981c-61ab46ae48e4.png",
+            "x": 505,
+            "y": 1542,
+            "rotatedWidth": 273,
+            "rotatedHeight": 289
+          },
+          {
+            "name": "slice28_28",
+            "uuid": "10e86106-0df7-4ae4-b86e-1e37941623bc",
+            "textureUuid": "a0369634-7546-4b7a-adfb-23b4095bb128",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941090_image_8.png",
+            "trim": {
+              "x": 691,
+              "y": 1389,
+              "width": 148,
+              "height": 150,
+              "rotatedWidth": 148,
+              "rotatedHeight": 150
+            },
+            "rawWidth": 148,
+            "rawHeight": 150,
+            "width": 154,
+            "height": 156,
+            "originalPath": "F:/git/skqsj/library/imports/a0/a0369634-7546-4b7a-adfb-23b4095bb128.png",
+            "x": 688,
+            "y": 1386,
+            "rotatedWidth": 154,
+            "rotatedHeight": 156
+          },
+          {
+            "name": "slice22_22",
+            "uuid": "b6f7be68-f790-4b3c-99b1-89b4b3be5c9a",
+            "textureUuid": "652c76e8-d202-464a-9601-00a815c6a40c",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941101_image_104.png",
+            "trim": {
+              "x": 819,
+              "y": 1113,
+              "width": 269,
+              "height": 254,
+              "rotatedWidth": 254,
+              "rotatedHeight": 269
+            },
+            "rawWidth": 269,
+            "rawHeight": 254,
+            "width": 275,
+            "height": 260,
+            "originalPath": "F:/git/skqsj/library/imports/65/652c76e8-d202-464a-9601-00a815c6a40c.png",
+            "x": 816,
+            "y": 1110,
+            "rotated": true,
+            "rotatedWidth": 260,
+            "rotatedHeight": 275
+          },
+          {
+            "name": "slice207_@",
+            "uuid": "4389cd5b-b91d-46d2-ad17-32eec2bab4f8",
+            "textureUuid": "e876ee45-8ade-4f72-b930-008bda64d9c5",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941093_image_31.png",
+            "trim": {
+              "x": 1015,
+              "y": 945,
+              "width": 204,
+              "height": 162,
+              "rotatedWidth": 204,
+              "rotatedHeight": 162
+            },
+            "rawWidth": 204,
+            "rawHeight": 162,
+            "width": 210,
+            "height": 168,
+            "originalPath": "F:/git/skqsj/library/imports/e8/e876ee45-8ade-4f72-b930-008bda64d9c5.png",
+            "x": 1012,
+            "y": 942,
+            "rotatedWidth": 210,
+            "rotatedHeight": 168
+          },
+          {
+            "name": "slice344_@",
+            "uuid": "b216c4c5-78f1-41ac-ad7a-a0ba5f380aed",
+            "textureUuid": "41c1b332-4765-42ca-aa99-cff00c714d3d",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941100_image_101.png",
+            "trim": {
+              "x": 603,
+              "y": 1834,
+              "width": 210,
+              "height": 103,
+              "rotatedWidth": 103,
+              "rotatedHeight": 210
+            },
+            "rawWidth": 210,
+            "rawHeight": 103,
+            "width": 216,
+            "height": 109,
+            "originalPath": "F:/git/skqsj/library/imports/41/41c1b332-4765-42ca-aa99-cff00c714d3d.png",
+            "x": 600,
+            "y": 1831,
+            "rotated": true,
+            "rotatedWidth": 109,
+            "rotatedHeight": 216
+          },
+          {
+            "name": "slice24_24",
+            "uuid": "07e34f2c-bf0e-4b95-a525-0825ce0bc73a",
+            "textureUuid": "334bd845-3072-474e-b084-d2397cbce492",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941089_image_0.png",
+            "trim": {
+              "x": 1225,
+              "y": 932,
+              "width": 230,
+              "height": 243,
+              "rotatedWidth": 230,
+              "rotatedHeight": 243
+            },
+            "rawWidth": 230,
+            "rawHeight": 243,
+            "width": 236,
+            "height": 249,
+            "originalPath": "F:/git/skqsj/library/imports/33/334bd845-3072-474e-b084-d2397cbce492.png",
+            "x": 1222,
+            "y": 929,
+            "rotatedWidth": 236,
+            "rotatedHeight": 249
+          },
+          {
+            "name": "floor200",
+            "uuid": "58d20807-3389-45c6-8ed6-4adb7be79fc2",
+            "textureUuid": "9eebfacb-5c2f-41d7-92f2-13cdf8ce7945",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941095_image_49.png",
+            "trim": {
+              "x": 1079,
+              "y": 1113,
+              "width": 154,
+              "height": 140,
+              "rotatedWidth": 140,
+              "rotatedHeight": 154
+            },
+            "rawWidth": 154,
+            "rawHeight": 140,
+            "width": 160,
+            "height": 146,
+            "originalPath": "F:/git/skqsj/library/imports/9e/9eebfacb-5c2f-41d7-92f2-13cdf8ce7945.png",
+            "x": 1076,
+            "y": 1110,
+            "rotated": true,
+            "rotatedWidth": 146,
+            "rotatedHeight": 160
+          },
+          {
+            "name": "slice30_30",
+            "uuid": "32cda140-5deb-4811-bd83-34075e273476",
+            "textureUuid": "8e1255b7-8934-47de-8e71-9cfbcf706e10",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941092_image_24.png",
+            "trim": {
+              "x": 712,
+              "y": 1834,
+              "width": 141,
+              "height": 204,
+              "rotatedWidth": 141,
+              "rotatedHeight": 204
+            },
+            "rawWidth": 141,
+            "rawHeight": 204,
+            "width": 147,
+            "height": 210,
+            "originalPath": "F:/git/skqsj/library/imports/8e/8e1255b7-8934-47de-8e71-9cfbcf706e10.png",
+            "x": 709,
+            "y": 1831,
+            "rotatedWidth": 147,
+            "rotatedHeight": 210
+          },
+          {
+            "name": "key8_2",
+            "uuid": "94f320af-8687-446d-bd1c-7e9a5f4be174",
+            "textureUuid": "ff59eed3-251d-44ec-b812-4f270724f5ef",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941098_image_82.png",
+            "trim": {
+              "x": 1461,
+              "y": 945,
+              "width": 90,
+              "height": 190,
+              "rotatedWidth": 90,
+              "rotatedHeight": 190
+            },
+            "rawWidth": 90,
+            "rawHeight": 190,
+            "width": 96,
+            "height": 196,
+            "originalPath": "F:/git/skqsj/library/imports/ff/ff59eed3-251d-44ec-b812-4f270724f5ef.png",
+            "x": 1458,
+            "y": 942,
+            "rotatedWidth": 96,
+            "rotatedHeight": 196
+          },
+          {
+            "name": "saf",
+            "uuid": "3e3de46f-4a87-45cf-bb52-6f386b6ea4c0",
+            "textureUuid": "197897ec-b46f-405f-b9e3-a5bcb27f0d06",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941093_image_28.png",
+            "trim": {
+              "x": 1557,
+              "y": 982,
+              "width": 177,
+              "height": 178,
+              "rotatedWidth": 178,
+              "rotatedHeight": 177
+            },
+            "rawWidth": 177,
+            "rawHeight": 178,
+            "width": 183,
+            "height": 184,
+            "originalPath": "F:/git/skqsj/library/imports/19/197897ec-b46f-405f-b9e3-a5bcb27f0d06.png",
+            "x": 1554,
+            "y": 979,
+            "rotated": true,
+            "rotatedWidth": 184,
+            "rotatedHeight": 183
+          },
+          {
+            "name": "bat_wing1",
+            "uuid": "b987e900-6065-4b4c-8edf-d5c38880fe61",
+            "textureUuid": "5ed82409-cfb9-4f49-917f-5bb53feb3a9f",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941101_image_105.png",
+            "trim": {
+              "x": 1461,
+              "y": 1141,
+              "width": 108,
+              "height": 89,
+              "rotatedWidth": 89,
+              "rotatedHeight": 108
+            },
+            "rawWidth": 108,
+            "rawHeight": 89,
+            "width": 114,
+            "height": 95,
+            "originalPath": "F:/git/skqsj/library/imports/5e/5ed82409-cfb9-4f49-917f-5bb53feb3a9f.png",
+            "x": 1458,
+            "y": 1138,
+            "rotated": true,
+            "rotatedWidth": 95,
+            "rotatedHeight": 114
+          },
+          {
+            "name": "bat2",
+            "uuid": "19abf6a0-99ba-4c9d-a6fd-dedf1f818c35",
+            "textureUuid": "968d7010-d4e8-46e7-a054-ac98fa5ea028",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941090_image_14.png",
+            "trim": {
+              "x": 1225,
+              "y": 1181,
+              "width": 149,
+              "height": 230,
+              "rotatedWidth": 230,
+              "rotatedHeight": 149
+            },
+            "rawWidth": 149,
+            "rawHeight": 230,
+            "width": 155,
+            "height": 236,
+            "originalPath": "F:/git/skqsj/library/imports/96/968d7010-d4e8-46e7-a054-ac98fa5ea028.png",
+            "x": 1222,
+            "y": 1178,
+            "rotated": true,
+            "rotatedWidth": 236,
+            "rotatedHeight": 155
+          },
+          {
+            "name": "slice190_@",
+            "uuid": "82554679-a0a3-4832-a833-ba990bebe469",
+            "textureUuid": "80609c12-7f0a-459a-aad3-fddaad2400d5",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941097_image_72.png",
+            "trim": {
+              "x": 1079,
+              "y": 1273,
+              "width": 152,
+              "height": 136,
+              "rotatedWidth": 136,
+              "rotatedHeight": 152
+            },
+            "rawWidth": 152,
+            "rawHeight": 136,
+            "width": 158,
+            "height": 142,
+            "originalPath": "F:/git/skqsj/library/imports/80/80609c12-7f0a-459a-aad3-fddaad2400d5.png",
+            "x": 1076,
+            "y": 1270,
+            "rotated": true,
+            "rotatedWidth": 142,
+            "rotatedHeight": 158
+          },
+          {
+            "name": "key8_1",
+            "uuid": "cf73d364-81c6-418e-9f1c-18ceb600f903",
+            "textureUuid": "5c42b7a5-2000-40c9-8189-f8b497dd32d4",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941102_image_115.png",
+            "trim": {
+              "x": 845,
+              "y": 1388,
+              "width": 131,
+              "height": 228,
+              "rotatedWidth": 228,
+              "rotatedHeight": 131
+            },
+            "rawWidth": 131,
+            "rawHeight": 228,
+            "width": 137,
+            "height": 234,
+            "originalPath": "F:/git/skqsj/library/imports/5c/5c42b7a5-2000-40c9-8189-f8b497dd32d4.png",
+            "x": 842,
+            "y": 1385,
+            "rotated": true,
+            "rotatedWidth": 234,
+            "rotatedHeight": 137
+          },
+          {
+            "name": "slice527_@",
+            "uuid": "ec3ebe5d-e4ca-4052-b332-c60c8cc1904f",
+            "textureUuid": "581fb393-32a1-4e01-98a8-66ebf7b610cb",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941104_image_130.png",
+            "trim": {
+              "x": 1556,
+              "y": 1165,
+              "width": 169,
+              "height": 63,
+              "rotatedWidth": 169,
+              "rotatedHeight": 63
+            },
+            "rawWidth": 169,
+            "rawHeight": 63,
+            "width": 175,
+            "height": 69,
+            "originalPath": "F:/git/skqsj/library/imports/58/581fb393-32a1-4e01-98a8-66ebf7b610cb.png",
+            "x": 1553,
+            "y": 1162,
+            "rotatedWidth": 175,
+            "rotatedHeight": 69
+          },
+          {
+            "name": "slice204_@",
+            "uuid": "cc95760b-e79b-49d9-a78b-9f75364f8b0f",
+            "textureUuid": "f95b46fe-6ed8-4206-a0df-7ef6f6758d1f",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941102_image_112.png",
+            "trim": {
+              "x": 1556,
+              "y": 1234,
+              "width": 199,
+              "height": 167,
+              "rotatedWidth": 167,
+              "rotatedHeight": 199
+            },
+            "rawWidth": 199,
+            "rawHeight": 167,
+            "width": 205,
+            "height": 173,
+            "originalPath": "F:/git/skqsj/library/imports/f9/f95b46fe-6ed8-4206-a0df-7ef6f6758d1f.png",
+            "x": 1553,
+            "y": 1231,
+            "rotated": true,
+            "rotatedWidth": 173,
+            "rotatedHeight": 205
+          },
+          {
+            "name": "balloon",
+            "uuid": "f1549f93-b078-4913-847d-9005705a46e7",
+            "textureUuid": "4fb395fd-c3cb-42c1-96b6-5650a846c658",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941104_image_132.png",
+            "trim": {
+              "x": 1461,
+              "y": 1255,
+              "width": 88,
+              "height": 109,
+              "rotatedWidth": 88,
+              "rotatedHeight": 109
+            },
+            "rawWidth": 88,
+            "rawHeight": 109,
+            "width": 94,
+            "height": 115,
+            "originalPath": "F:/git/skqsj/library/imports/4f/4fb395fd-c3cb-42c1-96b6-5650a846c658.png",
+            "x": 1458,
+            "y": 1252,
+            "rotatedWidth": 94,
+            "rotatedHeight": 115
+          },
+          {
+            "name": "slice273_@",
+            "uuid": "ad5b8a95-da66-48d9-b7eb-5bd090093509",
+            "textureUuid": "ede93aea-b632-4ee3-b5fb-de13c0debb42",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941100_image_99.png",
+            "trim": {
+              "x": 781,
+              "y": 1545,
+              "width": 259,
+              "height": 161,
+              "rotatedWidth": 161,
+              "rotatedHeight": 259
+            },
+            "rawWidth": 259,
+            "rawHeight": 161,
+            "width": 265,
+            "height": 167,
+            "originalPath": "F:/git/skqsj/library/imports/ed/ede93aea-b632-4ee3-b5fb-de13c0debb42.png",
+            "x": 778,
+            "y": 1542,
+            "rotated": true,
+            "rotatedWidth": 167,
+            "rotatedHeight": 265
+          },
+          {
+            "name": "slice35_35",
+            "uuid": "9a7b5f9f-a7f7-43af-96b1-b1a39ab6f49d",
+            "textureUuid": "7cea5ee7-90d5-482e-80df-2409791565a0",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941099_image_86.png",
+            "trim": {
+              "x": 1221,
+              "y": 1336,
+              "width": 203,
+              "height": 193,
+              "rotatedWidth": 203,
+              "rotatedHeight": 193
+            },
+            "rawWidth": 203,
+            "rawHeight": 193,
+            "width": 209,
+            "height": 199,
+            "originalPath": "F:/git/skqsj/library/imports/7c/7cea5ee7-90d5-482e-80df-2409791565a0.png",
+            "x": 1218,
+            "y": 1333,
+            "rotatedWidth": 209,
+            "rotatedHeight": 199
+          },
+          {
+            "name": "slice191_@",
+            "uuid": "4831e8d0-5769-4e52-8357-a9eff506048e",
+            "textureUuid": "f7af16c5-ce62-4cca-ac4c-aa9f7533baa7",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941094_image_37.png",
+            "trim": {
+              "x": 1079,
+              "y": 1431,
+              "width": 136,
+              "height": 136,
+              "rotatedWidth": 136,
+              "rotatedHeight": 136
+            },
+            "rawWidth": 136,
+            "rawHeight": 136,
+            "width": 142,
+            "height": 142,
+            "originalPath": "F:/git/skqsj/library/imports/f7/f7af16c5-ce62-4cca-ac4c-aa9f7533baa7.png",
+            "x": 1076,
+            "y": 1428,
+            "rotatedWidth": 142,
+            "rotatedHeight": 142
+          },
+          {
+            "name": "asfsafa",
+            "uuid": "6df33c09-f23a-496b-9406-a51d4f8c13e8",
+            "textureUuid": "b2a4e336-522c-4723-ac00-9893b1cb1a6e",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941096_image_59.png",
+            "trim": {
+              "x": 1430,
+              "y": 1370,
+              "width": 119,
+              "height": 43,
+              "rotatedWidth": 119,
+              "rotatedHeight": 43
+            },
+            "rawWidth": 119,
+            "rawHeight": 43,
+            "width": 125,
+            "height": 49,
+            "originalPath": "F:/git/skqsj/library/imports/b2/b2a4e336-522c-4723-ac00-9893b1cb1a6e.png",
+            "x": 1427,
+            "y": 1367,
+            "rotatedWidth": 125,
+            "rotatedHeight": 49
+          },
+          {
+            "name": "slice232_@",
+            "uuid": "ced85c7a-e524-4dde-980b-9e2779186b41",
+            "textureUuid": "33a8b339-3d37-4f30-8069-a2d299dfe9ed",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941102_image_114.png",
+            "trim": {
+              "x": 948,
+              "y": 1525,
+              "width": 130,
+              "height": 123,
+              "rotatedWidth": 123,
+              "rotatedHeight": 130
+            },
+            "rawWidth": 130,
+            "rawHeight": 123,
+            "width": 136,
+            "height": 129,
+            "originalPath": "F:/git/skqsj/library/imports/33/33a8b339-3d37-4f30-8069-a2d299dfe9ed.png",
+            "x": 945,
+            "y": 1522,
+            "rotated": true,
+            "rotatedWidth": 129,
+            "rotatedHeight": 136
+          },
+          {
+            "name": "slice305_@",
+            "uuid": "2abd3829-f64f-4095-a7fd-a9aa9215ba0f",
+            "textureUuid": "5a02c100-1efa-4b8f-ad80-31112c2d5422",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941091_image_22.png",
+            "trim": {
+              "x": 1430,
+              "y": 1419,
+              "width": 123,
+              "height": 118,
+              "rotatedWidth": 118,
+              "rotatedHeight": 123
+            },
+            "rawWidth": 123,
+            "rawHeight": 118,
+            "width": 129,
+            "height": 124,
+            "originalPath": "F:/git/skqsj/library/imports/5a/5a02c100-1efa-4b8f-ad80-31112c2d5422.png",
+            "x": 1427,
+            "y": 1416,
+            "rotated": true,
+            "rotatedWidth": 124,
+            "rotatedHeight": 129
+          },
+          {
+            "name": "slice33_33",
+            "uuid": "80f83253-8926-4466-95e0-a94ada345892",
+            "textureUuid": "b0975fde-0423-446e-bb60-7da8a004b860",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941097_image_70.png",
+            "trim": {
+              "x": 1221,
+              "y": 1535,
+              "width": 46,
+              "height": 200,
+              "rotatedWidth": 200,
+              "rotatedHeight": 46
+            },
+            "rawWidth": 46,
+            "rawHeight": 200,
+            "width": 52,
+            "height": 206,
+            "originalPath": "F:/git/skqsj/library/imports/b0/b0975fde-0423-446e-bb60-7da8a004b860.png",
+            "x": 1218,
+            "y": 1532,
+            "rotated": true,
+            "rotatedWidth": 206,
+            "rotatedHeight": 52
+          },
+          {
+            "name": "slice205_@",
+            "uuid": "e413e178-da88-41aa-b66c-0b082b1fa8ce",
+            "textureUuid": "8e62e7e2-e835-46c2-a9da-6d8a8662c7b0",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941103_image_125.png",
+            "trim": {
+              "x": 1077,
+              "y": 1573,
+              "width": 135,
+              "height": 134,
+              "rotatedWidth": 135,
+              "rotatedHeight": 134
+            },
+            "rawWidth": 135,
+            "rawHeight": 134,
+            "width": 141,
+            "height": 140,
+            "originalPath": "F:/git/skqsj/library/imports/8e/8e62e7e2-e835-46c2-a9da-6d8a8662c7b0.png",
+            "x": 1074,
+            "y": 1570,
+            "rotatedWidth": 141,
+            "rotatedHeight": 140
+          },
+          {
+            "name": "slice233_@",
+            "uuid": "d51a97a9-1d75-4ec3-96dc-daffbb15c15f",
+            "textureUuid": "2b55b7e3-cd81-4dfa-aaf5-639481897a70",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941103_image_120.png",
+            "trim": {
+              "x": 948,
+              "y": 1661,
+              "width": 130,
+              "height": 123,
+              "rotatedWidth": 123,
+              "rotatedHeight": 130
+            },
+            "rawWidth": 130,
+            "rawHeight": 123,
+            "width": 136,
+            "height": 129,
+            "originalPath": "F:/git/skqsj/library/imports/2b/2b55b7e3-cd81-4dfa-aaf5-639481897a70.png",
+            "x": 945,
+            "y": 1658,
+            "rotated": true,
+            "rotatedWidth": 129,
+            "rotatedHeight": 136
+          },
+          {
+            "name": "slice521_@",
+            "uuid": "482f80a3-0b58-4276-84c1-fc70f573d809",
+            "textureUuid": "f419cb53-2800-4851-9230-3ca6acbc5ba4",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941094_image_36.png",
+            "trim": {
+              "x": 948,
+              "y": 1797,
+              "width": 237,
+              "height": 64,
+              "rotatedWidth": 64,
+              "rotatedHeight": 237
+            },
+            "rawWidth": 237,
+            "rawHeight": 64,
+            "width": 243,
+            "height": 70,
+            "originalPath": "F:/git/skqsj/library/imports/f4/f419cb53-2800-4851-9230-3ca6acbc5ba4.png",
+            "x": 945,
+            "y": 1794,
+            "rotated": true,
+            "rotatedWidth": 70,
+            "rotatedHeight": 243
+          },
+          {
+            "name": "bat_wing4",
+            "uuid": "b1ffe25a-90a3-4763-a7cb-a918b68a574f",
+            "textureUuid": "dc763034-71c0-4bcc-a1b9-54a8084d7c7b",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941100_image_100.png",
+            "trim": {
+              "x": 859,
+              "y": 1810,
+              "width": 82,
+              "height": 69,
+              "rotatedWidth": 82,
+              "rotatedHeight": 69
+            },
+            "rawWidth": 82,
+            "rawHeight": 69,
+            "width": 88,
+            "height": 75,
+            "originalPath": "F:/git/skqsj/library/imports/dc/dc763034-71c0-4bcc-a1b9-54a8084d7c7b.png",
+            "x": 856,
+            "y": 1807,
+            "rotatedWidth": 88,
+            "rotatedHeight": 75
+          },
+          {
+            "name": "slice341_@",
+            "uuid": "1cb2ed32-524f-4ffd-b222-f654d2a70737",
+            "textureUuid": "fa948f97-d081-46f3-996e-658ed336aec8",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941091_image_18.png",
+            "trim": {
+              "x": 859,
+              "y": 1885,
+              "width": 71,
+              "height": 81,
+              "rotatedWidth": 81,
+              "rotatedHeight": 71
+            },
+            "rawWidth": 71,
+            "rawHeight": 81,
+            "width": 77,
+            "height": 87,
+            "originalPath": "F:/git/skqsj/library/imports/fa/fa948f97-d081-46f3-996e-658ed336aec8.png",
+            "x": 856,
+            "y": 1882,
+            "rotated": true,
+            "rotatedWidth": 87,
+            "rotatedHeight": 77
+          },
+          {
+            "name": "slice336_@",
+            "uuid": "3f33b4db-07e6-4b45-8f9a-4b6dd213e881",
+            "textureUuid": "27b18996-ca8e-41d1-bd16-14d194418bfc",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941093_image_29.png",
+            "trim": {
+              "x": 859,
+              "y": 1962,
+              "width": 71,
+              "height": 81,
+              "rotatedWidth": 71,
+              "rotatedHeight": 81
+            },
+            "rawWidth": 71,
+            "rawHeight": 81,
+            "width": 77,
+            "height": 87,
+            "originalPath": "F:/git/skqsj/library/imports/27/27b18996-ca8e-41d1-bd16-14d194418bfc.png",
+            "x": 856,
+            "y": 1959,
+            "rotatedWidth": 77,
+            "rotatedHeight": 87
+          },
+          {
+            "name": "stone2",
+            "uuid": "e2f8547b-186d-49d1-9612-e1dabc2e1c03",
+            "textureUuid": "f47c09b2-0196-44b7-84b3-b629f14f31d0",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941103_image_124.png",
+            "trim": {
+              "x": 1554,
+              "y": 1439,
+              "width": 164,
+              "height": 102,
+              "rotatedWidth": 164,
+              "rotatedHeight": 102
+            },
+            "rawWidth": 164,
+            "rawHeight": 102,
+            "width": 170,
+            "height": 108,
+            "originalPath": "F:/git/skqsj/library/imports/f4/f47c09b2-0196-44b7-84b3-b629f14f31d0.png",
+            "x": 1551,
+            "y": 1436,
+            "rotatedWidth": 170,
+            "rotatedHeight": 108
+          },
+          {
+            "name": "slice251_@",
+            "uuid": "1a713421-0050-4bb8-b599-8cd7e2738cac",
+            "textureUuid": "15ffe8d0-99d8-47d7-b026-e89569b57828",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941091_image_16.png",
+            "trim": {
+              "x": 1554,
+              "y": 1547,
+              "width": 141,
+              "height": 109,
+              "rotatedWidth": 141,
+              "rotatedHeight": 109
+            },
+            "rawWidth": 141,
+            "rawHeight": 109,
+            "width": 147,
+            "height": 115,
+            "originalPath": "F:/git/skqsj/library/imports/15/15ffe8d0-99d8-47d7-b026-e89569b57828.png",
+            "x": 1551,
+            "y": 1544,
+            "rotatedWidth": 147,
+            "rotatedHeight": 115
+          },
+          {
+            "name": "slice239_@",
+            "uuid": "74cce8ab-9b2d-4813-add5-4e043bddb1c2",
+            "textureUuid": "62d25b58-f249-458c-a06c-f063cb65f16c",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941096_image_63.png",
+            "trim": {
+              "x": 1427,
+              "y": 1548,
+              "width": 121,
+              "height": 127,
+              "rotatedWidth": 121,
+              "rotatedHeight": 127
+            },
+            "rawWidth": 121,
+            "rawHeight": 127,
+            "width": 127,
+            "height": 133,
+            "originalPath": "F:/git/skqsj/library/imports/62/62d25b58-f249-458c-a06c-f063cb65f16c.png",
+            "x": 1424,
+            "y": 1545,
+            "rotatedWidth": 127,
+            "rotatedHeight": 133
+          },
+          {
+            "name": "slice200_@",
+            "uuid": "3dd0b5be-2d78-4031-af3b-3e36f5e9c043",
+            "textureUuid": "483a60c6-37b0-4a76-8fc4-33744eaec56b",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941092_image_27.png",
+            "trim": {
+              "x": 1701,
+              "y": 1547,
+              "width": 40,
+              "height": 30,
+              "rotatedWidth": 40,
+              "rotatedHeight": 30
+            },
+            "rawWidth": 40,
+            "rawHeight": 30,
+            "width": 46,
+            "height": 36,
+            "originalPath": "F:/git/skqsj/library/imports/48/483a60c6-37b0-4a76-8fc4-33744eaec56b.png",
+            "x": 1698,
+            "y": 1544,
+            "rotatedWidth": 46,
+            "rotatedHeight": 36
+          },
+          {
+            "name": "slice15_15",
+            "uuid": "a5c32e25-818a-4901-aa07-6801f75f5448",
+            "textureUuid": "e7aa9fa2-6df2-4c28-824d-f8eef5234389",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941100_image_96.png",
+            "trim": {
+              "x": 1701,
+              "y": 1583,
+              "width": 39,
+              "height": 29,
+              "rotatedWidth": 39,
+              "rotatedHeight": 29
+            },
+            "rawWidth": 39,
+            "rawHeight": 29,
+            "width": 45,
+            "height": 35,
+            "originalPath": "F:/git/skqsj/library/imports/e7/e7aa9fa2-6df2-4c28-824d-f8eef5234389.png",
+            "x": 1698,
+            "y": 1580,
+            "rotatedWidth": 45,
+            "rotatedHeight": 35
+          },
+          {
+            "name": "prop100",
+            "uuid": "c7eb0550-6aa1-4dc8-bfa8-558281e94afb",
+            "textureUuid": "f01b1584-8d95-46f9-9f6d-e3aab91315e3",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941101_image_110.png",
+            "trim": {
+              "x": 1701,
+              "y": 1618,
+              "width": 111,
+              "height": 38,
+              "rotatedWidth": 38,
+              "rotatedHeight": 111
+            },
+            "rawWidth": 111,
+            "rawHeight": 38,
+            "width": 117,
+            "height": 44,
+            "originalPath": "F:/git/skqsj/library/imports/f0/f01b1584-8d95-46f9-9f6d-e3aab91315e3.png",
+            "x": 1698,
+            "y": 1615,
+            "rotated": true,
+            "rotatedWidth": 44,
+            "rotatedHeight": 117
+          },
+          {
+            "name": "slice34_34",
+            "uuid": "bb1ad647-85ac-4bb4-a525-f10be31afe01",
+            "textureUuid": "599ac046-e233-4148-a3c6-fced16c65fc0",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941101_image_107.png",
+            "trim": {
+              "x": 1218,
+              "y": 1587,
+              "width": 117,
+              "height": 199,
+              "rotatedWidth": 199,
+              "rotatedHeight": 117
+            },
+            "rawWidth": 117,
+            "rawHeight": 199,
+            "width": 123,
+            "height": 205,
+            "originalPath": "F:/git/skqsj/library/imports/59/599ac046-e233-4148-a3c6-fced16c65fc0.png",
+            "x": 1215,
+            "y": 1584,
+            "rotated": true,
+            "rotatedWidth": 205,
+            "rotatedHeight": 123
+          },
+          {
+            "name": "slice531_@",
+            "uuid": "46c9d1a5-3682-419a-9591-045dbb86536b",
+            "textureUuid": "8f761190-70e3-4a37-b49d-54029eb0b174",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941093_image_33.png",
+            "trim": {
+              "x": 1554,
+              "y": 1662,
+              "width": 135,
+              "height": 63,
+              "rotatedWidth": 135,
+              "rotatedHeight": 63
+            },
+            "rawWidth": 135,
+            "rawHeight": 63,
+            "width": 141,
+            "height": 69,
+            "originalPath": "F:/git/skqsj/library/imports/8f/8f761190-70e3-4a37-b49d-54029eb0b174.png",
+            "x": 1551,
+            "y": 1659,
+            "rotatedWidth": 141,
+            "rotatedHeight": 69
+          },
+          {
+            "name": "slice267_@",
+            "uuid": "8677470e-df4a-4f68-94c6-5d5d88ff54cf",
+            "textureUuid": "460edf58-c558-4a85-afa1-4512254bd448",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941097_image_73.png",
+            "trim": {
+              "x": 1423,
+              "y": 1681,
+              "width": 121,
+              "height": 111,
+              "rotatedWidth": 121,
+              "rotatedHeight": 111
+            },
+            "rawWidth": 121,
+            "rawHeight": 111,
+            "width": 127,
+            "height": 117,
+            "originalPath": "F:/git/skqsj/library/imports/46/460edf58-c558-4a85-afa1-4512254bd448.png",
+            "x": 1420,
+            "y": 1678,
+            "rotatedWidth": 127,
+            "rotatedHeight": 117
+          },
+          {
+            "name": "slice471_@",
+            "uuid": "9d3c08ea-cfa7-4fb7-a8ab-b1aaeaa81ffa",
+            "textureUuid": "fcd57c24-602b-4df7-a8ee-6b9a7409e80a",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941099_image_88.png",
+            "trim": {
+              "x": 1550,
+              "y": 1731,
+              "width": 129,
+              "height": 47,
+              "rotatedWidth": 129,
+              "rotatedHeight": 47
+            },
+            "rawWidth": 129,
+            "rawHeight": 47,
+            "width": 135,
+            "height": 53,
+            "originalPath": "F:/git/skqsj/library/imports/fc/fcd57c24-602b-4df7-a8ee-6b9a7409e80a.png",
+            "x": 1547,
+            "y": 1728,
+            "rotatedWidth": 135,
+            "rotatedHeight": 53
+          },
+          {
+            "name": "l_01-@1_06",
+            "uuid": "94e68745-136e-4622-86e7-1c5453037cdb",
+            "textureUuid": "2106be6c-624e-47a8-a1cf-c25abb43ed1b",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941098_image_81.png",
+            "trim": {
+              "x": 1685,
+              "y": 1735,
+              "width": 76,
+              "height": 57,
+              "rotatedWidth": 57,
+              "rotatedHeight": 76
+            },
+            "rawWidth": 77,
+            "rawHeight": 61,
+            "width": 82,
+            "height": 63,
+            "originalPath": "F:/git/skqsj/library/imports/21/2106be6c-624e-47a8-a1cf-c25abb43ed1b.png",
+            "x": 1682,
+            "y": 1732,
+            "rotated": true,
+            "rotatedWidth": 63,
+            "rotatedHeight": 82
+          },
+          {
+            "name": "prop101",
+            "uuid": "7807cd29-6a69-406a-b4ac-36660ca5f8cc",
+            "textureUuid": "ea25a7ee-e4c6-4341-9fef-0675faf655d6",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941096_image_64.png",
+            "trim": {
+              "x": 1550,
+              "y": 1784,
+              "width": 128,
+              "height": 37,
+              "rotatedWidth": 128,
+              "rotatedHeight": 37
+            },
+            "rawWidth": 128,
+            "rawHeight": 37,
+            "width": 134,
+            "height": 43,
+            "originalPath": "F:/git/skqsj/library/imports/ea/ea25a7ee-e4c6-4341-9fef-0675faf655d6.png",
+            "x": 1547,
+            "y": 1781,
+            "rotatedWidth": 134,
+            "rotatedHeight": 43
+          },
+          {
+            "name": "l_01-@1_03",
+            "uuid": "f70f9a90-b04a-4ae9-8979-1acf6c09f107",
+            "textureUuid": "505a1e8b-4f93-4494-ade8-9ee5b6dcfaaf",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941105_image_135.png",
+            "trim": {
+              "x": 1684,
+              "y": 1817,
+              "width": 65,
+              "height": 58,
+              "rotatedWidth": 58,
+              "rotatedHeight": 65
+            },
+            "rawWidth": 69,
+            "rawHeight": 61,
+            "width": 71,
+            "height": 64,
+            "originalPath": "F:/git/skqsj/library/imports/50/505a1e8b-4f93-4494-ade8-9ee5b6dcfaaf.png",
+            "x": 1681,
+            "y": 1814,
+            "rotated": true,
+            "rotatedWidth": 64,
+            "rotatedHeight": 71
+          },
+          {
+            "name": "slice294_@",
+            "uuid": "128ac983-62d1-477d-befb-e67b2b7db519",
+            "textureUuid": "5551ad5d-7d69-426e-bc33-3868f00c26d8",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941090_image_11.png",
+            "trim": {
+              "x": 1018,
+              "y": 1888,
+              "width": 108,
+              "height": 103,
+              "rotatedWidth": 103,
+              "rotatedHeight": 108
+            },
+            "rawWidth": 108,
+            "rawHeight": 103,
+            "width": 114,
+            "height": 109,
+            "originalPath": "F:/git/skqsj/library/imports/55/5551ad5d-7d69-426e-bc33-3868f00c26d8.png",
+            "x": 1015,
+            "y": 1885,
+            "rotated": true,
+            "rotatedWidth": 109,
+            "rotatedHeight": 114
+          },
+          {
+            "name": "l_01-@1_12-23",
+            "uuid": "ceadc03b-c12c-4665-ba27-89e0afafae37",
+            "textureUuid": "6a191d2d-d025-4129-92db-156784365b8d",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941102_image_113.png",
+            "trim": {
+              "x": 1018,
+              "y": 1827,
+              "width": 80,
+              "height": 55,
+              "rotatedWidth": 80,
+              "rotatedHeight": 55
+            },
+            "rawWidth": 83,
+            "rawHeight": 58,
+            "width": 86,
+            "height": 61,
+            "originalPath": "F:/git/skqsj/library/imports/6a/6a191d2d-d025-4129-92db-156784365b8d.png",
+            "x": 1015,
+            "y": 1824,
+            "rotatedWidth": 86,
+            "rotatedHeight": 61
+          },
+          {
+            "name": "bbbb",
+            "uuid": "084c16d5-0770-47fe-ad91-327617a8bff6",
+            "textureUuid": "d1183df1-327e-4449-971f-3d2b97f2e8c7",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941089_image_1.png",
+            "trim": {
+              "x": 1104,
+              "y": 1827,
+              "width": 69,
+              "height": 55,
+              "rotatedWidth": 69,
+              "rotatedHeight": 55
+            },
+            "rawWidth": 69,
+            "rawHeight": 55,
+            "width": 75,
+            "height": 61,
+            "originalPath": "F:/git/skqsj/library/imports/d1/d1183df1-327e-4449-971f-3d2b97f2e8c7.png",
+            "x": 1101,
+            "y": 1824,
+            "rotatedWidth": 75,
+            "rotatedHeight": 61
+          },
+          {
+            "name": "slice503_@",
+            "uuid": "2a403582-6042-4e4b-b40f-e9500a5ffc7b",
+            "textureUuid": "57897b33-8e5e-421d-b30d-53291f38f3e4",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941091_image_21.png",
+            "trim": {
+              "x": 1018,
+              "y": 2002,
+              "width": 101,
+              "height": 43,
+              "rotatedWidth": 101,
+              "rotatedHeight": 43
+            },
+            "rawWidth": 101,
+            "rawHeight": 43,
+            "width": 107,
+            "height": 49,
+            "originalPath": "F:/git/skqsj/library/imports/57/57897b33-8e5e-421d-b30d-53291f38f3e4.png",
+            "x": 1015,
+            "y": 1999,
+            "rotatedWidth": 107,
+            "rotatedHeight": 49
+          },
+          {
+            "name": "bat_wing3",
+            "uuid": "a1bff4d9-ba18-46ee-b870-6873d438cf13",
+            "textureUuid": "90ba97bf-6227-4a30-8648-3745eb4ce43b",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941099_image_92.png",
+            "trim": {
+              "x": 1077,
+              "y": 1713,
+              "width": 106,
+              "height": 69,
+              "rotatedWidth": 69,
+              "rotatedHeight": 106
+            },
+            "rawWidth": 106,
+            "rawHeight": 69,
+            "width": 112,
+            "height": 75,
+            "originalPath": "F:/git/skqsj/library/imports/90/90ba97bf-6227-4a30-8648-3745eb4ce43b.png",
+            "x": 1074,
+            "y": 1710,
+            "rotated": true,
+            "rotatedWidth": 75,
+            "rotatedHeight": 112
+          },
+          {
+            "name": "texTips8",
+            "uuid": "f6e81b9c-7043-4075-858d-87bc9883c060",
+            "textureUuid": "9f52551b-640c-4baf-abf6-542fba0af71e",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941104_image_134.png",
+            "trim": {
+              "x": 1152,
+              "y": 1713,
+              "width": 105,
+              "height": 34,
+              "rotatedWidth": 34,
+              "rotatedHeight": 105
+            },
+            "rawWidth": 105,
+            "rawHeight": 34,
+            "width": 111,
+            "height": 40,
+            "originalPath": "F:/git/skqsj/library/imports/9f/9f52551b-640c-4baf-abf6-542fba0af71e.png",
+            "x": 1149,
+            "y": 1710,
+            "rotated": true,
+            "rotatedWidth": 40,
+            "rotatedHeight": 111
+          },
+          {
+            "name": "slice347_@",
+            "uuid": "d53cb9c0-a826-4b36-aea7-2d217a014381",
+            "textureUuid": "bab94ec5-e306-4f14-b8d6-f116a3c11f5d",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941103_image_121.png",
+            "trim": {
+              "x": 1125,
+              "y": 2002,
+              "width": 53,
+              "height": 37,
+              "rotatedWidth": 53,
+              "rotatedHeight": 37
+            },
+            "rawWidth": 53,
+            "rawHeight": 37,
+            "width": 59,
+            "height": 43,
+            "originalPath": "F:/git/skqsj/library/imports/ba/bab94ec5-e306-4f14-b8d6-f116a3c11f5d.png",
+            "x": 1122,
+            "y": 1999,
+            "rotatedWidth": 59,
+            "rotatedHeight": 43
+          },
+          {
+            "name": "bat_win2",
+            "uuid": "bef6ce9e-75cd-4710-bfb3-a1287e4f2467",
+            "textureUuid": "3915053e-19cd-497f-a33b-5e38c872c727",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941101_image_108.png",
+            "trim": {
+              "x": 1127,
+              "y": 1888,
+              "width": 88,
+              "height": 65,
+              "rotatedWidth": 65,
+              "rotatedHeight": 88
+            },
+            "rawWidth": 88,
+            "rawHeight": 65,
+            "width": 94,
+            "height": 71,
+            "originalPath": "F:/git/skqsj/library/imports/39/3915053e-19cd-497f-a33b-5e38c872c727.png",
+            "x": 1124,
+            "y": 1885,
+            "rotated": true,
+            "rotatedWidth": 71,
+            "rotatedHeight": 94
+          },
+          {
+            "name": "slice534_@",
+            "uuid": "69b66e19-d631-4df4-a2f3-30a17016bdf6",
+            "textureUuid": "07b1d87e-fb66-4c20-991f-5afb172ece3b",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941096_image_58.png",
+            "trim": {
+              "x": 1184,
+              "y": 1982,
+              "width": 66,
+              "height": 63,
+              "rotatedWidth": 66,
+              "rotatedHeight": 63
+            },
+            "rawWidth": 66,
+            "rawHeight": 63,
+            "width": 72,
+            "height": 69,
+            "originalPath": "F:/git/skqsj/library/imports/07/07b1d87e-fb66-4c20-991f-5afb172ece3b.png",
+            "x": 1181,
+            "y": 1979,
+            "rotatedWidth": 72,
+            "rotatedHeight": 69
+          },
+          {
+            "name": "l_01-@1_10",
+            "uuid": "657774bc-234c-419b-a163-f091fbc626a7",
+            "textureUuid": "125b83b7-294f-4b58-9dcd-f8d1be4602bd",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941096_image_57.png",
+            "trim": {
+              "x": 1179,
+              "y": 1824,
+              "width": 64,
+              "height": 57,
+              "rotatedWidth": 64,
+              "rotatedHeight": 57
+            },
+            "rawWidth": 67,
+            "rawHeight": 61,
+            "width": 70,
+            "height": 63,
+            "originalPath": "F:/git/skqsj/library/imports/12/125b83b7-294f-4b58-9dcd-f8d1be4602bd.png",
+            "x": 1176,
+            "y": 1821,
+            "rotatedWidth": 70,
+            "rotatedHeight": 63
+          },
+          {
+            "name": "cactus_nimi9",
+            "uuid": "11761c33-bba1-4f60-8200-a129b6153613",
+            "textureUuid": "0c7a216b-ae49-4dfa-b3a6-e017233b2cad",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941090_image_10.png",
+            "trim": {
+              "x": 1198,
+              "y": 1888,
+              "width": 71,
+              "height": 80,
+              "rotatedWidth": 71,
+              "rotatedHeight": 80
+            },
+            "rawWidth": 71,
+            "rawHeight": 80,
+            "width": 77,
+            "height": 86,
+            "originalPath": "F:/git/skqsj/library/imports/0c/0c7a216b-ae49-4dfa-b3a6-e017233b2cad.png",
+            "x": 1195,
+            "y": 1885,
+            "rotatedWidth": 77,
+            "rotatedHeight": 86
+          },
+          {
+            "name": "ccc",
+            "uuid": "8ef8d82e-b788-4d04-95ee-d1364b63c7fe",
+            "textureUuid": "1e50af15-4cb5-4ad1-baf9-5d4c286c8a56",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941098_image_76.png",
+            "trim": {
+              "x": 1256,
+              "y": 1974,
+              "width": 71,
+              "height": 51,
+              "rotatedWidth": 51,
+              "rotatedHeight": 71
+            },
+            "rawWidth": 71,
+            "rawHeight": 51,
+            "width": 77,
+            "height": 57,
+            "originalPath": "F:/git/skqsj/library/imports/1e/1e50af15-4cb5-4ad1-baf9-5d4c286c8a56.png",
+            "x": 1253,
+            "y": 1971,
+            "rotated": true,
+            "rotatedWidth": 57,
+            "rotatedHeight": 77
+          },
+          {
+            "name": "l_01-@1_12",
+            "uuid": "7925a300-7066-4969-9bff-544b16d7f3bd",
+            "textureUuid": "29cc7856-90c8-4694-8ed4-bb35dd5c751e",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941096_image_65.png",
+            "trim": {
+              "x": 1249,
+              "y": 1827,
+              "width": 54,
+              "height": 56,
+              "rotatedWidth": 56,
+              "rotatedHeight": 54
+            },
+            "rawWidth": 69,
+            "rawHeight": 58,
+            "width": 60,
+            "height": 62,
+            "originalPath": "F:/git/skqsj/library/imports/29/29cc7856-90c8-4694-8ed4-bb35dd5c751e.png",
+            "x": 1246,
+            "y": 1824,
+            "rotated": true,
+            "rotatedWidth": 62,
+            "rotatedHeight": 60
+          },
+          {
+            "name": "rocket",
+            "uuid": "9f26094a-045f-4df3-93df-27047921a622",
+            "textureUuid": "2621216b-9cbf-4087-99b9-7614eb10d791",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941099_image_90.png",
+            "trim": {
+              "x": 1275,
+              "y": 1888,
+              "width": 76,
+              "height": 35,
+              "rotatedWidth": 35,
+              "rotatedHeight": 76
+            },
+            "rawWidth": 76,
+            "rawHeight": 35,
+            "width": 82,
+            "height": 41,
+            "originalPath": "F:/git/skqsj/library/imports/26/2621216b-9cbf-4087-99b9-7614eb10d791.png",
+            "x": 1272,
+            "y": 1885,
+            "rotated": true,
+            "rotatedWidth": 41,
+            "rotatedHeight": 82
+          },
+          {
+            "name": "floor16",
+            "uuid": "1a12bf83-eda3-4304-b2df-67733a96cc4d",
+            "textureUuid": "737078e4-896d-44a0-86b4-65be3965b783",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941091_image_15.png",
+            "trim": {
+              "x": 1311,
+              "y": 1827,
+              "width": 50,
+              "height": 54,
+              "rotatedWidth": 50,
+              "rotatedHeight": 54
+            },
+            "rawWidth": 50,
+            "rawHeight": 54,
+            "width": 56,
+            "height": 60,
+            "originalPath": "F:/git/skqsj/library/imports/73/737078e4-896d-44a0-86b4-65be3965b783.png",
+            "x": 1308,
+            "y": 1824,
+            "rotatedWidth": 56,
+            "rotatedHeight": 60
+          },
+          {
+            "name": "floor18",
+            "uuid": "a55b8445-9b24-4cd8-a874-c66a9a71273a",
+            "textureUuid": "57af94cf-745f-4c34-b36d-2a9b61f5d3bc",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941100_image_95.png",
+            "trim": {
+              "x": 1367,
+              "y": 1710,
+              "width": 50,
+              "height": 54,
+              "rotatedWidth": 50,
+              "rotatedHeight": 54
+            },
+            "rawWidth": 50,
+            "rawHeight": 54,
+            "width": 56,
+            "height": 60,
+            "originalPath": "F:/git/skqsj/library/imports/57/57af94cf-745f-4c34-b36d-2a9b61f5d3bc.png",
+            "x": 1364,
+            "y": 1707,
+            "rotatedWidth": 56,
+            "rotatedHeight": 60
+          },
+          {
+            "name": "bee5",
+            "uuid": "1adf85fa-4d1a-4fc2-8ca2-a4666753947b",
+            "textureUuid": "04ce5aba-1908-4e78-9f15-0e02290a700b",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941091_image_17.png",
+            "trim": {
+              "x": 1249,
+              "y": 1770,
+              "width": 51,
+              "height": 52,
+              "rotatedWidth": 52,
+              "rotatedHeight": 51
+            },
+            "rawWidth": 51,
+            "rawHeight": 52,
+            "width": 57,
+            "height": 58,
+            "originalPath": "F:/git/skqsj/library/imports/04/04ce5aba-1908-4e78-9f15-0e02290a700b.png",
+            "x": 1246,
+            "y": 1767,
+            "rotated": true,
+            "rotatedWidth": 58,
+            "rotatedHeight": 57
+          },
+          {
+            "name": "bee4",
+            "uuid": "9b685496-a32d-4896-8773-12519d8b2444",
+            "textureUuid": "6adac45f-7e82-4165-8e72-480ea5fca6a8",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941099_image_87.png",
+            "trim": {
+              "x": 1192,
+              "y": 1713,
+              "width": 51,
+              "height": 52,
+              "rotatedWidth": 51,
+              "rotatedHeight": 52
+            },
+            "rawWidth": 51,
+            "rawHeight": 52,
+            "width": 57,
+            "height": 58,
+            "originalPath": "F:/git/skqsj/library/imports/6a/6adac45f-7e82-4165-8e72-480ea5fca6a8.png",
+            "x": 1189,
+            "y": 1710,
+            "rotatedWidth": 57,
+            "rotatedHeight": 58
+          },
+          {
+            "name": "slice421_@",
+            "uuid": "47ea1ba8-bcd2-4b79-a7b4-1c55ee41187a",
+            "textureUuid": "25cc8e22-0c4e-4729-9ae8-cfc6b7dd58ca",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941094_image_35.png",
+            "trim": {
+              "x": 1313,
+              "y": 1970,
+              "width": 73,
+              "height": 74,
+              "rotatedWidth": 73,
+              "rotatedHeight": 74
+            },
+            "rawWidth": 73,
+            "rawHeight": 74,
+            "width": 79,
+            "height": 80,
+            "originalPath": "F:/git/skqsj/library/imports/25/25cc8e22-0c4e-4729-9ae8-cfc6b7dd58ca.png",
+            "x": 1310,
+            "y": 1967,
+            "rotatedWidth": 79,
+            "rotatedHeight": 80
+          },
+          {
+            "name": "l_01-@1_15",
+            "uuid": "56a277d4-c770-4235-a5af-8e4c2a5821e4",
+            "textureUuid": "c4f66919-5fdf-408d-a5f5-8bc37bd51eb2",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941095_image_44.png",
+            "trim": {
+              "x": 1307,
+              "y": 1710,
+              "width": 72,
+              "height": 52,
+              "rotatedWidth": 52,
+              "rotatedHeight": 72
+            },
+            "rawWidth": 76,
+            "rawHeight": 61,
+            "width": 78,
+            "height": 58,
+            "originalPath": "F:/git/skqsj/library/imports/c4/c4f66919-5fdf-408d-a5f5-8bc37bd51eb2.png",
+            "x": 1304,
+            "y": 1707,
+            "rotated": true,
+            "rotatedWidth": 58,
+            "rotatedHeight": 78
+          },
+          {
+            "name": "cactus_nimi5",
+            "uuid": "a2d6e398-9c9a-4681-8f22-6da6f01ac532",
+            "textureUuid": "dc4686c1-1372-44ed-8743-70a6a82f40d4",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941100_image_93.png",
+            "trim": {
+              "x": 1316,
+              "y": 1888,
+              "width": 64,
+              "height": 74,
+              "rotatedWidth": 64,
+              "rotatedHeight": 74
+            },
+            "rawWidth": 64,
+            "rawHeight": 74,
+            "width": 70,
+            "height": 80,
+            "originalPath": "F:/git/skqsj/library/imports/dc/dc4686c1-1372-44ed-8743-70a6a82f40d4.png",
+            "x": 1313,
+            "y": 1885,
+            "rotatedWidth": 70,
+            "rotatedHeight": 80
+          },
+          {
+            "name": "bee2",
+            "uuid": "7a1499c7-8534-4fd1-84bb-27a000d797a9",
+            "textureUuid": "bb8c4258-f493-40bc-8f4b-df3ed40c7f11",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941096_image_66.png",
+            "trim": {
+              "x": 1367,
+              "y": 1827,
+              "width": 57,
+              "height": 52,
+              "rotatedWidth": 57,
+              "rotatedHeight": 52
+            },
+            "rawWidth": 57,
+            "rawHeight": 52,
+            "width": 63,
+            "height": 58,
+            "originalPath": "F:/git/skqsj/library/imports/bb/bb8c4258-f493-40bc-8f4b-df3ed40c7f11.png",
+            "x": 1364,
+            "y": 1824,
+            "rotatedWidth": 63,
+            "rotatedHeight": 58
+          },
+          {
+            "name": "texTips5",
+            "uuid": "475043fe-e8a0-421b-a34f-bf7124035e22",
+            "textureUuid": "c34bc70b-74b7-4972-9f46-f23cc7e3e510",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941094_image_34.png",
+            "trim": {
+              "x": 1386,
+              "y": 1888,
+              "width": 68,
+              "height": 72,
+              "rotatedWidth": 68,
+              "rotatedHeight": 72
+            },
+            "rawWidth": 68,
+            "rawHeight": 72,
+            "width": 74,
+            "height": 78,
+            "originalPath": "F:/git/skqsj/library/imports/c3/c34bc70b-74b7-4972-9f46-f23cc7e3e510.png",
+            "x": 1383,
+            "y": 1885,
+            "rotatedWidth": 74,
+            "rotatedHeight": 78
+          },
+          {
+            "name": "bee1",
+            "uuid": "973a9a57-2aa9-44df-8004-9941d6f2241e",
+            "textureUuid": "dab3861e-8653-42ad-a7d4-76ff4d55bd1e",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941098_image_83.png",
+            "trim": {
+              "x": 1430,
+              "y": 1827,
+              "width": 57,
+              "height": 52,
+              "rotatedWidth": 57,
+              "rotatedHeight": 52
+            },
+            "rawWidth": 57,
+            "rawHeight": 52,
+            "width": 63,
+            "height": 58,
+            "originalPath": "F:/git/skqsj/library/imports/da/dab3861e-8653-42ad-a7d4-76ff4d55bd1e.png",
+            "x": 1427,
+            "y": 1824,
+            "rotatedWidth": 63,
+            "rotatedHeight": 58
+          },
+          {
+            "name": "slice12_12",
+            "uuid": "c99546d3-258b-44a0-8c99-76b781455927",
+            "textureUuid": "f060ed39-6be4-467f-b4e5-62fc13a57ce7",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941101_image_111.png",
+            "trim": {
+              "x": 1307,
+              "y": 1788,
+              "width": 37,
+              "height": 27,
+              "rotatedWidth": 37,
+              "rotatedHeight": 27
+            },
+            "rawWidth": 37,
+            "rawHeight": 27,
+            "width": 43,
+            "height": 33,
+            "originalPath": "F:/git/skqsj/library/imports/f0/f060ed39-6be4-467f-b4e5-62fc13a57ce7.png",
+            "x": 1304,
+            "y": 1785,
+            "rotatedWidth": 43,
+            "rotatedHeight": 33
+          },
+          {
+            "name": "texTips9",
+            "uuid": "0ea1a72f-a373-4370-a14d-05fbc7c4ca42",
+            "textureUuid": "bb123f3b-2699-4482-baca-1bb362f3fbc9",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941089_image_7.png",
+            "trim": {
+              "x": 1350,
+              "y": 1788,
+              "width": 37,
+              "height": 26,
+              "rotatedWidth": 37,
+              "rotatedHeight": 26
+            },
+            "rawWidth": 37,
+            "rawHeight": 26,
+            "width": 43,
+            "height": 32,
+            "originalPath": "F:/git/skqsj/library/imports/bb/bb123f3b-2699-4482-baca-1bb362f3fbc9.png",
+            "x": 1347,
+            "y": 1785,
+            "rotatedWidth": 43,
+            "rotatedHeight": 32
+          },
+          {
+            "name": "floor15",
+            "uuid": "261232bf-013e-42b2-aef8-6945e5ecbc8b",
+            "textureUuid": "e6838bc0-3b55-44d4-ae43-d0220156f90e",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941091_image_20.png",
+            "trim": {
+              "x": 1392,
+              "y": 1966,
+              "width": 34,
+              "height": 70,
+              "rotatedWidth": 34,
+              "rotatedHeight": 70
+            },
+            "rawWidth": 34,
+            "rawHeight": 70,
+            "width": 40,
+            "height": 76,
+            "originalPath": "F:/git/skqsj/library/imports/e6/e6838bc0-3b55-44d4-ae43-d0220156f90e.png",
+            "x": 1389,
+            "y": 1963,
+            "rotatedWidth": 40,
+            "rotatedHeight": 76
+          },
+          {
+            "name": "slice460_@",
+            "uuid": "23ddd836-a3fb-44f2-b9dd-ec3380a6f674",
+            "textureUuid": "b008e3a2-b8c0-4c81-a0a2-0bbee600470b",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941091_image_19.png",
+            "trim": {
+              "x": 1432,
+              "y": 1966,
+              "width": 64,
+              "height": 64,
+              "rotatedWidth": 64,
+              "rotatedHeight": 64
+            },
+            "rawWidth": 64,
+            "rawHeight": 64,
+            "width": 70,
+            "height": 70,
+            "originalPath": "F:/git/skqsj/library/imports/b0/b008e3a2-b8c0-4c81-a0a2-0bbee600470b.png",
+            "x": 1429,
+            "y": 1963,
+            "rotatedWidth": 70,
+            "rotatedHeight": 70
+          },
+          {
+            "name": "l_01-@1_12-19",
+            "uuid": "745581ab-437d-4e69-9131-0e3cd2475906",
+            "textureUuid": "35ab2e7c-3108-4c19-a8e1-ca7cbc9469de",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941096_image_62.png",
+            "trim": {
+              "x": 1460,
+              "y": 1888,
+              "width": 64,
+              "height": 57,
+              "rotatedWidth": 57,
+              "rotatedHeight": 64
+            },
+            "rawWidth": 66,
+            "rawHeight": 58,
+            "width": 70,
+            "height": 63,
+            "originalPath": "F:/git/skqsj/library/imports/35/35ab2e7c-3108-4c19-a8e1-ca7cbc9469de.png",
+            "x": 1457,
+            "y": 1885,
+            "rotated": true,
+            "rotatedWidth": 63,
+            "rotatedHeight": 70
+          },
+          {
+            "name": "bee3",
+            "uuid": "491018b4-44a1-4dee-8ab4-2b14fd2149d2",
+            "textureUuid": "e80931eb-0738-4754-81eb-e3224c1157ad",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941094_image_38.png",
+            "trim": {
+              "x": 1493,
+              "y": 1827,
+              "width": 56,
+              "height": 52,
+              "rotatedWidth": 56,
+              "rotatedHeight": 52
+            },
+            "rawWidth": 56,
+            "rawHeight": 52,
+            "width": 62,
+            "height": 58,
+            "originalPath": "F:/git/skqsj/library/imports/e8/e80931eb-0738-4754-81eb-e3224c1157ad.png",
+            "x": 1490,
+            "y": 1824,
+            "rotatedWidth": 62,
+            "rotatedHeight": 58
+          },
+          {
+            "name": "l_01-@1_09",
+            "uuid": "b3849ab1-9f86-434d-bf1b-7a233f32a656",
+            "textureUuid": "18e6d2d3-9d95-40d5-922b-ba369a35a817",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941100_image_102.png",
+            "trim": {
+              "x": 1502,
+              "y": 1958,
+              "width": 64,
+              "height": 57,
+              "rotatedWidth": 57,
+              "rotatedHeight": 64
+            },
+            "rawWidth": 67,
+            "rawHeight": 61,
+            "width": 70,
+            "height": 63,
+            "originalPath": "F:/git/skqsj/library/imports/18/18e6d2d3-9d95-40d5-922b-ba369a35a817.png",
+            "x": 1499,
+            "y": 1955,
+            "rotated": true,
+            "rotatedWidth": 63,
+            "rotatedHeight": 70
+          },
+          {
+            "name": "l_01-@1_12-20",
+            "uuid": "567ed869-dacf-4f82-bf34-f353b41b3a3a",
+            "textureUuid": "6d2565b5-2065-4cc6-8fa9-8600e538d4d0",
+            "path": "F:\\git\\skqsj\\temp\\trimImages\\spritesheet_js_1613816941094_image_43.png",
+            "trim": {
+              "x": 1523,
+              "y": 1888,
+              "width": 63,
+              "height": 57,
+              "rotatedWidth": 57,
+              "rotatedHeight": 63
+            },
+            "rawWidth": 66,
+            "rawHeight": 58,
+            "width": 69,
+            "height": 63,
+            "originalPath": "F:/git/skqsj/library/imports/6d/6d2565b5-2065-4cc6-8fa9-8600e538d4d0.png",
+            "x": 1520,
+            "y": 1885,
+            "rotated": true,
+            "rotatedWidth": 63,
+            "rotatedHeight": 69
+          }
+        ],
+        "width": 1745,
+        "height": 2048,
+        "name": "AutoAtlas-1",
+        "imagePath": "F:\\git\\skqsj\\temp\\TexturePacker\\build\\raw-assets\\prop\\AutoAtlas.pac\\AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "F:\\git\\skqsj\\temp\\TexturePacker\\build\\raw-assets\\prop\\AutoAtlas.pac\\compressed\\AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

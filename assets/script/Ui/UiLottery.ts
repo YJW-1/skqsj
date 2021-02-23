@@ -181,6 +181,10 @@ export default class UiLottery extends UIPage {
 
     protected onOpen() {
         this.scaleNode.scale = 0;
+
+        
+        cocosz.gameMgr.isDelay = false;
+        
         cc.tween(this.scaleNode)
             .to(0.2, { scale: 1 })
             .call(() => {

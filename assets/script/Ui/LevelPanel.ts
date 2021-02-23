@@ -43,7 +43,7 @@ export default class LevelPanel extends UIPage {
         }
     }
     private _onLoad() {
-        this.BtnVideo = cc.find("Canvas/ui/LevelPanel/ScaleNode/BtnVideo");
+        // this.BtnVideo = cc.find("Canvas/ui/LevelPanel/ScaleNode/BtnVideo");
         this.Back = cc.find("Canvas/ui/LevelPanel/ScaleNode/Back");
         this.content = cc.find("Canvas/ui/LevelPanel/ScaleNode/PageView/view/content");
         this.ScaleNode = cc.find("Canvas/ui/LevelPanel/ScaleNode");
@@ -61,7 +61,7 @@ export default class LevelPanel extends UIPage {
     private _Start() {
         // cc.log(this.Back)
         this.Back.on(cc.Node.EventType.TOUCH_END, this.OnBack, this);
-        this.BtnVideo.on(cc.Node.EventType.TOUCH_END, this.onGetCoin, this);
+        // this.BtnVideo.on(cc.Node.EventType.TOUCH_END, this.onGetCoin, this);
 
         this._ClonItem();
     }
